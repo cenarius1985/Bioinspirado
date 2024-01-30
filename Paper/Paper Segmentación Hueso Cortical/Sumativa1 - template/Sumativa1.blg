@@ -1,0 +1,181 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: Sumativa1.aux
+Reallocating 'name_of_file' (item size: 1) to 9 items.
+The style file: IEEEtran.bst
+Reallocating 'name_of_file' (item size: 1) to 9 items.
+Reallocating 'name_of_file' (item size: 1) to 11 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'wiz_functions' (item size: 4) to 6000 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Database file #1: IEEEabrv.bib
+Database file #2: references.bib
+Repeated entry---line 1316 of file references.bib
+ : @article{Abualigah2023
+ :                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1327 of file references.bib
+ : @article{Bandyopadhyay2021
+ :                           ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1339 of file references.bib
+ : @article{Iswisi2021
+ :                    ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1352 of file references.bib
+ : @article{Ma2023
+ :                ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1378 of file references.bib
+ : @article{Chakraborty2022
+ :                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1391 of file references.bib
+ : @article{Elyan2022
+ :                   ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1400 of file references.bib
+ : @article{An2020
+ :                ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1412 of file references.bib
+ : @article{nyman2008measurements
+ :                               ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1438 of file references.bib
+ : @article{Jerban2023
+ :                    ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1462 of file references.bib
+ : @article{Surowiec2021
+ :                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1474 of file references.bib
+ : @article{Xing2023
+ :                  ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1486 of file references.bib
+ : @article{Ryalat2022
+ :                    ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1499 of file references.bib
+ : @article{Weizhu2022
+ :                    ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1511 of file references.bib
+ : @article{Peng2023
+ :                  ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1560 of file references.bib
+ : @article{Sharma2023
+ :                    ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1574 of file references.bib
+ : @article{Xing2020
+ :                  ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1586 of file references.bib
+ : @article{Zhao2023
+ :                  ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1611 of file references.bib
+ : @article{Sankur2004
+ :                    ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1625 of file references.bib
+ : @article{Pun1980
+ :                 ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1638 of file references.bib
+ : @article{Alsattar2019
+ :                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1651 of file references.bib
+ : @article{Heidari2019
+ :                     ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1677 of file references.bib
+ : @article{Jiang2022
+ :                   ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1689 of file references.bib
+ : @article{Askarzadeh2016
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1701 of file references.bib
+ : @article{Mirjalili2014
+ :                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1713 of file references.bib
+ : @article{Hashim2022
+ :                    ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1725 of file references.bib
+ : @article{Xie2021
+ :                 ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1738 of file references.bib
+ : @article{Abualigah2022
+ :                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2328 of file references.bib
+ : @article{segmentation_bandyopadhyay_2021
+ :                                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2402 of file references.bib
+ : @article{du2012evaluacion
+ :                          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2415 of file references.bib
+ : @article{jones2023automated
+ :                            ,
+I'm skipping whatever remains of this entry
+-- IEEEtran.bst version 1.14 (2015/08/26) by Michael Shell.
+-- http://www.michaelshell.org/tex/ieeetran/bibtex/
+-- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
+
+Done.
+You've used 31 entries,
+            4087 wiz_defined-function locations,
+            1589 strings with 26290 characters,
+and the built_in function-call counts, 26921 in all, are:
+= -- 2364
+> -- 745
+< -- 181
++ -- 390
+- -- 158
+* -- 1399
+:= -- 4222
+add.period$ -- 62
+call.type$ -- 31
+change.case$ -- 32
+chr.to.int$ -- 333
+cite$ -- 31
+duplicate$ -- 1951
+empty$ -- 1836
+format.name$ -- 178
+if$ -- 6203
+int.to.chr$ -- 0
+int.to.str$ -- 31
+missing$ -- 347
+newline$ -- 176
+num.names$ -- 31
+pop$ -- 711
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 2
+skip$ -- 2110
+stack$ -- 0
+substring$ -- 992
+swap$ -- 1729
+text.length$ -- 70
+text.prefix$ -- 0
+top$ -- 5
+type$ -- 31
+warning$ -- 0
+while$ -- 105
+width$ -- 33
+write$ -- 431
+(There were 30 error messages)
