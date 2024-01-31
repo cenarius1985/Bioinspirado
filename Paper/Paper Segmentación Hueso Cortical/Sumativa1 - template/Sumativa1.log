@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.1.30)  30 JAN 2024 15:37
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.1.30)  31 JAN 2024 15:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -533,6 +533,39 @@ LaTeX Warning: Label `fig:imagenes' multiply defined.
 
 LaTeX Warning: Label `fig:imagenes' multiply defined.
 
+
+LaTeX Warning: Label `fig:imagenes' multiply defined.
+
+
+LaTeX Warning: Label `fig:imagenes' multiply defined.
+
+
+LaTeX Warning: Label `fig:imagenes' multiply defined.
+
+
+LaTeX Warning: Label `fig:imagenes' multiply defined.
+
+
+LaTeX Warning: Label `fig:imagenes' multiply defined.
+
+
+LaTeX Warning: Label `fig:imagenes' multiply defined.
+
+
+LaTeX Warning: Label `fig:imagenes' multiply defined.
+
+
+LaTeX Warning: Label `fig:imagenes' multiply defined.
+
+
+LaTeX Warning: Label `fig:imagenes' multiply defined.
+
+
+LaTeX Warning: Label `fig:imagenes' multiply defined.
+
+
+LaTeX Warning: Label `fig:fig511' multiply defined.
+
 )
 \openout1 = `Sumativa1.aux'.
 
@@ -858,13 +891,14 @@ Overfull \hbox (6.0pt too wide) in paragraph at lines 1798--1801
  [][] 
  []
 
-File: Fitness/Kapur/BoxPlot_Dim8/BoxPlots_7-12_Dim8.png Graphic file (type png)
-
-<use Fitness/Kapur/BoxPlot_Dim8/BoxPlots_7-12_Dim8.png>
-Package pdftex.def Info: Fitness/Kapur/BoxPlot_Dim8/BoxPlots_7-12_Dim8.png  use
-d on input line 1803.
-(pdftex.def)             Requested size: 258.0pt x 220.9311pt.
-<Fitness/Otsu/Boxplot_Dim8/BoxPlots_13-18_Dim8.png, id=70, 786.2976pt x 696.441
+<Fitness/Otsu/BoxPlot_Dim8/BoxPlots_7-12_Dim8.png, id=70, 786.2976pt x 696.4419
+pt>
+File: Fitness/Otsu/BoxPlot_Dim8/BoxPlots_7-12_Dim8.png Graphic file (type png)
+<use Fitness/Otsu/BoxPlot_Dim8/BoxPlots_7-12_Dim8.png>
+Package pdftex.def Info: Fitness/Otsu/BoxPlot_Dim8/BoxPlots_7-12_Dim8.png  used
+ on input line 1803.
+(pdftex.def)             Requested size: 258.0pt x 228.51942pt.
+<Fitness/Otsu/Boxplot_Dim8/BoxPlots_13-18_Dim8.png, id=71, 786.2976pt x 696.441
 9pt>
 File: Fitness/Otsu/Boxplot_Dim8/BoxPlots_13-18_Dim8.png Graphic file (type png)
 
@@ -883,9 +917,9 @@ Overfull \hbox (6.0pt too wide) in paragraph at lines 1802--1808
  []
 
 
-LaTeX Warning: Float too large for page by 51.56999pt on input line 1810.
+LaTeX Warning: Float too large for page by 59.15831pt on input line 1810.
 
-<Fitness/Otsu/Boxplot_Dim8/BoxPlots_19-20_Dim8.png, id=71, 786.2976pt x 696.441
+<Fitness/Otsu/Boxplot_Dim8/BoxPlots_19-20_Dim8.png, id=72, 786.2976pt x 696.441
 9pt>
 File: Fitness/Otsu/Boxplot_Dim8/BoxPlots_19-20_Dim8.png Graphic file (type png)
 
@@ -898,7 +932,7 @@ Overfull \hbox (6.0pt too wide) in paragraph at lines 1814--1818
  [][] 
  []
 
-<Fitness/Otsu/Boxplot_Dim9/BoxPlots_1-6_Dim9.png, id=72, 786.2976pt x 696.4419p
+<Fitness/Otsu/Boxplot_Dim9/BoxPlots_1-6_Dim9.png, id=73, 786.2976pt x 696.4419p
 t>
 File: Fitness/Otsu/Boxplot_Dim9/BoxPlots_1-6_Dim9.png Graphic file (type png)
 <use Fitness/Otsu/Boxplot_Dim9/BoxPlots_1-6_Dim9.png>
@@ -910,14 +944,14 @@ Overfull \hbox (6.0pt too wide) in paragraph at lines 1825--1828
  [][] 
  []
 
-<Fitness/Otsu/Boxplot_Dim9/BoxPlots_7-12_Dim9.png, id=73, 786.2976pt x 696.4419
+<Fitness/Otsu/Boxplot_Dim9/BoxPlots_7-12_Dim9.png, id=74, 786.2976pt x 696.4419
 pt>
 File: Fitness/Otsu/Boxplot_Dim9/BoxPlots_7-12_Dim9.png Graphic file (type png)
 <use Fitness/Otsu/Boxplot_Dim9/BoxPlots_7-12_Dim9.png>
 Package pdftex.def Info: Fitness/Otsu/Boxplot_Dim9/BoxPlots_7-12_Dim9.png  used
  on input line 1830.
 (pdftex.def)             Requested size: 258.0pt x 228.51942pt.
-<Fitness/Otsu/Boxplot_Dim9/BoxPlots_13-18_Dim9.png, id=74, 786.2976pt x 696.441
+<Fitness/Otsu/Boxplot_Dim9/BoxPlots_13-18_Dim9.png, id=75, 786.2976pt x 696.441
 9pt>
 File: Fitness/Otsu/Boxplot_Dim9/BoxPlots_13-18_Dim9.png Graphic file (type png)
 
@@ -938,7 +972,7 @@ Overfull \hbox (6.0pt too wide) in paragraph at lines 1829--1835
 
 LaTeX Warning: Float too large for page by 59.15831pt on input line 1837.
 
-<Fitness/Otsu/Boxplot_Dim9/BoxPlots_19-20_Dim9.png, id=75, 786.2976pt x 696.441
+<Fitness/Otsu/Boxplot_Dim9/BoxPlots_19-20_Dim9.png, id=76, 786.2976pt x 696.441
 9pt>
 File: Fitness/Otsu/Boxplot_Dim9/BoxPlots_19-20_Dim9.png Graphic file (type png)
 
@@ -952,6 +986,9 @@ Overfull \hbox (6.0pt too wide) in paragraph at lines 1841--1845
  []
 
 
+LaTeX Warning: Reference `tab:anexoA' on page 9 undefined on input line 1859.
+
+
 Underfull \hbox (badness 2237) in paragraph at lines 1861--1862
 \OT1/ptm/m/n/10 En an[]alisis es-pec[]^^Pficos, GWO y TSO so-bre-salieron en
  []
@@ -961,7 +998,7 @@ LaTeX Warning: Reference `fig:imagenesfitnessbox' on page 9 undefined on input
 line 1867.
 
 [9]
-<Fitness/Kapur/Rank_Kapur_Fitness.png, id=79, 445.665pt x 225.57pt>
+<Fitness/Kapur/Rank_Kapur_Fitness.png, id=80, 445.665pt x 225.57pt>
 File: Fitness/Kapur/Rank_Kapur_Fitness.png Graphic file (type png)
 <use Fitness/Kapur/Rank_Kapur_Fitness.png>
 Package pdftex.def Info: Fitness/Kapur/Rank_Kapur_Fitness.png  used on input li
@@ -972,7 +1009,7 @@ Overfull \hbox (6.0pt too wide) in paragraph at lines 1873--1874
  [][] 
  []
 
-<Fitness/Otsu/Rank_Otsu_Fitness.png, id=80, 1477.77094pt x 737.75626pt>
+<Fitness/Otsu/Rank_Otsu_Fitness.png, id=81, 1477.77094pt x 737.75626pt>
 File: Fitness/Otsu/Rank_Otsu_Fitness.png Graphic file (type png)
 <use Fitness/Otsu/Rank_Otsu_Fitness.png>
 Package pdftex.def Info: Fitness/Otsu/Rank_Otsu_Fitness.png  used on input line
@@ -994,7 +1031,7 @@ LaTeX Warning: No positions in optional float specifier.
 [10 <./Fitness/Kapur/BoxPlot_Dim7/BoxPlots_1-6.png> <./Fitness/Kapur/BoxPlot_Di
 m7/BoxPlots_7-12.png> <./Fitness/Kapur/BoxPlot_Dim7/BoxPlots_13-18.png> <./Fitn
 ess/Kapur/BoxPlot_Dim7/BoxPlots_19-20.png>] [11] [12]
-<Fitness/Kapur/CNV/CNV_Kapur.png, id=94, 422.7795pt x 786.2976pt>
+<Fitness/Kapur/CNV/CNV_Kapur.png, id=95, 422.7795pt x 786.2976pt>
 File: Fitness/Kapur/CNV/CNV_Kapur.png Graphic file (type png)
 <use Fitness/Kapur/CNV/CNV_Kapur.png>
 Package pdftex.def Info: Fitness/Kapur/CNV/CNV_Kapur.png  used on input line 20
@@ -1005,7 +1042,7 @@ Overfull \hbox (6.0pt too wide) in paragraph at lines 2051--2055
  [][] 
  []
 
-<Fitness/Otsu/CNV/CNV_Otsu.png, id=95, 422.7795pt x 786.2976pt>
+<Fitness/Otsu/CNV/CNV_Otsu.png, id=96, 422.7795pt x 786.2976pt>
 File: Fitness/Otsu/CNV/CNV_Otsu.png Graphic file (type png)
 <use Fitness/Otsu/CNV/CNV_Otsu.png>
 Package pdftex.def Info: Fitness/Otsu/CNV/CNV_Otsu.png  used on input line 2063
@@ -1016,133 +1053,424 @@ Overfull \hbox (6.0pt too wide) in paragraph at lines 2062--2066
  [][] 
  []
 
-<imagenes_hueso/7_PSNR_boxplot.png, id=96, 855.195pt x 710.655pt>
-File: imagenes_hueso/7_PSNR_boxplot.png Graphic file (type png)
-<use imagenes_hueso/7_PSNR_boxplot.png>
-Package pdftex.def Info: imagenes_hueso/7_PSNR_boxplot.png  used on input line 
-2083.
-(pdftex.def)             Requested size: 154.80157pt x 128.62805pt.
-<imagenes_hueso/8_PSNR_boxplot.png, id=97, 855.195pt x 710.655pt>
-File: imagenes_hueso/8_PSNR_boxplot.png Graphic file (type png)
-<use imagenes_hueso/8_PSNR_boxplot.png>
-Package pdftex.def Info: imagenes_hueso/8_PSNR_boxplot.png  used on input line 
-2089.
-(pdftex.def)             Requested size: 154.80157pt x 128.62805pt.
-<imagenes_hueso/9_PSNR_boxplot.png, id=98, 855.195pt x 710.655pt>
-File: imagenes_hueso/9_PSNR_boxplot.png Graphic file (type png)
-<use imagenes_hueso/9_PSNR_boxplot.png>
-Package pdftex.def Info: imagenes_hueso/9_PSNR_boxplot.png  used on input line 
-2095.
-(pdftex.def)             Requested size: 154.80157pt x 128.62805pt.
-<imagenes_hueso/PSNR_Rank_barras.png, id=99, 379.4175pt x 265.99374pt>
-File: imagenes_hueso/PSNR_Rank_barras.png Graphic file (type png)
-<use imagenes_hueso/PSNR_Rank_barras.png>
-Package pdftex.def Info: imagenes_hueso/PSNR_Rank_barras.png  used on input lin
-e 2105.
-(pdftex.def)             Requested size: 258.0pt x 180.8774pt.
 
-Overfull \hbox (6.0pt too wide) in paragraph at lines 2105--2106
+LaTeX Warning: Reference `fig:imagenesPSNRbox' on page 13 undefined on input li
+ne 2079.
+
+<PSNR/Kapur/Dim7/PSNR_Dim7_Kapur_1_6.png, id=97, 786.2976pt x 722.9409pt>
+File: PSNR/Kapur/Dim7/PSNR_Dim7_Kapur_1_6.png Graphic file (type png)
+<use PSNR/Kapur/Dim7/PSNR_Dim7_Kapur_1_6.png>
+Package pdftex.def Info: PSNR/Kapur/Dim7/PSNR_Dim7_Kapur_1_6.png  used on input
+ line 2087.
+(pdftex.def)             Requested size: 258.0pt x 237.2144pt.
+
+Overfull \hbox (6.0pt too wide) in paragraph at lines 2086--2089
+ [][] 
+ []
+
+<PSNR/Kapur/Dim7/PSNR_Dim7_Kapur_7_12.png, id=98, 786.2976pt x 722.9409pt>
+File: PSNR/Kapur/Dim7/PSNR_Dim7_Kapur_7_12.png Graphic file (type png)
+<use PSNR/Kapur/Dim7/PSNR_Dim7_Kapur_7_12.png>
+Package pdftex.def Info: PSNR/Kapur/Dim7/PSNR_Dim7_Kapur_7_12.png  used on inpu
+t line 2091.
+(pdftex.def)             Requested size: 258.0pt x 237.2144pt.
+
+Overfull \hbox (6.0pt too wide) in paragraph at lines 2090--2093
+ [][] 
+ []
+
+<PSNR/Kapur/Dim7/PSNR_Dim7_Kapur_13_18.png, id=99, 786.2976pt x 722.9409pt>
+File: PSNR/Kapur/Dim7/PSNR_Dim7_Kapur_13_18.png Graphic file (type png)
+<use PSNR/Kapur/Dim7/PSNR_Dim7_Kapur_13_18.png>
+Package pdftex.def Info: PSNR/Kapur/Dim7/PSNR_Dim7_Kapur_13_18.png  used on inp
+ut line 2100.
+(pdftex.def)             Requested size: 258.0pt x 237.2144pt.
+<PSNR/Kapur/Dim7/PSNR_Dim7_Kapur_19_20.png, id=100, 786.2976pt x 722.9409pt>
+File: PSNR/Kapur/Dim7/PSNR_Dim7_Kapur_19_20.png Graphic file (type png)
+<use PSNR/Kapur/Dim7/PSNR_Dim7_Kapur_19_20.png>
+Package pdftex.def Info: PSNR/Kapur/Dim7/PSNR_Dim7_Kapur_19_20.png  used on inp
+ut line 2104.
+(pdftex.def)             Requested size: 258.0pt x 237.2144pt.
+
+Overfull \hbox (6.0pt too wide) in paragraph at lines 2099--2107
  [][] 
  []
 
 
-LaTeX Warning: Reference `tab:tabla2' on page 13 undefined on input line 2111.
+Overfull \hbox (6.0pt too wide) in paragraph at lines 2099--2107
+ [] 
+ []
+
+<PSNR/Kapur/Dim8/PSNR_Dim8_Kapur_1_6.png, id=101, 786.2976pt x 722.9409pt>
+File: PSNR/Kapur/Dim8/PSNR_Dim8_Kapur_1_6.png Graphic file (type png)
+<use PSNR/Kapur/Dim8/PSNR_Dim8_Kapur_1_6.png>
+Package pdftex.def Info: PSNR/Kapur/Dim8/PSNR_Dim8_Kapur_1_6.png  used on input
+ line 2116.
+(pdftex.def)             Requested size: 258.0pt x 237.2144pt.
+<PSNR/Kapur/Dim8/PSNR_Dim8_Kapur_7_12.png, id=102, 786.2976pt x 722.9409pt>
+File: PSNR/Kapur/Dim8/PSNR_Dim8_Kapur_7_12.png Graphic file (type png)
+<use PSNR/Kapur/Dim8/PSNR_Dim8_Kapur_7_12.png>
+Package pdftex.def Info: PSNR/Kapur/Dim8/PSNR_Dim8_Kapur_7_12.png  used on inpu
+t line 2121.
+(pdftex.def)             Requested size: 258.0pt x 237.2144pt.
+<PSNR/Kapur/Dim8/PSNR_Dim8_Kapur_13_18.png, id=103, 786.2976pt x 722.9409pt>
+File: PSNR/Kapur/Dim8/PSNR_Dim8_Kapur_13_18.png Graphic file (type png)
+<use PSNR/Kapur/Dim8/PSNR_Dim8_Kapur_13_18.png>
+Package pdftex.def Info: PSNR/Kapur/Dim8/PSNR_Dim8_Kapur_13_18.png  used on inp
+ut line 2126.
+(pdftex.def)             Requested size: 258.0pt x 237.2144pt.
+
+Overfull \hbox (264.0pt too wide) in paragraph at lines 2114--2128
+ [][][] 
+ []
+
+
+Overfull \hbox (6.0pt too wide) in paragraph at lines 2114--2128
+ [] 
+ []
+
+<PSNR/Kapur/Dim8/PSNR_Dim8_Kapur_19_20.png, id=104, 786.2976pt x 722.9409pt>
+File: PSNR/Kapur/Dim8/PSNR_Dim8_Kapur_19_20.png Graphic file (type png)
+<use PSNR/Kapur/Dim8/PSNR_Dim8_Kapur_19_20.png>
+Package pdftex.def Info: PSNR/Kapur/Dim8/PSNR_Dim8_Kapur_19_20.png  used on inp
+ut line 2137.
+(pdftex.def)             Requested size: 258.0pt x 237.2144pt.
+
+Overfull \hbox (6.0pt too wide) in paragraph at lines 2135--2139
+ [][] 
+ []
+
+<PSNR/Kapur/Dim9/PSNR_Dim9_Kapur_1_6.png, id=105, 786.2976pt x 722.9409pt>
+File: PSNR/Kapur/Dim9/PSNR_Dim9_Kapur_1_6.png Graphic file (type png)
+<use PSNR/Kapur/Dim9/PSNR_Dim9_Kapur_1_6.png>
+Package pdftex.def Info: PSNR/Kapur/Dim9/PSNR_Dim9_Kapur_1_6.png  used on input
+ line 2149.
+(pdftex.def)             Requested size: 258.0pt x 237.2144pt.
+
+Overfull \hbox (6.0pt too wide) in paragraph at lines 2148--2151
+ [][] 
+ []
+
+<PSNR/Kapur/Dim9/PSNR_Dim9_Kapur_7_12.png, id=106, 786.2976pt x 722.9409pt>
+File: PSNR/Kapur/Dim9/PSNR_Dim9_Kapur_7_12.png Graphic file (type png)
+<use PSNR/Kapur/Dim9/PSNR_Dim9_Kapur_7_12.png>
+Package pdftex.def Info: PSNR/Kapur/Dim9/PSNR_Dim9_Kapur_7_12.png  used on inpu
+t line 2153.
+(pdftex.def)             Requested size: 258.0pt x 237.2144pt.
+
+Overfull \hbox (6.0pt too wide) in paragraph at lines 2152--2155
+ [][] 
+ []
+
+<PSNR/Kapur/Dim9/PSNR_Dim9_Kapur_13_18.png, id=107, 786.2976pt x 722.9409pt>
+File: PSNR/Kapur/Dim9/PSNR_Dim9_Kapur_13_18.png Graphic file (type png)
+<use PSNR/Kapur/Dim9/PSNR_Dim9_Kapur_13_18.png>
+Package pdftex.def Info: PSNR/Kapur/Dim9/PSNR_Dim9_Kapur_13_18.png  used on inp
+ut line 2162.
+(pdftex.def)             Requested size: 258.0pt x 237.2144pt.
+<PSNR/Kapur/Dim9/PSNR_Dim9_Kapur_19_20.png, id=108, 786.2976pt x 722.9409pt>
+File: PSNR/Kapur/Dim9/PSNR_Dim9_Kapur_19_20.png Graphic file (type png)
+<use PSNR/Kapur/Dim9/PSNR_Dim9_Kapur_19_20.png>
+Package pdftex.def Info: PSNR/Kapur/Dim9/PSNR_Dim9_Kapur_19_20.png  used on inp
+ut line 2166.
+(pdftex.def)             Requested size: 258.0pt x 237.2144pt.
+
+Overfull \hbox (6.0pt too wide) in paragraph at lines 2161--2169
+ [][] 
+ []
+
+
+Overfull \hbox (6.0pt too wide) in paragraph at lines 2161--2169
+ [] 
+ []
+
+<PSNR/Kapur/Rank_Kapur_PSNR.png, id=109, 2106.36937pt x 1284.29813pt>
+File: PSNR/Kapur/Rank_Kapur_PSNR.png Graphic file (type png)
+<use PSNR/Kapur/Rank_Kapur_PSNR.png>
+Package pdftex.def Info: PSNR/Kapur/Rank_Kapur_PSNR.png  used on input line 217
+7.
+(pdftex.def)             Requested size: 258.0pt x 157.30339pt.
+
+Overfull \hbox (6.0pt too wide) in paragraph at lines 2177--2178
+ [][] 
+ []
+
+<PSNR/Otsu/Rank_Otsu_PSNR.png, id=110, 2108.6278pt x 1267.73625pt>
+File: PSNR/Otsu/Rank_Otsu_PSNR.png Graphic file (type png)
+<use PSNR/Otsu/Rank_Otsu_PSNR.png>
+Package pdftex.def Info: PSNR/Otsu/Rank_Otsu_PSNR.png  used on input line 2184.
+
+(pdftex.def)             Requested size: 258.0pt x 155.10077pt.
+
+Overfull \hbox (6.0pt too wide) in paragraph at lines 2184--2185
+ [][] 
+ []
+
+
+LaTeX Warning: Reference `tab:tabla2' on page 13 undefined on input line 2191.
 
 [13 <./Fitness/Kapur/BoxPlot_Dim8/BoxPlots_1-6_Dim8.png> <./Fitness/Kapur/BoxPl
 ot_Dim8/BoxPlots_7-12_Dim8.png> <./Fitness/Kapur/BoxPlot_Dim8/BoxPlots_13-18_Di
 m8.png> <./Fitness/Kapur/BoxPlot_Dim8/BoxPlots_19-20_Dim8.png>]
 
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 2121.
+               Default added (so using `tbp') on input line 2201.
 
 
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 2193.
+               Default added (so using `tbp') on input line 2273.
+
+
+LaTeX Warning: Reference `fig:imagenesSSIMbox' on page 14 undefined on input li
+ne 2351.
 
 [14 <./Fitness/Kapur/BoxPlot_Dim9/BoxPlots_1-6_Dim9.png> <./Fitness/Kapur/BoxPl
 ot_Dim9/BoxPlots_7-12_Dim9.png> <./Fitness/Kapur/BoxPlot_Dim9/BoxPlots_13-18_Di
 m9.png> <./Fitness/Kapur/BoxPlot_Dim9/BoxPlots_19-20_Dim9.png>] [15] [16]
-<imagenes_hueso/7_SSIM_boxplot.png, id=121, 855.195pt x 710.655pt>
-File: imagenes_hueso/7_SSIM_boxplot.png Graphic file (type png)
-<use imagenes_hueso/7_SSIM_boxplot.png>
-Package pdftex.def Info: imagenes_hueso/7_SSIM_boxplot.png  used on input line 
-2276.
-(pdftex.def)             Requested size: 154.80157pt x 128.62805pt.
-<imagenes_hueso/8_SSIM_boxplot.png, id=122, 855.195pt x 710.655pt>
-File: imagenes_hueso/8_SSIM_boxplot.png Graphic file (type png)
-<use imagenes_hueso/8_SSIM_boxplot.png>
-Package pdftex.def Info: imagenes_hueso/8_SSIM_boxplot.png  used on input line 
-2282.
-(pdftex.def)             Requested size: 154.80157pt x 128.62805pt.
-<imagenes_hueso/9_SSIM_boxplot.png, id=123, 855.195pt x 710.655pt>
-File: imagenes_hueso/9_SSIM_boxplot.png Graphic file (type png)
-<use imagenes_hueso/9_SSIM_boxplot.png>
-Package pdftex.def Info: imagenes_hueso/9_SSIM_boxplot.png  used on input line 
-2288.
-(pdftex.def)             Requested size: 154.80157pt x 128.62805pt.
-<imagenes_hueso/SSIM_rank_barras.png, id=124, 379.4175pt x 265.99374pt>
-File: imagenes_hueso/SSIM_rank_barras.png Graphic file (type png)
-<use imagenes_hueso/SSIM_rank_barras.png>
-Package pdftex.def Info: imagenes_hueso/SSIM_rank_barras.png  used on input lin
-e 2298.
-(pdftex.def)             Requested size: 258.0pt x 180.8774pt.
+<SSIM/Kapur/Dim7/SSIM_Dim7_Kapur_1_6.png, id=132, 786.2976pt x 722.9409pt>
+File: SSIM/Kapur/Dim7/SSIM_Dim7_Kapur_1_6.png Graphic file (type png)
+<use SSIM/Kapur/Dim7/SSIM_Dim7_Kapur_1_6.png>
+Package pdftex.def Info: SSIM/Kapur/Dim7/SSIM_Dim7_Kapur_1_6.png  used on input
+ line 2358.
+(pdftex.def)             Requested size: 258.0pt x 237.2144pt.
 
-Overfull \hbox (6.0pt too wide) in paragraph at lines 2298--2299
+Overfull \hbox (6.0pt too wide) in paragraph at lines 2357--2360
+ [][] 
+ []
+
+<SSIM/Kapur/Dim7/SSIM_Dim7_Kapur_7_12.png, id=133, 786.2976pt x 722.9409pt>
+File: SSIM/Kapur/Dim7/SSIM_Dim7_Kapur_7_12.png Graphic file (type png)
+<use SSIM/Kapur/Dim7/SSIM_Dim7_Kapur_7_12.png>
+Package pdftex.def Info: SSIM/Kapur/Dim7/SSIM_Dim7_Kapur_7_12.png  used on inpu
+t line 2362.
+(pdftex.def)             Requested size: 258.0pt x 237.2144pt.
+
+Overfull \hbox (6.0pt too wide) in paragraph at lines 2361--2364
+ [][] 
+ []
+
+<SSIM/Kapur/Dim7/SSIM_Dim7_Kapur_13_18.png, id=134, 786.2976pt x 722.9409pt>
+File: SSIM/Kapur/Dim7/SSIM_Dim7_Kapur_13_18.png Graphic file (type png)
+<use SSIM/Kapur/Dim7/SSIM_Dim7_Kapur_13_18.png>
+Package pdftex.def Info: SSIM/Kapur/Dim7/SSIM_Dim7_Kapur_13_18.png  used on inp
+ut line 2371.
+(pdftex.def)             Requested size: 258.0pt x 237.2144pt.
+<SSIM/Kapur/Dim7/SSIM_Dim7_Kapur_19_20.png, id=135, 786.2976pt x 722.9409pt>
+File: SSIM/Kapur/Dim7/SSIM_Dim7_Kapur_19_20.png Graphic file (type png)
+<use SSIM/Kapur/Dim7/SSIM_Dim7_Kapur_19_20.png>
+Package pdftex.def Info: SSIM/Kapur/Dim7/SSIM_Dim7_Kapur_19_20.png  used on inp
+ut line 2375.
+(pdftex.def)             Requested size: 258.0pt x 237.2144pt.
+
+Overfull \hbox (6.0pt too wide) in paragraph at lines 2370--2378
  [][] 
  []
 
 
-LaTeX Warning: Reference `tab:tabla3' on page 17 undefined on input line 2305.
+Overfull \hbox (6.0pt too wide) in paragraph at lines 2370--2378
+ [] 
+ []
+
+<SSIM/Kapur/Dim8/SSIM_Dim8_Kapur_1_6.png, id=136, 786.2976pt x 722.9409pt>
+File: SSIM/Kapur/Dim8/SSIM_Dim8_Kapur_1_6.png Graphic file (type png)
+<use SSIM/Kapur/Dim8/SSIM_Dim8_Kapur_1_6.png>
+Package pdftex.def Info: SSIM/Kapur/Dim8/SSIM_Dim8_Kapur_1_6.png  used on input
+ line 2387.
+(pdftex.def)             Requested size: 258.0pt x 237.2144pt.
+
+Overfull \hbox (6.0pt too wide) in paragraph at lines 2386--2389
+ [][] 
+ []
+
+<SSIM/Kapur/Dim8/SSIM_Dim8_Kapur_7_12.png, id=137, 786.2976pt x 722.9409pt>
+File: SSIM/Kapur/Dim8/SSIM_Dim8_Kapur_7_12.png Graphic file (type png)
+<use SSIM/Kapur/Dim8/SSIM_Dim8_Kapur_7_12.png>
+Package pdftex.def Info: SSIM/Kapur/Dim8/SSIM_Dim8_Kapur_7_12.png  used on inpu
+t line 2391.
+(pdftex.def)             Requested size: 258.0pt x 237.2144pt.
+
+Overfull \hbox (6.0pt too wide) in paragraph at lines 2390--2393
+ [][] 
+ []
+
+<SSIM/Kapur/Dim8/SSIM_Dim8_Kapur_13_18.png, id=138, 786.2976pt x 722.9409pt>
+File: SSIM/Kapur/Dim8/SSIM_Dim8_Kapur_13_18.png Graphic file (type png)
+<use SSIM/Kapur/Dim8/SSIM_Dim8_Kapur_13_18.png>
+Package pdftex.def Info: SSIM/Kapur/Dim8/SSIM_Dim8_Kapur_13_18.png  used on inp
+ut line 2400.
+(pdftex.def)             Requested size: 258.0pt x 237.2144pt.
+<SSIM/Kapur/Dim8/SSIM_Dim8_Kapur_19_20.png, id=139, 786.2976pt x 722.9409pt>
+File: SSIM/Kapur/Dim8/SSIM_Dim8_Kapur_19_20.png Graphic file (type png)
+<use SSIM/Kapur/Dim8/SSIM_Dim8_Kapur_19_20.png>
+Package pdftex.def Info: SSIM/Kapur/Dim8/SSIM_Dim8_Kapur_19_20.png  used on inp
+ut line 2404.
+(pdftex.def)             Requested size: 258.0pt x 237.2144pt.
+
+Overfull \hbox (6.0pt too wide) in paragraph at lines 2399--2407
+ [][] 
+ []
+
+
+Overfull \hbox (6.0pt too wide) in paragraph at lines 2399--2407
+ [] 
+ []
+
+<SSIM/Kapur/Dim9/SSIM_Dim9_Kapur_1_6.png, id=140, 786.2976pt x 722.9409pt>
+File: SSIM/Kapur/Dim9/SSIM_Dim9_Kapur_1_6.png Graphic file (type png)
+<use SSIM/Kapur/Dim9/SSIM_Dim9_Kapur_1_6.png>
+Package pdftex.def Info: SSIM/Kapur/Dim9/SSIM_Dim9_Kapur_1_6.png  used on input
+ line 2416.
+(pdftex.def)             Requested size: 258.0pt x 237.2144pt.
+
+Overfull \hbox (6.0pt too wide) in paragraph at lines 2415--2418
+ [][] 
+ []
+
+<SSIM/Kapur/Dim9/SSIM_Dim9_Kapur_7_12.png, id=141, 786.2976pt x 722.9409pt>
+File: SSIM/Kapur/Dim9/SSIM_Dim9_Kapur_7_12.png Graphic file (type png)
+<use SSIM/Kapur/Dim9/SSIM_Dim9_Kapur_7_12.png>
+Package pdftex.def Info: SSIM/Kapur/Dim9/SSIM_Dim9_Kapur_7_12.png  used on inpu
+t line 2420.
+(pdftex.def)             Requested size: 258.0pt x 237.2144pt.
+
+Overfull \hbox (6.0pt too wide) in paragraph at lines 2419--2422
+ [][] 
+ []
+
+<SSIM/Kapur/Dim9/SSIM_Dim9_Kapur_13_18.png, id=142, 786.2976pt x 722.9409pt>
+File: SSIM/Kapur/Dim9/SSIM_Dim9_Kapur_13_18.png Graphic file (type png)
+<use SSIM/Kapur/Dim9/SSIM_Dim9_Kapur_13_18.png>
+Package pdftex.def Info: SSIM/Kapur/Dim9/SSIM_Dim9_Kapur_13_18.png  used on inp
+ut line 2429.
+(pdftex.def)             Requested size: 258.0pt x 237.2144pt.
+<SSIM/Kapur/Dim9/SSIM_Dim9_Kapur_19_20.png, id=143, 786.2976pt x 722.9409pt>
+File: SSIM/Kapur/Dim9/SSIM_Dim9_Kapur_19_20.png Graphic file (type png)
+<use SSIM/Kapur/Dim9/SSIM_Dim9_Kapur_19_20.png>
+Package pdftex.def Info: SSIM/Kapur/Dim9/SSIM_Dim9_Kapur_19_20.png  used on inp
+ut line 2433.
+(pdftex.def)             Requested size: 258.0pt x 237.2144pt.
+
+Overfull \hbox (6.0pt too wide) in paragraph at lines 2428--2436
+ [][] 
+ []
+
+
+Overfull \hbox (6.0pt too wide) in paragraph at lines 2428--2436
+ [] 
+ []
+
+<SSIM/Kapur/Rank_Kapur_SSIM.png, id=144, 1691.56969pt x 892.83563pt>
+File: SSIM/Kapur/Rank_Kapur_SSIM.png Graphic file (type png)
+<use SSIM/Kapur/Rank_Kapur_SSIM.png>
+Package pdftex.def Info: SSIM/Kapur/Rank_Kapur_SSIM.png  used on input line 244
+4.
+(pdftex.def)             Requested size: 258.0pt x 136.16745pt.
+
+Overfull \hbox (6.0pt too wide) in paragraph at lines 2444--2445
+ [][] 
+ []
+
+<SSIM/Otsu/Rank_Otsu_SSIM.png, id=145, 1673.50218pt x 890.5772pt>
+File: SSIM/Otsu/Rank_Otsu_SSIM.png Graphic file (type png)
+<use SSIM/Otsu/Rank_Otsu_SSIM.png>
+Package pdftex.def Info: SSIM/Otsu/Rank_Otsu_SSIM.png  used on input line 2451.
+
+(pdftex.def)             Requested size: 258.0pt x 137.29063pt.
+
+Overfull \hbox (6.0pt too wide) in paragraph at lines 2451--2452
+ [][] 
+ []
+
+
+LaTeX Warning: Reference `tab:tabla3' on page 17 undefined on input line 2458.
+
+
+LaTeX Warning: Reference `fig:fig512' on page 17 undefined on input line 2464.
 
 
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 2318.
+               Default added (so using `tbp') on input line 2471.
 
 
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 2390.
+               Default added (so using `tbp') on input line 2543.
 
 [17 <./Fitness/Otsu/Boxplot_Dim7/BoxPlots_1-6_Dim7.png> <./Fitness/Otsu/Boxplot
 _Dim7/BoxPlots_7-12_Dim7.png> <./Fitness/Otsu/Boxplot_Dim7/BoxPlots_13-18_Dim7.
 png> <./Fitness/Otsu/Boxplot_Dim7/BoxPlots_19-20_Dim7.png>] [18] [19] [20 <./Fi
-tness/Otsu/Boxplot_Dim8/BoxPlots_1-6_Dim8.png> <./Fitness/Otsu/Boxplot_Dim8/Box
-Plots_13-18_Dim8.png> <./Fitness/Otsu/Boxplot_Dim8/BoxPlots_19-20_Dim8.png>]
-[21 <./Fitness/Otsu/Boxplot_Dim9/BoxPlots_1-6_Dim9.png> <./Fitness/Otsu/Boxplot
-_Dim9/BoxPlots_7-12_Dim9.png> <./Fitness/Otsu/Boxplot_Dim9/BoxPlots_13-18_Dim9.
-png> <./Fitness/Otsu/Boxplot_Dim9/BoxPlots_19-20_Dim9.png> <./Fitness/Kapur/Ran
-k_Kapur_Fitness.png (PNG copy)> <./Fitness/Otsu/Rank_Otsu_Fitness.png>]
+tness/Otsu/Boxplot_Dim8/BoxPlots_1-6_Dim8.png> <./Fitness/Otsu/BoxPlot_Dim8/Box
+Plots_7-12_Dim8.png> <./Fitness/Otsu/Boxplot_Dim8/BoxPlots_13-18_Dim8.png> <./F
+itness/Otsu/Boxplot_Dim8/BoxPlots_19-20_Dim8.png>] [21 <./Fitness/Otsu/Boxplot_
+Dim9/BoxPlots_1-6_Dim9.png> <./Fitness/Otsu/Boxplot_Dim9/BoxPlots_7-12_Dim9.png
+> <./Fitness/Otsu/Boxplot_Dim9/BoxPlots_13-18_Dim9.png> <./Fitness/Otsu/Boxplot
+_Dim9/BoxPlots_19-20_Dim9.png> <./Fitness/Kapur/Rank_Kapur_Fitness.png (PNG cop
+y)> <./Fitness/Otsu/Rank_Otsu_Fitness.png>]
 Underfull \vbox (badness 1389) has occurred while \output is active []
 
- [22 <./Fitness/Kapur/CNV/CNV_Kapur.png> <./Fitness/Otsu/CNV/CNV_Otsu.png>] (Su
-mativa1.bbl
-[23 <./imagenes_hueso/7_PSNR_boxplot.png> <./imagenes_hueso/8_PSNR_boxplot.png>
- <./imagenes_hueso/9_PSNR_boxplot.png> <./imagenes_hueso/PSNR_Rank_barras.png>]
-[24 <./imagenes_hueso/7_SSIM_boxplot.png> <./imagenes_hueso/8_SSIM_boxplot.png>
- <./imagenes_hueso/9_SSIM_boxplot.png> <./imagenes_hueso/SSIM_rank_barras.png>]
-) [25
+ [22 <./Fitness/Kapur/CNV/CNV_Kapur.png> <./Fitness/Otsu/CNV/CNV_Otsu.png>] [23
+ <./PSNR/Kapur/Dim7/PSNR_Dim7_Kapur_1_6.png> <./PSNR/Kapur/Dim7/PSNR_Dim7_Kapur
+_7_12.png> <./PSNR/Kapur/Dim7/PSNR_Dim7_Kapur_13_18.png> <./PSNR/Kapur/Dim7/PSN
+R_Dim7_Kapur_19_20.png>] [24 <./PSNR/Kapur/Dim8/PSNR_Dim8_Kapur_1_6.png> <./PSN
+R/Kapur/Dim8/PSNR_Dim8_Kapur_7_12.png> <./PSNR/Kapur/Dim8/PSNR_Dim8_Kapur_13_18
+.png> <./PSNR/Kapur/Dim8/PSNR_Dim8_Kapur_19_20.png>] [25 <./PSNR/Kapur/Dim9/PSN
+R_Dim9_Kapur_1_6.png> <./PSNR/Kapur/Dim9/PSNR_Dim9_Kapur_7_12.png> <./PSNR/Kapu
+r/Dim9/PSNR_Dim9_Kapur_13_18.png> <./PSNR/Kapur/Dim9/PSNR_Dim9_Kapur_19_20.png>
+ <./PSNR/Kapur/Rank_Kapur_PSNR.png>] [26 <./PSNR/Otsu/Rank_Otsu_PSNR.png> <./SS
+IM/Kapur/Dim7/SSIM_Dim7_Kapur_1_6.png> <./SSIM/Kapur/Dim7/SSIM_Dim7_Kapur_7_12.
+png>]
+[27 <./SSIM/Kapur/Dim7/SSIM_Dim7_Kapur_13_18.png> <./SSIM/Kapur/Dim7/SSIM_Dim7_
+Kapur_19_20.png> <./SSIM/Kapur/Dim8/SSIM_Dim8_Kapur_1_6.png> <./SSIM/Kapur/Dim8
+/SSIM_Dim8_Kapur_7_12.png>] [28 <./SSIM/Kapur/Dim8/SSIM_Dim8_Kapur_13_18.png> <
+./SSIM/Kapur/Dim8/SSIM_Dim8_Kapur_19_20.png> <./SSIM/Kapur/Dim9/SSIM_Dim9_Kapur
+_1_6.png> <./SSIM/Kapur/Dim9/SSIM_Dim9_Kapur_7_12.png>] [29 <./SSIM/Kapur/Dim9/
+SSIM_Dim9_Kapur_13_18.png> <./SSIM/Kapur/Dim9/SSIM_Dim9_Kapur_19_20.png> <./SSI
+M/Kapur/Rank_Kapur_SSIM.png> <./SSIM/Otsu/Rank_Otsu_SSIM.png>] (Sumativa1.bbl)
+[30
+
+] [31
+
 
 ]
-Overfull \hbox (264.0pt too wide) in paragraph at lines 2575--2577
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 2666.
+
+
+Overfull \hbox (168.18204pt too wide) in paragraph at lines 2668--2733
+[][] 
+ []
+
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 2738.
+
+
+Overfull \hbox (182.7117pt too wide) in paragraph at lines 2740--2805
+[][] 
+ []
+
+
+Overfull \hbox (264.0pt too wide) in paragraph at lines 2842--2844
  [][] 
  []
 
-<imagenes_hueso/resultados_7_dim.png, id=176, 901.3675pt x 1775.63374pt>
+<imagenes_hueso/resultados_7_dim.png, id=237, 901.3675pt x 1775.63374pt>
 File: imagenes_hueso/resultados_7_dim.png Graphic file (type png)
 <use imagenes_hueso/resultados_7_dim.png>
 Package pdftex.def Info: imagenes_hueso/resultados_7_dim.png  used on input lin
-e 2619.
+e 2886.
 (pdftex.def)             Requested size: 258.0pt x 508.2284pt.
-<imagenes_hueso/resultados_8_dim.png, id=177, 901.3675pt x 1775.63374pt>
+<imagenes_hueso/resultados_8_dim.png, id=238, 901.3675pt x 1775.63374pt>
 File: imagenes_hueso/resultados_8_dim.png Graphic file (type png)
 <use imagenes_hueso/resultados_8_dim.png>
 Package pdftex.def Info: imagenes_hueso/resultados_8_dim.png  used on input lin
-e 2625.
+e 2892.
 (pdftex.def)             Requested size: 258.0pt x 508.2284pt.
-<imagenes_hueso/resultados_9_dim.png, id=178, 901.3675pt x 1775.63374pt>
+<imagenes_hueso/resultados_9_dim.png, id=239, 901.3675pt x 1775.63374pt>
 File: imagenes_hueso/resultados_9_dim.png Graphic file (type png)
 <use imagenes_hueso/resultados_9_dim.png>
 Package pdftex.def Info: imagenes_hueso/resultados_9_dim.png  used on input lin
-e 2631.
+e 2898.
 (pdftex.def)             Requested size: 258.0pt x 508.2284pt.
 
 ** Conference Paper **
@@ -1155,11 +1483,12 @@ Before submitting the final camera ready copy, remember to:
  uses only Type 1 fonts and that every step in the generation
  process uses the appropriate paper size.
 
-[26
+[32 <./imagenes_hueso/resultados_7_dim.png>] [33] [34] [35 <./imagenes_hueso/re
+sultados_8_dim.png>] [36 <./imagenes_hueso/resultados_9_dim.png>] [37
 
 
-] [27] [28 <./imagenes_hueso/resultados_7_dim.png>] [29 <./imagenes_hueso/resul
-tados_8_dim.png>] [30 <./imagenes_hueso/resultados_9_dim.png>]
+
+] [38]
 (Sumativa1.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
@@ -1174,13 +1503,13 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 7673 strings out of 474542
- 140942 string characters out of 5737366
- 2095978 words of memory out of 5000000
- 29785 multiletter control sequences out of 15000+600000
- 605254 words of font info for 134 fonts, out of 8000000 for 9000
+ 7807 strings out of 474542
+ 147781 string characters out of 5737366
+ 2228978 words of memory out of 5000000
+ 29920 multiletter control sequences out of 15000+600000
+ 604176 words of font info for 133 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 67i,20n,77p,1953b,559s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 67i,20n,77p,1953b,507s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/FernandoJoseRamirezS/AppData/Local/Programs/MiKTeX/fonts/type1/publ
 ic/amsfonts/cm/cmbx10.pfb><C:/Users/FernandoJoseRamirezS/AppData/Local/Programs
 /MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/FernandoJoseRamirez
@@ -1206,9 +1535,9 @@ ezS/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmbi8a.pfb><C:/Users/F
 ernandoJoseRamirezS/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.
 pfb><C:/Users/FernandoJoseRamirezS/AppData/Local/Programs/MiKTeX/fonts/type1/ur
 w/times/utmri8a.pfb>
-Output written on Sumativa1.pdf (30 pages, 11819213 bytes).
+Output written on Sumativa1.pdf (38 pages, 18619762 bytes).
 PDF statistics:
- 276 PDF objects out of 1000 (max. 8388607)
+ 346 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 206 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 311 words of extra memory for PDF output out of 10000 (max. 10000000)
 
