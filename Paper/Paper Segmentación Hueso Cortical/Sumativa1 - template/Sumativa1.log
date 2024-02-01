@@ -1,11 +1,11 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.1.30)  31 JAN 2024 15:03
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.1.30)  1 FEB 2024 15:34
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **./Sumativa1.tex
 (Sumativa1.tex
 LaTeX2e <2023-11-01> patch level 1
-L3 programming layer <2024-01-22>
+L3 programming layer <2024-01-04>
 (IEEEtran.cls
 Document Class: IEEEtran 2015/08/26 V1.8b by Michael Shell
 -- See the "IEEEtran_HOWTO" manual for usage information.
@@ -19,9 +19,7 @@ Document Class: IEEEtran 2015/08/26 V1.8b by Michael Shell
 \@IEEEtrantmptoksA=\toks17
 LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 5
 03.
-
-(C:\Users\FernandoJoseRamirezS\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\o
-t1ptm.fd
+(C:\Users\Ferna\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
 -- Using 8.5in x 11in (letter) paper.
@@ -117,37 +115,29 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <24> not available
 \@IEEEtranrubishbin=\box52
 )
 ** ATTENTION: Overriding command lockouts (line 2).
-
-(C:\Users\FernandoJoseRamirezS\AppData\Local\Programs\MiKTeX\tex/latex/cite\cit
-e.sty
+(C:\Users\Ferna\AppData\Local\Programs\MiKTeX\tex/latex/cite\cite.sty
 LaTeX Info: Redefining \cite on input line 302.
 LaTeX Info: Redefining \nocite on input line 332.
 Package: cite 2015/02/27  v 5.5
 )
-(C:\Users\FernandoJoseRamirezS\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\
-amsmath.sty
+(C:\Users\Ferna\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
 Package: amsmath 2023/05/13 v2.17o AMS math features
 \@mathmargin=\skip51
 
 For additional information on amsmath, use the `?' option.
-
-(C:\Users\FernandoJoseRamirezS\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\
-amstext.sty
+(C:\Users\Ferna\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
 Package: amstext 2021/08/26 v2.01 AMS text
 
-(C:\Users\FernandoJoseRamirezS\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\
-amsgen.sty
+(C:\Users\Ferna\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks18
 \ex@=\dimen164
 ))
-(C:\Users\FernandoJoseRamirezS\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\
-amsbsy.sty
+(C:\Users\Ferna\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen165
 )
-(C:\Users\FernandoJoseRamirezS\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\
-amsopn.sty
+(C:\Users\Ferna\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
 Package: amsopn 2022/04/08 v2.04 operator names
 )
 \inf@bad=\count268
@@ -198,12 +188,10 @@ LaTeX Info: Redefining \Relbar on input line 971.
 LaTeX Info: Redefining \[ on input line 2953.
 LaTeX Info: Redefining \] on input line 2954.
 )
-(C:\Users\FernandoJoseRamirezS\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts
-\amssymb.sty
+(C:\Users\Ferna\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 
-(C:\Users\FernandoJoseRamirezS\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts
-\amsfonts.sty
+(C:\Users\Ferna\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
@@ -211,16 +199,13 @@ LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 ))
-(C:\Users\FernandoJoseRamirezS\AppData\Local\Programs\MiKTeX\tex/latex/algorith
-ms\algorithmic.sty
+(C:\Users\Ferna\AppData\Local\Programs\MiKTeX\tex/latex/algorithms\algorithmic.
+sty
 Package: algorithmic 2009/08/24 v0.1 Document Style `algorithmic'
-
-(C:\Users\FernandoJoseRamirezS\AppData\Local\Programs\MiKTeX\tex/latex/base\ift
-hen.sty
+ (C:\Users\Ferna\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
 Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
 )
-(C:\Users\FernandoJoseRamirezS\AppData\Local\Programs\MiKTeX\tex/latex/graphics
-\keyval.sty
+(C:\Users\Ferna\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
 Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
 \KV@toks@=\toks23
 )
@@ -231,47 +216,37 @@ Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
 \ALC@tlm=\skip54
 \algorithmicindent=\skip55
 )
-(C:\Users\FernandoJoseRamirezS\AppData\Local\Programs\MiKTeX\tex/latex/graphics
-\graphicx.sty
+(C:\Users\Ferna\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
 Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
 
-(C:\Users\FernandoJoseRamirezS\AppData\Local\Programs\MiKTeX\tex/latex/graphics
-\graphics.sty
+(C:\Users\Ferna\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
 Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
 
-(C:\Users\FernandoJoseRamirezS\AppData\Local\Programs\MiKTeX\tex/latex/graphics
-\trig.sty
+(C:\Users\Ferna\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
 Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
 )
-(C:\Users\FernandoJoseRamirezS\AppData\Local\Programs\MiKTeX\tex/latex/graphics
--cfg\graphics.cfg
+(C:\Users\Ferna\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.c
+fg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 107.
 
-(C:\Users\FernandoJoseRamirezS\AppData\Local\Programs\MiKTeX\tex/latex/graphics
--def\pdftex.def
+(C:\Users\Ferna\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
 File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen173
 \Gin@req@width=\dimen174
-)
-(C:\Users\FernandoJoseRamirezS\AppData\Local\Programs\MiKTeX\tex/latex/base\tex
-tcomp.sty
+) (C:\Users\Ferna\AppData\Local\Programs\MiKTeX\tex/latex/base\textcomp.sty
 Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
 )
-(C:\Users\FernandoJoseRamirezS\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\x
-color.sty
+(C:\Users\Ferna\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
 Package: xcolor 2023/11/15 v3.01 LaTeX color extensions (UK)
 
-(C:\Users\FernandoJoseRamirezS\AppData\Local\Programs\MiKTeX\tex/latex/graphics
--cfg\color.cfg
+(C:\Users\Ferna\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: pdftex.def on input line 274.
-
-(C:\Users\FernandoJoseRamirezS\AppData\Local\Programs\MiKTeX\tex/latex/graphics
-\mathcolor.ltx)
+(C:\Users\Ferna\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1350.
 Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1354.
 Package xcolor Info: Model `RGB' extended on input line 1366.
@@ -281,16 +256,12 @@ Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1370.
 Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1371.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1372.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1373.
-)
-(C:\Users\FernandoJoseRamirezS\AppData\Local\Programs\MiKTeX\tex/latex/sttools\
-stfloats.sty
+) (C:\Users\Ferna\AppData\Local\Programs\MiKTeX\tex/latex/sttools\stfloats.sty
 Package: stfloats 2017/03/27 v3.3 Improve float mechanism and baselineskip sett
 ings
 \@dblbotnum=\count284
 \c@dblbotnumber=\count285
-)
-(C:\Users\FernandoJoseRamirezS\AppData\Local\Programs\MiKTeX\tex/latex/booktabs
-\booktabs.sty
+) (C:\Users\Ferna\AppData\Local\Programs\MiKTeX\tex/latex/booktabs\booktabs.sty
 Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \heavyrulewidth=\dimen175
 \lightrulewidth=\dimen176
@@ -309,13 +280,10 @@ Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \@thisruleclass=\count288
 \@lastruleclass=\count289
 \@thisrulewidth=\dimen187
-)
-(C:\Users\FernandoJoseRamirezS\AppData\Local\Programs\MiKTeX\tex/latex/tools\ta
-bularx.sty
+) (C:\Users\Ferna\AppData\Local\Programs\MiKTeX\tex/latex/tools\tabularx.sty
 Package: tabularx 2023/07/08 v2.11c `tabularx' package (DPC)
 
-(C:\Users\FernandoJoseRamirezS\AppData\Local\Programs\MiKTeX\tex/latex/tools\ar
-ray.sty
+(C:\Users\Ferna\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
 Package: array 2023/10/16 v2.5g Tabular extension package (FMi)
 \col@sep=\dimen188
 \ar@mcellbox=\box55
@@ -333,24 +301,20 @@ Package: array 2023/10/16 v2.5g Tabular extension package (FMi)
 \TX@cols=\count290
 \TX@ftn=\toks25
 )
-(C:\Users\FernandoJoseRamirezS\AppData\Local\Programs\MiKTeX\tex/latex/multirow
-\multirow.sty
+(C:\Users\Ferna\AppData\Local\Programs\MiKTeX\tex/latex/multirow\multirow.sty
 Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
 \multirow@colwidth=\skip58
 \multirow@cntb=\count291
 \multirow@dima=\skip59
 \bigstrutjot=\dimen195
 )
-(C:\Users\FernandoJoseRamirezS\AppData\Local\Programs\MiKTeX\tex/latex/caption\
-subcaption.sty
+(C:\Users\Ferna\AppData\Local\Programs\MiKTeX\tex/latex/caption\subcaption.sty
 Package: subcaption 2023/07/28 v1.6b Sub-captions (AR)
 
-(C:\Users\FernandoJoseRamirezS\AppData\Local\Programs\MiKTeX\tex/latex/caption\
-caption.sty
+(C:\Users\Ferna\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
 Package: caption 2023/08/05 v3.6o Customizing captions (AR)
 
-(C:\Users\FernandoJoseRamirezS\AppData\Local\Programs\MiKTeX\tex/latex/caption\
-caption3.sty
+(C:\Users\Ferna\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
 Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
 \caption@tempdima=\dimen196
 \captionmargin=\dimen197
@@ -387,8 +351,7 @@ Package caption Info: New subtype `subfigure' on input line 238.
 Package caption Info: New subtype `subtable' on input line 238.
 \c@subtable=\count295
 )
-(C:\Users\FernandoJoseRamirezS\AppData\Local\Programs\MiKTeX\tex/latex/colortbl
-\colortbl.sty
+(C:\Users\Ferna\AppData\Local\Programs\MiKTeX\tex/latex/colortbl\colortbl.sty
 Package: colortbl 2022/06/20 v1.0f Color table columns (DPC)
 \everycr=\toks26
 \minrowclearance=\skip60
@@ -403,35 +366,28 @@ LaTeX Warning: Package "xcolor" has already been loaded: ignoring load-time
 (LaTeX)        option "xcdraw".
 
 
-(C:\Users\FernandoJoseRamirezS\AppData\Local\Programs\MiKTeX\tex/latex/adjustbo
-x\adjustbox.sty
+(C:\Users\Ferna\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\adjustbox.sty
 Package: adjustbox 2022/10/17 v1.3a Adjusting TeX boxes (trim, clip, ...)
-
-(C:\Users\FernandoJoseRamirezS\AppData\Local\Programs\MiKTeX\tex/latex/xkeyval\
-xkeyval.sty
+(C:\Users\Ferna\AppData\Local\Programs\MiKTeX\tex/latex/xkeyval\xkeyval.sty
 Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
 
-(C:\Users\FernandoJoseRamirezS\AppData\Local\Programs\MiKTeX\tex/generic/xkeyva
-l\xkeyval.tex
-(C:\Users\FernandoJoseRamirezS\AppData\Local\Programs\MiKTeX\tex/generic/xkeyva
-l\xkvutils.tex
+(C:\Users\Ferna\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkeyval.tex
+(C:\Users\Ferna\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkvutils.tex
 \XKV@toks=\toks27
 \XKV@tempa@toks=\toks28
 )
 \XKV@depth=\count297
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 ))
-(C:\Users\FernandoJoseRamirezS\AppData\Local\Programs\MiKTeX\tex/latex/adjustbo
-x\adjcalc.sty
+(C:\Users\Ferna\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\adjcalc.sty
 Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back
 -ends (calc, etex, pgfmath)
 )
-(C:\Users\FernandoJoseRamirezS\AppData\Local\Programs\MiKTeX\tex/latex/adjustbo
-x\trimclip.sty
+(C:\Users\Ferna\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\trimclip.sty
 Package: trimclip 2020/08/19 v1.2 Trim and clip general TeX material
 
-(C:\Users\FernandoJoseRamirezS\AppData\Local\Programs\MiKTeX\tex/latex/collectb
-ox\collectbox.sty
+(C:\Users\Ferna\AppData\Local\Programs\MiKTeX\tex/latex/collectbox\collectbox.s
+ty
 Package: collectbox 2022/10/17 v0.4c Collect macro arguments as boxes
 \collectedbox=\box57
 )
@@ -441,8 +397,7 @@ Package: collectbox 2022/10/17 v0.4c Collect macro arguments as boxes
 \tc@ury=\dimen263
 Package trimclip Info: Using driver 'tc-pdftex.def'.
 
-(C:\Users\FernandoJoseRamirezS\AppData\Local\Programs\MiKTeX\tex/latex/adjustbo
-x\tc-pdftex.def
+(C:\Users\Ferna\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\tc-pdftex.def
 File: tc-pdftex.def 2019/01/04 v2.2 Clipping driver for pdftex
 ))
 \adjbox@Width=\dimen264
@@ -454,21 +409,16 @@ File: tc-pdftex.def 2019/01/04 v2.2 Clipping driver for pdftex
 \adjbox@pdepth=\dimen270
 \adjbox@ptotalheight=\dimen271
 
-(C:\Users\FernandoJoseRamirezS\AppData\Local\Programs\MiKTeX\tex/latex/ifoddpag
-e\ifoddpage.sty
+(C:\Users\Ferna\AppData\Local\Programs\MiKTeX\tex/latex/ifoddpage\ifoddpage.sty
 Package: ifoddpage 2022/10/18 v1.2 Conditionals for odd/even page detection
 \c@checkoddpage=\count298
-)
-(C:\Users\FernandoJoseRamirezS\AppData\Local\Programs\MiKTeX\tex/latex/varwidth
-\varwidth.sty
+) (C:\Users\Ferna\AppData\Local\Programs\MiKTeX\tex/latex/varwidth\varwidth.sty
 Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
 \@vwid@box=\box58
 \sift@deathcycles=\count299
 \@vwid@loff=\dimen272
 \@vwid@roff=\dimen273
-))
-(C:\Users\FernandoJoseRamirezS\AppData\Local\Programs\MiKTeX\tex/latex/float\fl
-oat.sty
+)) (C:\Users\Ferna\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count300
 \float@exts=\toks29
@@ -476,11 +426,30 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \@float@everytoks=\toks30
 \@floatcapt=\box60
 )
-(C:\Users\FernandoJoseRamirezS\AppData\Local\Programs\MiKTeX\tex/latex/l3backen
-d\l3backend-pdftex.def
+(C:\Users\Ferna\AppData\Local\Programs\MiKTeX\tex/latex/tools\longtable.sty
+Package: longtable 2023-11-01 v4.19 Multi-page Table package (DPC)
+\LTleft=\skip61
+\LTright=\skip62
+\LTpre=\skip63
+\LTpost=\skip64
+\LTchunksize=\count301
+\LTcapwidth=\dimen274
+\LT@head=\box61
+\LT@firsthead=\box62
+\LT@foot=\box63
+\LT@lastfoot=\box64
+\LT@gbox=\box65
+\LT@cols=\count302
+\LT@rows=\count303
+\c@LT@tables=\count304
+\c@LT@chunks=\count305
+\LT@p@ftn=\toks31
+)
+(C:\Users\Ferna\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
+tex.def
 File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count301
-\l__pdf_internal_box=\box61
+\l__color_backend_stack_int=\count306
+\l__pdf_internal_box=\box66
 ) (Sumativa1.aux
 
 LaTeX Warning: Label `eq9' multiply defined.
@@ -569,68 +538,71 @@ LaTeX Warning: Label `fig:fig511' multiply defined.
 )
 \openout1 = `Sumativa1.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
 
 -- Lines per column: 56 (exact).
 
-(C:\Users\FernandoJoseRamirezS\AppData\Local\Programs\MiKTeX\tex/context/base/m
-kii\supp-pdf.mkii
+(C:\Users\Ferna\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
+ii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count302
-\scratchdimen=\dimen274
-\scratchbox=\box62
-\nofMPsegments=\count303
-\nofMParguments=\count304
-\everyMPshowfont=\toks31
-\MPscratchCnt=\count305
-\MPscratchDim=\dimen275
-\MPnumerator=\count306
-\makeMPintoPDFobject=\count307
-\everyMPtoPDFconversion=\toks32
+\scratchcounter=\count307
+\scratchdimen=\dimen275
+\scratchbox=\box67
+\nofMPsegments=\count308
+\nofMParguments=\count309
+\everyMPshowfont=\toks32
+\MPscratchCnt=\count310
+\MPscratchDim=\dimen276
+\MPnumerator=\count311
+\makeMPintoPDFobject=\count312
+\everyMPtoPDFconversion=\toks33
 )
-(C:\Users\FernandoJoseRamirezS\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf
--pkg\epstopdf-base.sty
+(C:\Users\Ferna\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
+ase.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 85.
 
-(C:\Users\FernandoJoseRamirezS\AppData\Local\Programs\MiKTeX\tex/latex/00miktex
-\epstopdf-sys.cfg
+(C:\Users\Ferna\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.c
+fg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: float package is loaded.
+Package caption Info: longtable package is loaded.
+
+(C:\Users\Ferna\AppData\Local\Programs\MiKTeX\tex/latex/caption\ltcaption.sty
+Package: ltcaption 2021/01/08 v1.4c longtable captions (AR)
+)
 Package caption Info: End \AtBeginDocument code.
-LaTeX Font Info:    Calculating math sizes for size <11> on input line 42.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 42.
+LaTeX Font Info:    Calculating math sizes for size <11> on input line 46.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 46.
 
 
-(C:\Users\FernandoJoseRamirezS\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts
-\umsa.fd
+(C:\Users\Ferna\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 42.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 46.
 
 
-(C:\Users\FernandoJoseRamirezS\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts
-\umsb.fd
+(C:\Users\Ferna\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) [1{C:/Users/FernandoJoseRamirezS/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex
-.map}{C:/Users/FernandoJoseRamirezS/AppData/Local/Programs/MiKTeX/fonts/enc/dvi
-ps/base/8r.enc}
+)
+[1{C:/Users/Ferna/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/Fe
+rna/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}
 
 
 ]
@@ -640,32 +612,32 @@ File: imagenes_hueso/Proceso_Segmentacion_Bioinspirado.png Graphic file (type p
 ng)
 <use imagenes_hueso/Proceso_Segmentacion_Bioinspirado.png>
 Package pdftex.def Info: imagenes_hueso/Proceso_Segmentacion_Bioinspirado.png  
-used on input line 92.
+used on input line 96.
 (pdftex.def)             Requested size: 226.79846pt x 432.19008pt.
  [2 <./imagenes_hueso/Proceso_Segmentacion_Bioinspirado.png>] [3] [4]
 <imagenes_hueso/img_1_12.png, id=33, 2007.5pt x 2007.5pt>
 File: imagenes_hueso/img_1_12.png Graphic file (type png)
 <use imagenes_hueso/img_1_12.png>
-Package pdftex.def Info: imagenes_hueso/img_1_12.png  used on input line 287.
+Package pdftex.def Info: imagenes_hueso/img_1_12.png  used on input line 291.
 (pdftex.def)             Requested size: 258.0pt x 257.98222pt.
 
-Overfull \hbox (6.0pt too wide) in paragraph at lines 286--289
+Overfull \hbox (6.0pt too wide) in paragraph at lines 290--293
  [][] 
  []
 
 <imagenes_hueso/img_13_20.png, id=34, 2007.5pt x 1345.025pt>
 File: imagenes_hueso/img_13_20.png Graphic file (type png)
 <use imagenes_hueso/img_13_20.png>
-Package pdftex.def Info: imagenes_hueso/img_13_20.png  used on input line 291.
+Package pdftex.def Info: imagenes_hueso/img_13_20.png  used on input line 295.
 (pdftex.def)             Requested size: 258.0pt x 172.84808pt.
 
-Overfull \hbox (6.0pt too wide) in paragraph at lines 290--293
+Overfull \hbox (6.0pt too wide) in paragraph at lines 294--297
  [][] 
  []
 
 [5 <./imagenes_hueso/img_1_12.png> <./imagenes_hueso/img_13_20.png>] [6]
 [7] [8]
-Underfull \hbox (badness 1472) in paragraph at lines 881--882
+Underfull \hbox (badness 1472) in paragraph at lines 885--886
 \OT1/ptm/m/n/10 En la fase de ex-cavaci[]on el Honey Bagder re-al-iza un
  []
 
@@ -673,10 +645,10 @@ Underfull \hbox (badness 1472) in paragraph at lines 881--882
 File: Fitness/Kapur/BoxPlot_Dim7/BoxPlots_1-6.png Graphic file (type png)
 <use Fitness/Kapur/BoxPlot_Dim7/BoxPlots_1-6.png>
 Package pdftex.def Info: Fitness/Kapur/BoxPlot_Dim7/BoxPlots_1-6.png  used on i
-nput line 1686.
+nput line 1690.
 (pdftex.def)             Requested size: 258.0pt x 220.9311pt.
 
-Overfull \hbox (6.0pt too wide) in paragraph at lines 1685--1688
+Overfull \hbox (6.0pt too wide) in paragraph at lines 1689--1692
  [][] 
  []
 
@@ -684,37 +656,37 @@ Overfull \hbox (6.0pt too wide) in paragraph at lines 1685--1688
 File: Fitness/Kapur/BoxPlot_Dim7/BoxPlots_7-12.png Graphic file (type png)
 <use Fitness/Kapur/BoxPlot_Dim7/BoxPlots_7-12.png>
 Package pdftex.def Info: Fitness/Kapur/BoxPlot_Dim7/BoxPlots_7-12.png  used on 
-input line 1690.
+input line 1694.
 (pdftex.def)             Requested size: 258.0pt x 220.9311pt.
 <Fitness/Kapur/BoxPlot_Dim7/BoxPlots_13-18.png, id=55, 786.2976pt x 673.3155pt>
 
 File: Fitness/Kapur/BoxPlot_Dim7/BoxPlots_13-18.png Graphic file (type png)
 <use Fitness/Kapur/BoxPlot_Dim7/BoxPlots_13-18.png>
 Package pdftex.def Info: Fitness/Kapur/BoxPlot_Dim7/BoxPlots_13-18.png  used on
- input line 1693.
+ input line 1697.
 (pdftex.def)             Requested size: 258.0pt x 220.9311pt.
 
-Overfull \hbox (6.0pt too wide) in paragraph at lines 1689--1695
+Overfull \hbox (6.0pt too wide) in paragraph at lines 1693--1699
  [][] 
  []
 
 
-Overfull \hbox (6.0pt too wide) in paragraph at lines 1689--1695
+Overfull \hbox (6.0pt too wide) in paragraph at lines 1693--1699
  [] 
  []
 
 
-LaTeX Warning: Float too large for page by 36.39336pt on input line 1697.
+LaTeX Warning: Float too large for page by 36.39336pt on input line 1701.
 
 <Fitness/Kapur/BoxPlot_Dim7/BoxPlots_19-20.png, id=56, 786.2976pt x 673.3155pt>
 
 File: Fitness/Kapur/BoxPlot_Dim7/BoxPlots_19-20.png Graphic file (type png)
 <use Fitness/Kapur/BoxPlot_Dim7/BoxPlots_19-20.png>
 Package pdftex.def Info: Fitness/Kapur/BoxPlot_Dim7/BoxPlots_19-20.png  used on
- input line 1702.
+ input line 1706.
 (pdftex.def)             Requested size: 258.0pt x 220.9311pt.
 
-Overfull \hbox (6.0pt too wide) in paragraph at lines 1701--1705
+Overfull \hbox (6.0pt too wide) in paragraph at lines 1705--1709
  [][] 
  []
 
@@ -723,10 +695,10 @@ pt>
 File: Fitness/Kapur/BoxPlot_Dim8/BoxPlots_1-6_Dim8.png Graphic file (type png)
 <use Fitness/Kapur/BoxPlot_Dim8/BoxPlots_1-6_Dim8.png>
 Package pdftex.def Info: Fitness/Kapur/BoxPlot_Dim8/BoxPlots_1-6_Dim8.png  used
- on input line 1714.
+ on input line 1718.
 (pdftex.def)             Requested size: 258.0pt x 220.9311pt.
 
-Overfull \hbox (6.0pt too wide) in paragraph at lines 1713--1716
+Overfull \hbox (6.0pt too wide) in paragraph at lines 1717--1720
  [][] 
  []
 
@@ -736,7 +708,7 @@ File: Fitness/Kapur/BoxPlot_Dim8/BoxPlots_7-12_Dim8.png Graphic file (type png)
 
 <use Fitness/Kapur/BoxPlot_Dim8/BoxPlots_7-12_Dim8.png>
 Package pdftex.def Info: Fitness/Kapur/BoxPlot_Dim8/BoxPlots_7-12_Dim8.png  use
-d on input line 1718.
+d on input line 1722.
 (pdftex.def)             Requested size: 258.0pt x 220.9311pt.
 <Fitness/Kapur/BoxPlot_Dim8/BoxPlots_13-18_Dim8.png, id=59, 786.2976pt x 673.31
 55pt>
@@ -744,20 +716,20 @@ File: Fitness/Kapur/BoxPlot_Dim8/BoxPlots_13-18_Dim8.png Graphic file (type png
 )
 <use Fitness/Kapur/BoxPlot_Dim8/BoxPlots_13-18_Dim8.png>
 Package pdftex.def Info: Fitness/Kapur/BoxPlot_Dim8/BoxPlots_13-18_Dim8.png  us
-ed on input line 1721.
+ed on input line 1725.
 (pdftex.def)             Requested size: 258.0pt x 220.9311pt.
 
-Overfull \hbox (6.0pt too wide) in paragraph at lines 1717--1723
+Overfull \hbox (6.0pt too wide) in paragraph at lines 1721--1727
  [][] 
  []
 
 
-Overfull \hbox (6.0pt too wide) in paragraph at lines 1717--1723
+Overfull \hbox (6.0pt too wide) in paragraph at lines 1721--1727
  [] 
  []
 
 
-LaTeX Warning: Float too large for page by 36.39336pt on input line 1725.
+LaTeX Warning: Float too large for page by 36.39336pt on input line 1729.
 
 <Fitness/Kapur/BoxPlot_Dim8/BoxPlots_19-20_Dim8.png, id=60, 786.2976pt x 673.31
 55pt>
@@ -765,10 +737,10 @@ File: Fitness/Kapur/BoxPlot_Dim8/BoxPlots_19-20_Dim8.png Graphic file (type png
 )
 <use Fitness/Kapur/BoxPlot_Dim8/BoxPlots_19-20_Dim8.png>
 Package pdftex.def Info: Fitness/Kapur/BoxPlot_Dim8/BoxPlots_19-20_Dim8.png  us
-ed on input line 1730.
+ed on input line 1734.
 (pdftex.def)             Requested size: 258.0pt x 220.9311pt.
 
-Overfull \hbox (6.0pt too wide) in paragraph at lines 1729--1733
+Overfull \hbox (6.0pt too wide) in paragraph at lines 1733--1737
  [][] 
  []
 
@@ -777,10 +749,10 @@ pt>
 File: Fitness/Kapur/BoxPlot_Dim9/BoxPlots_1-6_Dim9.png Graphic file (type png)
 <use Fitness/Kapur/BoxPlot_Dim9/BoxPlots_1-6_Dim9.png>
 Package pdftex.def Info: Fitness/Kapur/BoxPlot_Dim9/BoxPlots_1-6_Dim9.png  used
- on input line 1741.
+ on input line 1745.
 (pdftex.def)             Requested size: 258.0pt x 220.9311pt.
 
-Overfull \hbox (6.0pt too wide) in paragraph at lines 1740--1743
+Overfull \hbox (6.0pt too wide) in paragraph at lines 1744--1747
  [][] 
  []
 
@@ -790,7 +762,7 @@ File: Fitness/Kapur/BoxPlot_Dim9/BoxPlots_7-12_Dim9.png Graphic file (type png)
 
 <use Fitness/Kapur/BoxPlot_Dim9/BoxPlots_7-12_Dim9.png>
 Package pdftex.def Info: Fitness/Kapur/BoxPlot_Dim9/BoxPlots_7-12_Dim9.png  use
-d on input line 1745.
+d on input line 1749.
 (pdftex.def)             Requested size: 258.0pt x 220.9311pt.
 <Fitness/Kapur/BoxPlot_Dim9/BoxPlots_13-18_Dim9.png, id=63, 786.2976pt x 673.31
 55pt>
@@ -798,20 +770,20 @@ File: Fitness/Kapur/BoxPlot_Dim9/BoxPlots_13-18_Dim9.png Graphic file (type png
 )
 <use Fitness/Kapur/BoxPlot_Dim9/BoxPlots_13-18_Dim9.png>
 Package pdftex.def Info: Fitness/Kapur/BoxPlot_Dim9/BoxPlots_13-18_Dim9.png  us
-ed on input line 1748.
+ed on input line 1752.
 (pdftex.def)             Requested size: 258.0pt x 220.9311pt.
 
-Overfull \hbox (6.0pt too wide) in paragraph at lines 1744--1750
+Overfull \hbox (6.0pt too wide) in paragraph at lines 1748--1754
  [][] 
  []
 
 
-Overfull \hbox (6.0pt too wide) in paragraph at lines 1744--1750
+Overfull \hbox (6.0pt too wide) in paragraph at lines 1748--1754
  [] 
  []
 
 
-LaTeX Warning: Float too large for page by 36.39336pt on input line 1752.
+LaTeX Warning: Float too large for page by 36.39336pt on input line 1756.
 
 <Fitness/Kapur/BoxPlot_Dim9/BoxPlots_19-20_Dim9.png, id=64, 786.2976pt x 220.42
 35pt>
@@ -819,10 +791,10 @@ File: Fitness/Kapur/BoxPlot_Dim9/BoxPlots_19-20_Dim9.png Graphic file (type png
 )
 <use Fitness/Kapur/BoxPlot_Dim9/BoxPlots_19-20_Dim9.png>
 Package pdftex.def Info: Fitness/Kapur/BoxPlot_Dim9/BoxPlots_19-20_Dim9.png  us
-ed on input line 1757.
+ed on input line 1761.
 (pdftex.def)             Requested size: 258.0pt x 72.32626pt.
 
-Overfull \hbox (6.0pt too wide) in paragraph at lines 1756--1760
+Overfull \hbox (6.0pt too wide) in paragraph at lines 1760--1764
  [][] 
  []
 
@@ -831,10 +803,10 @@ t>
 File: Fitness/Otsu/Boxplot_Dim7/BoxPlots_1-6_Dim7.png Graphic file (type png)
 <use Fitness/Otsu/Boxplot_Dim7/BoxPlots_1-6_Dim7.png>
 Package pdftex.def Info: Fitness/Otsu/Boxplot_Dim7/BoxPlots_1-6_Dim7.png  used 
-on input line 1771.
+on input line 1775.
 (pdftex.def)             Requested size: 258.0pt x 228.51942pt.
 
-Overfull \hbox (6.0pt too wide) in paragraph at lines 1770--1773
+Overfull \hbox (6.0pt too wide) in paragraph at lines 1774--1777
  [][] 
  []
 
@@ -843,7 +815,7 @@ pt>
 File: Fitness/Otsu/Boxplot_Dim7/BoxPlots_7-12_Dim7.png Graphic file (type png)
 <use Fitness/Otsu/Boxplot_Dim7/BoxPlots_7-12_Dim7.png>
 Package pdftex.def Info: Fitness/Otsu/Boxplot_Dim7/BoxPlots_7-12_Dim7.png  used
- on input line 1775.
+ on input line 1779.
 (pdftex.def)             Requested size: 258.0pt x 228.51942pt.
 <Fitness/Otsu/Boxplot_Dim7/BoxPlots_13-18_Dim7.png, id=67, 786.2976pt x 696.441
 9pt>
@@ -851,20 +823,20 @@ File: Fitness/Otsu/Boxplot_Dim7/BoxPlots_13-18_Dim7.png Graphic file (type png)
 
 <use Fitness/Otsu/Boxplot_Dim7/BoxPlots_13-18_Dim7.png>
 Package pdftex.def Info: Fitness/Otsu/Boxplot_Dim7/BoxPlots_13-18_Dim7.png  use
-d on input line 1778.
+d on input line 1782.
 (pdftex.def)             Requested size: 258.0pt x 228.51942pt.
 
-Overfull \hbox (6.0pt too wide) in paragraph at lines 1774--1780
+Overfull \hbox (6.0pt too wide) in paragraph at lines 1778--1784
  [][] 
  []
 
 
-Overfull \hbox (6.0pt too wide) in paragraph at lines 1774--1780
+Overfull \hbox (6.0pt too wide) in paragraph at lines 1778--1784
  [] 
  []
 
 
-LaTeX Warning: Float too large for page by 59.15831pt on input line 1782.
+LaTeX Warning: Float too large for page by 59.15831pt on input line 1786.
 
 <Fitness/Otsu/Boxplot_Dim7/BoxPlots_19-20_Dim7.png, id=68, 786.2976pt x 696.441
 9pt>
@@ -872,10 +844,10 @@ File: Fitness/Otsu/Boxplot_Dim7/BoxPlots_19-20_Dim7.png Graphic file (type png)
 
 <use Fitness/Otsu/Boxplot_Dim7/BoxPlots_19-20_Dim7.png>
 Package pdftex.def Info: Fitness/Otsu/Boxplot_Dim7/BoxPlots_19-20_Dim7.png  use
-d on input line 1787.
+d on input line 1791.
 (pdftex.def)             Requested size: 258.0pt x 228.51942pt.
 
-Overfull \hbox (6.0pt too wide) in paragraph at lines 1786--1790
+Overfull \hbox (6.0pt too wide) in paragraph at lines 1790--1794
  [][] 
  []
 
@@ -884,10 +856,10 @@ t>
 File: Fitness/Otsu/Boxplot_Dim8/BoxPlots_1-6_Dim8.png Graphic file (type png)
 <use Fitness/Otsu/Boxplot_Dim8/BoxPlots_1-6_Dim8.png>
 Package pdftex.def Info: Fitness/Otsu/Boxplot_Dim8/BoxPlots_1-6_Dim8.png  used 
-on input line 1799.
+on input line 1803.
 (pdftex.def)             Requested size: 258.0pt x 228.51942pt.
 
-Overfull \hbox (6.0pt too wide) in paragraph at lines 1798--1801
+Overfull \hbox (6.0pt too wide) in paragraph at lines 1802--1805
  [][] 
  []
 
@@ -896,7 +868,7 @@ pt>
 File: Fitness/Otsu/BoxPlot_Dim8/BoxPlots_7-12_Dim8.png Graphic file (type png)
 <use Fitness/Otsu/BoxPlot_Dim8/BoxPlots_7-12_Dim8.png>
 Package pdftex.def Info: Fitness/Otsu/BoxPlot_Dim8/BoxPlots_7-12_Dim8.png  used
- on input line 1803.
+ on input line 1807.
 (pdftex.def)             Requested size: 258.0pt x 228.51942pt.
 <Fitness/Otsu/Boxplot_Dim8/BoxPlots_13-18_Dim8.png, id=71, 786.2976pt x 696.441
 9pt>
@@ -904,20 +876,20 @@ File: Fitness/Otsu/Boxplot_Dim8/BoxPlots_13-18_Dim8.png Graphic file (type png)
 
 <use Fitness/Otsu/Boxplot_Dim8/BoxPlots_13-18_Dim8.png>
 Package pdftex.def Info: Fitness/Otsu/Boxplot_Dim8/BoxPlots_13-18_Dim8.png  use
-d on input line 1806.
+d on input line 1810.
 (pdftex.def)             Requested size: 258.0pt x 228.51942pt.
 
-Overfull \hbox (6.0pt too wide) in paragraph at lines 1802--1808
+Overfull \hbox (6.0pt too wide) in paragraph at lines 1806--1812
  [][] 
  []
 
 
-Overfull \hbox (6.0pt too wide) in paragraph at lines 1802--1808
+Overfull \hbox (6.0pt too wide) in paragraph at lines 1806--1812
  [] 
  []
 
 
-LaTeX Warning: Float too large for page by 59.15831pt on input line 1810.
+LaTeX Warning: Float too large for page by 59.15831pt on input line 1814.
 
 <Fitness/Otsu/Boxplot_Dim8/BoxPlots_19-20_Dim8.png, id=72, 786.2976pt x 696.441
 9pt>
@@ -925,10 +897,10 @@ File: Fitness/Otsu/Boxplot_Dim8/BoxPlots_19-20_Dim8.png Graphic file (type png)
 
 <use Fitness/Otsu/Boxplot_Dim8/BoxPlots_19-20_Dim8.png>
 Package pdftex.def Info: Fitness/Otsu/Boxplot_Dim8/BoxPlots_19-20_Dim8.png  use
-d on input line 1815.
+d on input line 1819.
 (pdftex.def)             Requested size: 258.0pt x 228.51942pt.
 
-Overfull \hbox (6.0pt too wide) in paragraph at lines 1814--1818
+Overfull \hbox (6.0pt too wide) in paragraph at lines 1818--1822
  [][] 
  []
 
@@ -937,10 +909,10 @@ t>
 File: Fitness/Otsu/Boxplot_Dim9/BoxPlots_1-6_Dim9.png Graphic file (type png)
 <use Fitness/Otsu/Boxplot_Dim9/BoxPlots_1-6_Dim9.png>
 Package pdftex.def Info: Fitness/Otsu/Boxplot_Dim9/BoxPlots_1-6_Dim9.png  used 
-on input line 1826.
+on input line 1830.
 (pdftex.def)             Requested size: 258.0pt x 228.51942pt.
 
-Overfull \hbox (6.0pt too wide) in paragraph at lines 1825--1828
+Overfull \hbox (6.0pt too wide) in paragraph at lines 1829--1832
  [][] 
  []
 
@@ -949,7 +921,7 @@ pt>
 File: Fitness/Otsu/Boxplot_Dim9/BoxPlots_7-12_Dim9.png Graphic file (type png)
 <use Fitness/Otsu/Boxplot_Dim9/BoxPlots_7-12_Dim9.png>
 Package pdftex.def Info: Fitness/Otsu/Boxplot_Dim9/BoxPlots_7-12_Dim9.png  used
- on input line 1830.
+ on input line 1834.
 (pdftex.def)             Requested size: 258.0pt x 228.51942pt.
 <Fitness/Otsu/Boxplot_Dim9/BoxPlots_13-18_Dim9.png, id=75, 786.2976pt x 696.441
 9pt>
@@ -957,20 +929,20 @@ File: Fitness/Otsu/Boxplot_Dim9/BoxPlots_13-18_Dim9.png Graphic file (type png)
 
 <use Fitness/Otsu/Boxplot_Dim9/BoxPlots_13-18_Dim9.png>
 Package pdftex.def Info: Fitness/Otsu/Boxplot_Dim9/BoxPlots_13-18_Dim9.png  use
-d on input line 1833.
+d on input line 1837.
 (pdftex.def)             Requested size: 258.0pt x 228.51942pt.
 
-Overfull \hbox (6.0pt too wide) in paragraph at lines 1829--1835
+Overfull \hbox (6.0pt too wide) in paragraph at lines 1833--1839
  [][] 
  []
 
 
-Overfull \hbox (6.0pt too wide) in paragraph at lines 1829--1835
+Overfull \hbox (6.0pt too wide) in paragraph at lines 1833--1839
  [] 
  []
 
 
-LaTeX Warning: Float too large for page by 59.15831pt on input line 1837.
+LaTeX Warning: Float too large for page by 59.15831pt on input line 1841.
 
 <Fitness/Otsu/Boxplot_Dim9/BoxPlots_19-20_Dim9.png, id=76, 786.2976pt x 696.441
 9pt>
@@ -978,34 +950,34 @@ File: Fitness/Otsu/Boxplot_Dim9/BoxPlots_19-20_Dim9.png Graphic file (type png)
 
 <use Fitness/Otsu/Boxplot_Dim9/BoxPlots_19-20_Dim9.png>
 Package pdftex.def Info: Fitness/Otsu/Boxplot_Dim9/BoxPlots_19-20_Dim9.png  use
-d on input line 1842.
+d on input line 1846.
 (pdftex.def)             Requested size: 258.0pt x 228.51942pt.
 
-Overfull \hbox (6.0pt too wide) in paragraph at lines 1841--1845
+Overfull \hbox (6.0pt too wide) in paragraph at lines 1845--1849
  [][] 
  []
 
 
-LaTeX Warning: Reference `tab:anexoA' on page 9 undefined on input line 1859.
+LaTeX Warning: Reference `tab:anexoA' on page 9 undefined on input line 1863.
 
 
-Underfull \hbox (badness 2237) in paragraph at lines 1861--1862
+Underfull \hbox (badness 2237) in paragraph at lines 1865--1866
 \OT1/ptm/m/n/10 En an[]alisis es-pec[]^^Pficos, GWO y TSO so-bre-salieron en
  []
 
 
 LaTeX Warning: Reference `fig:imagenesfitnessbox' on page 9 undefined on input 
-line 1867.
+line 1871.
 
 [9]
 <Fitness/Kapur/Rank_Kapur_Fitness.png, id=80, 445.665pt x 225.57pt>
 File: Fitness/Kapur/Rank_Kapur_Fitness.png Graphic file (type png)
 <use Fitness/Kapur/Rank_Kapur_Fitness.png>
 Package pdftex.def Info: Fitness/Kapur/Rank_Kapur_Fitness.png  used on input li
-ne 1873.
+ne 1877.
 (pdftex.def)             Requested size: 258.0pt x 130.5863pt.
 
-Overfull \hbox (6.0pt too wide) in paragraph at lines 1873--1874
+Overfull \hbox (6.0pt too wide) in paragraph at lines 1877--1878
  [][] 
  []
 
@@ -1013,20 +985,20 @@ Overfull \hbox (6.0pt too wide) in paragraph at lines 1873--1874
 File: Fitness/Otsu/Rank_Otsu_Fitness.png Graphic file (type png)
 <use Fitness/Otsu/Rank_Otsu_Fitness.png>
 Package pdftex.def Info: Fitness/Otsu/Rank_Otsu_Fitness.png  used on input line
- 1880.
+ 1884.
 (pdftex.def)             Requested size: 258.0pt x 128.79407pt.
 
-Overfull \hbox (6.0pt too wide) in paragraph at lines 1880--1881
+Overfull \hbox (6.0pt too wide) in paragraph at lines 1884--1885
  [][] 
  []
 
 
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 1888.
+               Default added (so using `tbp') on input line 1891.
 
 
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 1960.
+               Default added (so using `tbp') on input line 1964.
 
 [10 <./Fitness/Kapur/BoxPlot_Dim7/BoxPlots_1-6.png> <./Fitness/Kapur/BoxPlot_Di
 m7/BoxPlots_7-12.png> <./Fitness/Kapur/BoxPlot_Dim7/BoxPlots_13-18.png> <./Fitn
@@ -1035,36 +1007,39 @@ ess/Kapur/BoxPlot_Dim7/BoxPlots_19-20.png>] [11] [12]
 File: Fitness/Kapur/CNV/CNV_Kapur.png Graphic file (type png)
 <use Fitness/Kapur/CNV/CNV_Kapur.png>
 Package pdftex.def Info: Fitness/Kapur/CNV/CNV_Kapur.png  used on input line 20
-52.
+55.
 (pdftex.def)             Requested size: 258.0pt x 479.85681pt.
 
-Overfull \hbox (6.0pt too wide) in paragraph at lines 2051--2055
+Overfull \hbox (6.0pt too wide) in paragraph at lines 2054--2058
  [][] 
  []
 
 <Fitness/Otsu/CNV/CNV_Otsu.png, id=96, 422.7795pt x 786.2976pt>
 File: Fitness/Otsu/CNV/CNV_Otsu.png Graphic file (type png)
 <use Fitness/Otsu/CNV/CNV_Otsu.png>
-Package pdftex.def Info: Fitness/Otsu/CNV/CNV_Otsu.png  used on input line 2063
+Package pdftex.def Info: Fitness/Otsu/CNV/CNV_Otsu.png  used on input line 2066
 .
 (pdftex.def)             Requested size: 258.0pt x 479.85681pt.
 
-Overfull \hbox (6.0pt too wide) in paragraph at lines 2062--2066
+Overfull \hbox (6.0pt too wide) in paragraph at lines 2065--2069
  [][] 
  []
 
 
+LaTeX Warning: Reference `tab:anexoB' on page 13 undefined on input line 2075.
+
+
 LaTeX Warning: Reference `fig:imagenesPSNRbox' on page 13 undefined on input li
-ne 2079.
+ne 2082.
 
 <PSNR/Kapur/Dim7/PSNR_Dim7_Kapur_1_6.png, id=97, 786.2976pt x 722.9409pt>
 File: PSNR/Kapur/Dim7/PSNR_Dim7_Kapur_1_6.png Graphic file (type png)
 <use PSNR/Kapur/Dim7/PSNR_Dim7_Kapur_1_6.png>
 Package pdftex.def Info: PSNR/Kapur/Dim7/PSNR_Dim7_Kapur_1_6.png  used on input
- line 2087.
+ line 2090.
 (pdftex.def)             Requested size: 258.0pt x 237.2144pt.
 
-Overfull \hbox (6.0pt too wide) in paragraph at lines 2086--2089
+Overfull \hbox (6.0pt too wide) in paragraph at lines 2089--2092
  [][] 
  []
 
@@ -1072,10 +1047,10 @@ Overfull \hbox (6.0pt too wide) in paragraph at lines 2086--2089
 File: PSNR/Kapur/Dim7/PSNR_Dim7_Kapur_7_12.png Graphic file (type png)
 <use PSNR/Kapur/Dim7/PSNR_Dim7_Kapur_7_12.png>
 Package pdftex.def Info: PSNR/Kapur/Dim7/PSNR_Dim7_Kapur_7_12.png  used on inpu
-t line 2091.
+t line 2094.
 (pdftex.def)             Requested size: 258.0pt x 237.2144pt.
 
-Overfull \hbox (6.0pt too wide) in paragraph at lines 2090--2093
+Overfull \hbox (6.0pt too wide) in paragraph at lines 2093--2096
  [][] 
  []
 
@@ -1083,21 +1058,21 @@ Overfull \hbox (6.0pt too wide) in paragraph at lines 2090--2093
 File: PSNR/Kapur/Dim7/PSNR_Dim7_Kapur_13_18.png Graphic file (type png)
 <use PSNR/Kapur/Dim7/PSNR_Dim7_Kapur_13_18.png>
 Package pdftex.def Info: PSNR/Kapur/Dim7/PSNR_Dim7_Kapur_13_18.png  used on inp
-ut line 2100.
+ut line 2103.
 (pdftex.def)             Requested size: 258.0pt x 237.2144pt.
 <PSNR/Kapur/Dim7/PSNR_Dim7_Kapur_19_20.png, id=100, 786.2976pt x 722.9409pt>
 File: PSNR/Kapur/Dim7/PSNR_Dim7_Kapur_19_20.png Graphic file (type png)
 <use PSNR/Kapur/Dim7/PSNR_Dim7_Kapur_19_20.png>
 Package pdftex.def Info: PSNR/Kapur/Dim7/PSNR_Dim7_Kapur_19_20.png  used on inp
-ut line 2104.
+ut line 2107.
 (pdftex.def)             Requested size: 258.0pt x 237.2144pt.
 
-Overfull \hbox (6.0pt too wide) in paragraph at lines 2099--2107
+Overfull \hbox (6.0pt too wide) in paragraph at lines 2102--2110
  [][] 
  []
 
 
-Overfull \hbox (6.0pt too wide) in paragraph at lines 2099--2107
+Overfull \hbox (6.0pt too wide) in paragraph at lines 2102--2110
  [] 
  []
 
@@ -1105,27 +1080,27 @@ Overfull \hbox (6.0pt too wide) in paragraph at lines 2099--2107
 File: PSNR/Kapur/Dim8/PSNR_Dim8_Kapur_1_6.png Graphic file (type png)
 <use PSNR/Kapur/Dim8/PSNR_Dim8_Kapur_1_6.png>
 Package pdftex.def Info: PSNR/Kapur/Dim8/PSNR_Dim8_Kapur_1_6.png  used on input
- line 2116.
+ line 2119.
 (pdftex.def)             Requested size: 258.0pt x 237.2144pt.
 <PSNR/Kapur/Dim8/PSNR_Dim8_Kapur_7_12.png, id=102, 786.2976pt x 722.9409pt>
 File: PSNR/Kapur/Dim8/PSNR_Dim8_Kapur_7_12.png Graphic file (type png)
 <use PSNR/Kapur/Dim8/PSNR_Dim8_Kapur_7_12.png>
 Package pdftex.def Info: PSNR/Kapur/Dim8/PSNR_Dim8_Kapur_7_12.png  used on inpu
-t line 2121.
+t line 2124.
 (pdftex.def)             Requested size: 258.0pt x 237.2144pt.
 <PSNR/Kapur/Dim8/PSNR_Dim8_Kapur_13_18.png, id=103, 786.2976pt x 722.9409pt>
 File: PSNR/Kapur/Dim8/PSNR_Dim8_Kapur_13_18.png Graphic file (type png)
 <use PSNR/Kapur/Dim8/PSNR_Dim8_Kapur_13_18.png>
 Package pdftex.def Info: PSNR/Kapur/Dim8/PSNR_Dim8_Kapur_13_18.png  used on inp
-ut line 2126.
+ut line 2129.
 (pdftex.def)             Requested size: 258.0pt x 237.2144pt.
 
-Overfull \hbox (264.0pt too wide) in paragraph at lines 2114--2128
+Overfull \hbox (264.0pt too wide) in paragraph at lines 2117--2131
  [][][] 
  []
 
 
-Overfull \hbox (6.0pt too wide) in paragraph at lines 2114--2128
+Overfull \hbox (6.0pt too wide) in paragraph at lines 2117--2131
  [] 
  []
 
@@ -1133,10 +1108,10 @@ Overfull \hbox (6.0pt too wide) in paragraph at lines 2114--2128
 File: PSNR/Kapur/Dim8/PSNR_Dim8_Kapur_19_20.png Graphic file (type png)
 <use PSNR/Kapur/Dim8/PSNR_Dim8_Kapur_19_20.png>
 Package pdftex.def Info: PSNR/Kapur/Dim8/PSNR_Dim8_Kapur_19_20.png  used on inp
-ut line 2137.
+ut line 2140.
 (pdftex.def)             Requested size: 258.0pt x 237.2144pt.
 
-Overfull \hbox (6.0pt too wide) in paragraph at lines 2135--2139
+Overfull \hbox (6.0pt too wide) in paragraph at lines 2138--2142
  [][] 
  []
 
@@ -1144,10 +1119,10 @@ Overfull \hbox (6.0pt too wide) in paragraph at lines 2135--2139
 File: PSNR/Kapur/Dim9/PSNR_Dim9_Kapur_1_6.png Graphic file (type png)
 <use PSNR/Kapur/Dim9/PSNR_Dim9_Kapur_1_6.png>
 Package pdftex.def Info: PSNR/Kapur/Dim9/PSNR_Dim9_Kapur_1_6.png  used on input
- line 2149.
+ line 2152.
 (pdftex.def)             Requested size: 258.0pt x 237.2144pt.
 
-Overfull \hbox (6.0pt too wide) in paragraph at lines 2148--2151
+Overfull \hbox (6.0pt too wide) in paragraph at lines 2151--2154
  [][] 
  []
 
@@ -1155,10 +1130,10 @@ Overfull \hbox (6.0pt too wide) in paragraph at lines 2148--2151
 File: PSNR/Kapur/Dim9/PSNR_Dim9_Kapur_7_12.png Graphic file (type png)
 <use PSNR/Kapur/Dim9/PSNR_Dim9_Kapur_7_12.png>
 Package pdftex.def Info: PSNR/Kapur/Dim9/PSNR_Dim9_Kapur_7_12.png  used on inpu
-t line 2153.
+t line 2156.
 (pdftex.def)             Requested size: 258.0pt x 237.2144pt.
 
-Overfull \hbox (6.0pt too wide) in paragraph at lines 2152--2155
+Overfull \hbox (6.0pt too wide) in paragraph at lines 2155--2158
  [][] 
  []
 
@@ -1166,63 +1141,66 @@ Overfull \hbox (6.0pt too wide) in paragraph at lines 2152--2155
 File: PSNR/Kapur/Dim9/PSNR_Dim9_Kapur_13_18.png Graphic file (type png)
 <use PSNR/Kapur/Dim9/PSNR_Dim9_Kapur_13_18.png>
 Package pdftex.def Info: PSNR/Kapur/Dim9/PSNR_Dim9_Kapur_13_18.png  used on inp
-ut line 2162.
+ut line 2165.
 (pdftex.def)             Requested size: 258.0pt x 237.2144pt.
 <PSNR/Kapur/Dim9/PSNR_Dim9_Kapur_19_20.png, id=108, 786.2976pt x 722.9409pt>
 File: PSNR/Kapur/Dim9/PSNR_Dim9_Kapur_19_20.png Graphic file (type png)
 <use PSNR/Kapur/Dim9/PSNR_Dim9_Kapur_19_20.png>
 Package pdftex.def Info: PSNR/Kapur/Dim9/PSNR_Dim9_Kapur_19_20.png  used on inp
-ut line 2166.
+ut line 2169.
 (pdftex.def)             Requested size: 258.0pt x 237.2144pt.
 
-Overfull \hbox (6.0pt too wide) in paragraph at lines 2161--2169
+Overfull \hbox (6.0pt too wide) in paragraph at lines 2164--2172
  [][] 
  []
 
 
-Overfull \hbox (6.0pt too wide) in paragraph at lines 2161--2169
+Overfull \hbox (6.0pt too wide) in paragraph at lines 2164--2172
  [] 
  []
 
 <PSNR/Kapur/Rank_Kapur_PSNR.png, id=109, 2106.36937pt x 1284.29813pt>
 File: PSNR/Kapur/Rank_Kapur_PSNR.png Graphic file (type png)
 <use PSNR/Kapur/Rank_Kapur_PSNR.png>
-Package pdftex.def Info: PSNR/Kapur/Rank_Kapur_PSNR.png  used on input line 217
-7.
+Package pdftex.def Info: PSNR/Kapur/Rank_Kapur_PSNR.png  used on input line 218
+0.
 (pdftex.def)             Requested size: 258.0pt x 157.30339pt.
 
-Overfull \hbox (6.0pt too wide) in paragraph at lines 2177--2178
+Overfull \hbox (6.0pt too wide) in paragraph at lines 2180--2181
  [][] 
  []
 
 <PSNR/Otsu/Rank_Otsu_PSNR.png, id=110, 2108.6278pt x 1267.73625pt>
 File: PSNR/Otsu/Rank_Otsu_PSNR.png Graphic file (type png)
 <use PSNR/Otsu/Rank_Otsu_PSNR.png>
-Package pdftex.def Info: PSNR/Otsu/Rank_Otsu_PSNR.png  used on input line 2184.
+Package pdftex.def Info: PSNR/Otsu/Rank_Otsu_PSNR.png  used on input line 2187.
 
 (pdftex.def)             Requested size: 258.0pt x 155.10077pt.
 
-Overfull \hbox (6.0pt too wide) in paragraph at lines 2184--2185
+Overfull \hbox (6.0pt too wide) in paragraph at lines 2187--2188
  [][] 
  []
 
 
-LaTeX Warning: Reference `tab:tabla2' on page 13 undefined on input line 2191.
+LaTeX Warning: Reference `tab:tabla2' on page 13 undefined on input line 2194.
 
 [13 <./Fitness/Kapur/BoxPlot_Dim8/BoxPlots_1-6_Dim8.png> <./Fitness/Kapur/BoxPl
 ot_Dim8/BoxPlots_7-12_Dim8.png> <./Fitness/Kapur/BoxPlot_Dim8/BoxPlots_13-18_Di
 m8.png> <./Fitness/Kapur/BoxPlot_Dim8/BoxPlots_19-20_Dim8.png>]
 
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 2201.
+               Default added (so using `tbp') on input line 2205.
 
 
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 2273.
+               Default added (so using `tbp') on input line 2276.
+
+
+LaTeX Warning: Reference `tab:anexoC' on page 14 undefined on input line 2350.
 
 
 LaTeX Warning: Reference `fig:imagenesSSIMbox' on page 14 undefined on input li
-ne 2351.
+ne 2353.
 
 [14 <./Fitness/Kapur/BoxPlot_Dim9/BoxPlots_1-6_Dim9.png> <./Fitness/Kapur/BoxPl
 ot_Dim9/BoxPlots_7-12_Dim9.png> <./Fitness/Kapur/BoxPlot_Dim9/BoxPlots_13-18_Di
@@ -1231,10 +1209,10 @@ m9.png> <./Fitness/Kapur/BoxPlot_Dim9/BoxPlots_19-20_Dim9.png>] [15] [16]
 File: SSIM/Kapur/Dim7/SSIM_Dim7_Kapur_1_6.png Graphic file (type png)
 <use SSIM/Kapur/Dim7/SSIM_Dim7_Kapur_1_6.png>
 Package pdftex.def Info: SSIM/Kapur/Dim7/SSIM_Dim7_Kapur_1_6.png  used on input
- line 2358.
+ line 2360.
 (pdftex.def)             Requested size: 258.0pt x 237.2144pt.
 
-Overfull \hbox (6.0pt too wide) in paragraph at lines 2357--2360
+Overfull \hbox (6.0pt too wide) in paragraph at lines 2359--2362
  [][] 
  []
 
@@ -1242,10 +1220,10 @@ Overfull \hbox (6.0pt too wide) in paragraph at lines 2357--2360
 File: SSIM/Kapur/Dim7/SSIM_Dim7_Kapur_7_12.png Graphic file (type png)
 <use SSIM/Kapur/Dim7/SSIM_Dim7_Kapur_7_12.png>
 Package pdftex.def Info: SSIM/Kapur/Dim7/SSIM_Dim7_Kapur_7_12.png  used on inpu
-t line 2362.
+t line 2364.
 (pdftex.def)             Requested size: 258.0pt x 237.2144pt.
 
-Overfull \hbox (6.0pt too wide) in paragraph at lines 2361--2364
+Overfull \hbox (6.0pt too wide) in paragraph at lines 2363--2366
  [][] 
  []
 
@@ -1253,21 +1231,21 @@ Overfull \hbox (6.0pt too wide) in paragraph at lines 2361--2364
 File: SSIM/Kapur/Dim7/SSIM_Dim7_Kapur_13_18.png Graphic file (type png)
 <use SSIM/Kapur/Dim7/SSIM_Dim7_Kapur_13_18.png>
 Package pdftex.def Info: SSIM/Kapur/Dim7/SSIM_Dim7_Kapur_13_18.png  used on inp
-ut line 2371.
+ut line 2373.
 (pdftex.def)             Requested size: 258.0pt x 237.2144pt.
 <SSIM/Kapur/Dim7/SSIM_Dim7_Kapur_19_20.png, id=135, 786.2976pt x 722.9409pt>
 File: SSIM/Kapur/Dim7/SSIM_Dim7_Kapur_19_20.png Graphic file (type png)
 <use SSIM/Kapur/Dim7/SSIM_Dim7_Kapur_19_20.png>
 Package pdftex.def Info: SSIM/Kapur/Dim7/SSIM_Dim7_Kapur_19_20.png  used on inp
-ut line 2375.
+ut line 2377.
 (pdftex.def)             Requested size: 258.0pt x 237.2144pt.
 
-Overfull \hbox (6.0pt too wide) in paragraph at lines 2370--2378
+Overfull \hbox (6.0pt too wide) in paragraph at lines 2372--2380
  [][] 
  []
 
 
-Overfull \hbox (6.0pt too wide) in paragraph at lines 2370--2378
+Overfull \hbox (6.0pt too wide) in paragraph at lines 2372--2380
  [] 
  []
 
@@ -1275,10 +1253,10 @@ Overfull \hbox (6.0pt too wide) in paragraph at lines 2370--2378
 File: SSIM/Kapur/Dim8/SSIM_Dim8_Kapur_1_6.png Graphic file (type png)
 <use SSIM/Kapur/Dim8/SSIM_Dim8_Kapur_1_6.png>
 Package pdftex.def Info: SSIM/Kapur/Dim8/SSIM_Dim8_Kapur_1_6.png  used on input
- line 2387.
+ line 2389.
 (pdftex.def)             Requested size: 258.0pt x 237.2144pt.
 
-Overfull \hbox (6.0pt too wide) in paragraph at lines 2386--2389
+Overfull \hbox (6.0pt too wide) in paragraph at lines 2388--2391
  [][] 
  []
 
@@ -1286,10 +1264,10 @@ Overfull \hbox (6.0pt too wide) in paragraph at lines 2386--2389
 File: SSIM/Kapur/Dim8/SSIM_Dim8_Kapur_7_12.png Graphic file (type png)
 <use SSIM/Kapur/Dim8/SSIM_Dim8_Kapur_7_12.png>
 Package pdftex.def Info: SSIM/Kapur/Dim8/SSIM_Dim8_Kapur_7_12.png  used on inpu
-t line 2391.
+t line 2393.
 (pdftex.def)             Requested size: 258.0pt x 237.2144pt.
 
-Overfull \hbox (6.0pt too wide) in paragraph at lines 2390--2393
+Overfull \hbox (6.0pt too wide) in paragraph at lines 2392--2395
  [][] 
  []
 
@@ -1297,21 +1275,21 @@ Overfull \hbox (6.0pt too wide) in paragraph at lines 2390--2393
 File: SSIM/Kapur/Dim8/SSIM_Dim8_Kapur_13_18.png Graphic file (type png)
 <use SSIM/Kapur/Dim8/SSIM_Dim8_Kapur_13_18.png>
 Package pdftex.def Info: SSIM/Kapur/Dim8/SSIM_Dim8_Kapur_13_18.png  used on inp
-ut line 2400.
+ut line 2402.
 (pdftex.def)             Requested size: 258.0pt x 237.2144pt.
 <SSIM/Kapur/Dim8/SSIM_Dim8_Kapur_19_20.png, id=139, 786.2976pt x 722.9409pt>
 File: SSIM/Kapur/Dim8/SSIM_Dim8_Kapur_19_20.png Graphic file (type png)
 <use SSIM/Kapur/Dim8/SSIM_Dim8_Kapur_19_20.png>
 Package pdftex.def Info: SSIM/Kapur/Dim8/SSIM_Dim8_Kapur_19_20.png  used on inp
-ut line 2404.
+ut line 2406.
 (pdftex.def)             Requested size: 258.0pt x 237.2144pt.
 
-Overfull \hbox (6.0pt too wide) in paragraph at lines 2399--2407
+Overfull \hbox (6.0pt too wide) in paragraph at lines 2401--2409
  [][] 
  []
 
 
-Overfull \hbox (6.0pt too wide) in paragraph at lines 2399--2407
+Overfull \hbox (6.0pt too wide) in paragraph at lines 2401--2409
  [] 
  []
 
@@ -1319,10 +1297,10 @@ Overfull \hbox (6.0pt too wide) in paragraph at lines 2399--2407
 File: SSIM/Kapur/Dim9/SSIM_Dim9_Kapur_1_6.png Graphic file (type png)
 <use SSIM/Kapur/Dim9/SSIM_Dim9_Kapur_1_6.png>
 Package pdftex.def Info: SSIM/Kapur/Dim9/SSIM_Dim9_Kapur_1_6.png  used on input
- line 2416.
+ line 2418.
 (pdftex.def)             Requested size: 258.0pt x 237.2144pt.
 
-Overfull \hbox (6.0pt too wide) in paragraph at lines 2415--2418
+Overfull \hbox (6.0pt too wide) in paragraph at lines 2417--2420
  [][] 
  []
 
@@ -1330,10 +1308,10 @@ Overfull \hbox (6.0pt too wide) in paragraph at lines 2415--2418
 File: SSIM/Kapur/Dim9/SSIM_Dim9_Kapur_7_12.png Graphic file (type png)
 <use SSIM/Kapur/Dim9/SSIM_Dim9_Kapur_7_12.png>
 Package pdftex.def Info: SSIM/Kapur/Dim9/SSIM_Dim9_Kapur_7_12.png  used on inpu
-t line 2420.
+t line 2422.
 (pdftex.def)             Requested size: 258.0pt x 237.2144pt.
 
-Overfull \hbox (6.0pt too wide) in paragraph at lines 2419--2422
+Overfull \hbox (6.0pt too wide) in paragraph at lines 2421--2424
  [][] 
  []
 
@@ -1341,21 +1319,21 @@ Overfull \hbox (6.0pt too wide) in paragraph at lines 2419--2422
 File: SSIM/Kapur/Dim9/SSIM_Dim9_Kapur_13_18.png Graphic file (type png)
 <use SSIM/Kapur/Dim9/SSIM_Dim9_Kapur_13_18.png>
 Package pdftex.def Info: SSIM/Kapur/Dim9/SSIM_Dim9_Kapur_13_18.png  used on inp
-ut line 2429.
+ut line 2431.
 (pdftex.def)             Requested size: 258.0pt x 237.2144pt.
 <SSIM/Kapur/Dim9/SSIM_Dim9_Kapur_19_20.png, id=143, 786.2976pt x 722.9409pt>
 File: SSIM/Kapur/Dim9/SSIM_Dim9_Kapur_19_20.png Graphic file (type png)
 <use SSIM/Kapur/Dim9/SSIM_Dim9_Kapur_19_20.png>
 Package pdftex.def Info: SSIM/Kapur/Dim9/SSIM_Dim9_Kapur_19_20.png  used on inp
-ut line 2433.
+ut line 2435.
 (pdftex.def)             Requested size: 258.0pt x 237.2144pt.
 
-Overfull \hbox (6.0pt too wide) in paragraph at lines 2428--2436
+Overfull \hbox (6.0pt too wide) in paragraph at lines 2430--2438
  [][] 
  []
 
 
-Overfull \hbox (6.0pt too wide) in paragraph at lines 2428--2436
+Overfull \hbox (6.0pt too wide) in paragraph at lines 2430--2438
  [] 
  []
 
@@ -1363,37 +1341,37 @@ Overfull \hbox (6.0pt too wide) in paragraph at lines 2428--2436
 File: SSIM/Kapur/Rank_Kapur_SSIM.png Graphic file (type png)
 <use SSIM/Kapur/Rank_Kapur_SSIM.png>
 Package pdftex.def Info: SSIM/Kapur/Rank_Kapur_SSIM.png  used on input line 244
-4.
+6.
 (pdftex.def)             Requested size: 258.0pt x 136.16745pt.
 
-Overfull \hbox (6.0pt too wide) in paragraph at lines 2444--2445
+Overfull \hbox (6.0pt too wide) in paragraph at lines 2446--2447
  [][] 
  []
 
 <SSIM/Otsu/Rank_Otsu_SSIM.png, id=145, 1673.50218pt x 890.5772pt>
 File: SSIM/Otsu/Rank_Otsu_SSIM.png Graphic file (type png)
 <use SSIM/Otsu/Rank_Otsu_SSIM.png>
-Package pdftex.def Info: SSIM/Otsu/Rank_Otsu_SSIM.png  used on input line 2451.
+Package pdftex.def Info: SSIM/Otsu/Rank_Otsu_SSIM.png  used on input line 2453.
 
 (pdftex.def)             Requested size: 258.0pt x 137.29063pt.
 
-Overfull \hbox (6.0pt too wide) in paragraph at lines 2451--2452
+Overfull \hbox (6.0pt too wide) in paragraph at lines 2453--2454
  [][] 
  []
 
 
-LaTeX Warning: Reference `tab:tabla3' on page 17 undefined on input line 2458.
+LaTeX Warning: Reference `tab:tabla3' on page 17 undefined on input line 2460.
 
 
-LaTeX Warning: Reference `fig:fig512' on page 17 undefined on input line 2464.
-
-
-LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 2471.
+LaTeX Warning: Reference `fig:fig512' on page 17 undefined on input line 2466.
 
 
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 2543.
+               Default added (so using `tbp') on input line 2473.
+
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 2545.
 
 [17 <./Fitness/Otsu/Boxplot_Dim7/BoxPlots_1-6_Dim7.png> <./Fitness/Otsu/Boxplot
 _Dim7/BoxPlots_7-12_Dim7.png> <./Fitness/Otsu/Boxplot_Dim7/BoxPlots_13-18_Dim7.
@@ -1427,50 +1405,2458 @@ SSIM_Dim9_Kapur_13_18.png> <./SSIM/Kapur/Dim9/SSIM_Dim9_Kapur_19_20.png> <./SSI
 M/Kapur/Rank_Kapur_SSIM.png> <./SSIM/Otsu/Rank_Otsu_SSIM.png>] (Sumativa1.bbl)
 [30
 
-] [31
-
-
 ]
 
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 2666.
+               Default added (so using `tbp') on input line 2665.
 
 
-Overfull \hbox (168.18204pt too wide) in paragraph at lines 2668--2733
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 2736.
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2752--2752
+[]|\OT1/ptm/m/n/8 5.56| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2752--2752
+[]|\OT1/ptm/b/n/8 1.40| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2752--2752
+[]|\OT1/ptm/m/n/8 2.98| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2752--2752
+[]|\OT1/ptm/m/n/8 6.46| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2752--2752
+[]|\OT1/ptm/m/n/8 1.68| 
+ []
+
+
+Overfull \hbox (6.61908pt too wide) in paragraph at lines 2752--2752
+[]|\OT1/ptm/m/n/8 14.13| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2752--2752
+[]|\OT1/ptm/m/n/8 2.95| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2752--2752
+[]|\OT1/ptm/m/n/8 6.45| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2753--2753
+[]|\OT1/ptm/m/n/8 4.02| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2753--2753
+[]|\OT1/ptm/b/n/8 1.21| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2753--2753
+[]|\OT1/ptm/m/n/8 2.30| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2753--2753
+[]|\OT1/ptm/m/n/8 4.21| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2753--2753
+[]|\OT1/ptm/m/n/8 1.26| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2753--2753
+[]|\OT1/ptm/m/n/8 8.67| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2753--2753
+[]|\OT1/ptm/m/n/8 4.15| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2753--2753
+[]|\OT1/ptm/m/n/8 3.88| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2754--2754
+[]|\OT1/ptm/m/n/8 5.26| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2754--2754
+[]|\OT1/ptm/b/n/8 1.38| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2754--2754
+[]|\OT1/ptm/m/n/8 2.58| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2754--2754
+[]|\OT1/ptm/m/n/8 5.60| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2754--2754
+[]|\OT1/ptm/m/n/8 1.96| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2754--2754
+[]|\OT1/ptm/m/n/8 9.95| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2754--2754
+[]|\OT1/ptm/m/n/8 3.92| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2754--2754
+[]|\OT1/ptm/m/n/8 5.54| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2755--2755
+[]|\OT1/ptm/m/n/8 7.24| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2755--2755
+[]|\OT1/ptm/b/n/8 1.38| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2755--2755
+[]|\OT1/ptm/m/n/8 2.90| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2755--2755
+[]|\OT1/ptm/m/n/8 6.62| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2755--2755
+[]|\OT1/ptm/m/n/8 1.83| 
+ []
+
+
+Overfull \hbox (6.61908pt too wide) in paragraph at lines 2755--2755
+[]|\OT1/ptm/m/n/8 10.74| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2755--2755
+[]|\OT1/ptm/m/n/8 3.54| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2755--2755
+[]|\OT1/ptm/m/n/8 4.82| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2756--2756
+[]|\OT1/ptm/m/n/8 5.07| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2756--2756
+[]|\OT1/ptm/b/n/8 1.47| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2756--2756
+[]|\OT1/ptm/m/n/8 3.02| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2756--2756
+[]|\OT1/ptm/m/n/8 7.27| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2756--2756
+[]|\OT1/ptm/m/n/8 2.09| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2756--2756
+[]|\OT1/ptm/m/n/8 9.08| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2756--2756
+[]|\OT1/ptm/m/n/8 2.69| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2756--2756
+[]|\OT1/ptm/m/n/8 5.95| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2757--2757
+[]|\OT1/ptm/m/n/8 6.53| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2757--2757
+[]|\OT1/ptm/b/n/8 1.47| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2757--2757
+[]|\OT1/ptm/m/n/8 3.08| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2757--2757
+[]|\OT1/ptm/m/n/8 6.08| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2757--2757
+[]|\OT1/ptm/m/n/8 1.94| 
+ []
+
+
+Overfull \hbox (6.61908pt too wide) in paragraph at lines 2757--2757
+[]|\OT1/ptm/m/n/8 11.44| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2757--2757
+[]|\OT1/ptm/m/n/8 3.32| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2757--2757
+[]|\OT1/ptm/m/n/8 6.40| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2758--2758
+[]|\OT1/ptm/m/n/8 6.46| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2758--2758
+[]|\OT1/ptm/b/n/8 1.29| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2758--2758
+[]|\OT1/ptm/m/n/8 2.91| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2758--2758
+[]|\OT1/ptm/m/n/8 6.96| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2758--2758
+[]|\OT1/ptm/m/n/8 1.92| 
+ []
+
+
+Overfull \hbox (6.61908pt too wide) in paragraph at lines 2758--2758
+[]|\OT1/ptm/m/n/8 14.95| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2758--2758
+[]|\OT1/ptm/m/n/8 2.87| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2758--2758
+[]|\OT1/ptm/m/n/8 5.13| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2759--2759
+[]|\OT1/ptm/m/n/8 5.42| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2759--2759
+[]|\OT1/ptm/b/n/8 1.24| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2759--2759
+[]|\OT1/ptm/m/n/8 2.59| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2759--2759
+[]|\OT1/ptm/m/n/8 8.22| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2759--2759
+[]|\OT1/ptm/m/n/8 2.35| 
+ []
+
+
+Overfull \hbox (6.61908pt too wide) in paragraph at lines 2759--2759
+[]|\OT1/ptm/m/n/8 10.24| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2759--2759
+[]|\OT1/ptm/m/n/8 2.83| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2759--2759
+[]|\OT1/ptm/m/n/8 3.85| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2760--2760
+[]|\OT1/ptm/m/n/8 7.07| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2760--2760
+[]|\OT1/ptm/b/n/8 1.53| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2760--2760
+[]|\OT1/ptm/m/n/8 2.71| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2760--2760
+[]|\OT1/ptm/m/n/8 7.63| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2760--2760
+[]|\OT1/ptm/m/n/8 1.78| 
+ []
+
+
+Overfull \hbox (6.61908pt too wide) in paragraph at lines 2760--2760
+[]|\OT1/ptm/m/n/8 11.80| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2760--2760
+[]|\OT1/ptm/m/n/8 4.61| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2760--2760
+[]|\OT1/ptm/m/n/8 4.59| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2761--2761
+[]|\OT1/ptm/m/n/8 7.67| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2761--2761
+[]|\OT1/ptm/b/n/8 1.27| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2761--2761
+[]|\OT1/ptm/m/n/8 3.13| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2761--2761
+[]|\OT1/ptm/m/n/8 7.30| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2761--2761
+[]|\OT1/ptm/m/n/8 2.57| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2761--2761
+[]|\OT1/ptm/m/n/8 9.91| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2761--2761
+[]|\OT1/ptm/m/n/8 4.52| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2761--2761
+[]|\OT1/ptm/m/n/8 5.57| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2762--2762
+[]|\OT1/ptm/m/n/8 5.58| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2762--2762
+[]|\OT1/ptm/b/n/8 1.65| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2762--2762
+[]|\OT1/ptm/m/n/8 2.50| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2762--2762
+[]|\OT1/ptm/m/n/8 6.21| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2762--2762
+[]|\OT1/ptm/m/n/8 2.47| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2762--2762
+[]|\OT1/ptm/m/n/8 8.89| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2762--2762
+[]|\OT1/ptm/m/n/8 5.42| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2762--2762
+[]|\OT1/ptm/m/n/8 4.59| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2763--2763
+[]|\OT1/ptm/m/n/8 5.98| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2763--2763
+[]|\OT1/ptm/b/n/8 1.17| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2763--2763
+[]|\OT1/ptm/m/n/8 3.03| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2763--2763
+[]|\OT1/ptm/m/n/8 5.94| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2763--2763
+[]|\OT1/ptm/m/n/8 1.90| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2763--2763
+[]|\OT1/ptm/m/n/8 9.98| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2763--2763
+[]|\OT1/ptm/m/n/8 4.48| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2763--2763
+[]|\OT1/ptm/m/n/8 4.39| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2764--2764
+[]|\OT1/ptm/m/n/8 6.26| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2764--2764
+[]|\OT1/ptm/b/n/8 0.98| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2764--2764
+[]|\OT1/ptm/m/n/8 2.99| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2764--2764
+[]|\OT1/ptm/m/n/8 6.04| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2764--2764
+[]|\OT1/ptm/m/n/8 1.69| 
+ []
+
+
+Overfull \hbox (6.61908pt too wide) in paragraph at lines 2764--2764
+[]|\OT1/ptm/m/n/8 15.14| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2764--2764
+[]|\OT1/ptm/m/n/8 2.93| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2764--2764
+[]|\OT1/ptm/m/n/8 4.01| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2765--2765
+[]|\OT1/ptm/m/n/8 5.78| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2765--2765
+[]|\OT1/ptm/b/n/8 1.16| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2765--2765
+[]|\OT1/ptm/m/n/8 2.43| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2765--2765
+[]|\OT1/ptm/m/n/8 6.62| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2765--2765
+[]|\OT1/ptm/m/n/8 1.59| 
+ []
+
+
+Overfull \hbox (6.61908pt too wide) in paragraph at lines 2765--2765
+[]|\OT1/ptm/m/n/8 10.17| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2765--2765
+[]|\OT1/ptm/m/n/8 3.22| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2765--2765
+[]|\OT1/ptm/m/n/8 3.38| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2766--2766
+[]|\OT1/ptm/m/n/8 6.47| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2766--2766
+[]|\OT1/ptm/b/n/8 0.86| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2766--2766
+[]|\OT1/ptm/m/n/8 3.26| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2766--2766
+[]|\OT1/ptm/m/n/8 7.35| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2766--2766
+[]|\OT1/ptm/m/n/8 1.31| 
+ []
+
+
+Overfull \hbox (6.61908pt too wide) in paragraph at lines 2766--2766
+[]|\OT1/ptm/m/n/8 10.55| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2766--2766
+[]|\OT1/ptm/m/n/8 2.97| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2766--2766
+[]|\OT1/ptm/m/n/8 5.95| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2767--2767
+[]|\OT1/ptm/m/n/8 3.42| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2767--2767
+[]|\OT1/ptm/m/n/8 0.50| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2767--2767
+[]|\OT1/ptm/m/n/8 1.37| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2767--2767
+[]|\OT1/ptm/m/n/8 1.44| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2767--2767
+[]|\OT1/ptm/b/n/8 0.39| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2767--2767
+[]|\OT1/ptm/m/n/8 3.94| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2767--2767
+[]|\OT1/ptm/m/n/8 1.66| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2767--2767
+[]|\OT1/ptm/m/n/8 1.70| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2768--2768
+[]|\OT1/ptm/m/n/8 1.79| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2768--2768
+[]|\OT1/ptm/b/n/8 0.41| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2768--2768
+[]|\OT1/ptm/m/n/8 1.37| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2768--2768
+[]|\OT1/ptm/m/n/8 1.61| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2768--2768
+[]|\OT1/ptm/m/n/8 0.45| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2768--2768
+[]|\OT1/ptm/m/n/8 2.40| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2768--2768
+[]|\OT1/ptm/m/n/8 1.08| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2768--2768
+[]|\OT1/ptm/m/n/8 1.90| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2769--2769
+[]|\OT1/ptm/m/n/8 3.02| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2769--2769
+[]|\OT1/ptm/m/n/8 0.50| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2769--2769
+[]|\OT1/ptm/m/n/8 1.33| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2769--2769
+[]|\OT1/ptm/m/n/8 1.97| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2769--2769
+[]|\OT1/ptm/b/n/8 0.22| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2769--2769
+[]|\OT1/ptm/m/n/8 2.63| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2769--2769
+[]|\OT1/ptm/m/n/8 1.73| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2769--2769
+[]|\OT1/ptm/m/n/8 3.10| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2770--2770
+[]|\OT1/ptm/m/n/8 5.55| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2770--2770
+[]|\OT1/ptm/b/n/8 0.89| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2770--2770
+[]|\OT1/ptm/m/n/8 2.29| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2770--2770
+[]|\OT1/ptm/m/n/8 7.35| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2770--2770
+[]|\OT1/ptm/m/n/8 0.90| 
+ []
+
+
+Overfull \hbox (6.61908pt too wide) in paragraph at lines 2770--2770
+[]|\OT1/ptm/m/n/8 10.78| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2770--2770
+[]|\OT1/ptm/m/n/8 3.52| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2770--2770
+[]|\OT1/ptm/m/n/8 5.17| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2771--2771
+[]|\OT1/ptm/m/n/8 4.36| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2771--2771
+[]|\OT1/ptm/b/n/8 1.13| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2771--2771
+[]|\OT1/ptm/m/n/8 2.18| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2771--2771
+[]|\OT1/ptm/m/n/8 5.40| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2771--2771
+[]|\OT1/ptm/m/n/8 2.01| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2771--2771
+[]|\OT1/ptm/m/n/8 8.21| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2771--2771
+[]|\OT1/ptm/m/n/8 2.84| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2771--2771
+[]|\OT1/ptm/m/n/8 4.56| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2772--2772
+[]|\OT1/ptm/m/n/8 5.75| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2772--2772
+[]|\OT1/ptm/m/n/8 0.96| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2772--2772
+[]|\OT1/ptm/m/n/8 2.63| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2772--2772
+[]|\OT1/ptm/m/n/8 5.23| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2772--2772
+[]|\OT1/ptm/b/n/8 0.96| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2772--2772
+[]|\OT1/ptm/m/n/8 9.01| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2772--2772
+[]|\OT1/ptm/m/n/8 4.12| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2772--2772
+[]|\OT1/ptm/m/n/8 3.94| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2773--2773
+[]|\OT1/ptm/m/n/8 3.31| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2773--2773
+[]|\OT1/ptm/m/n/8 0.55| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2773--2773
+[]|\OT1/ptm/m/n/8 1.06| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2773--2773
+[]|\OT1/ptm/m/n/8 1.99| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2773--2773
+[]|\OT1/ptm/b/n/8 0.29| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2773--2773
+[]|\OT1/ptm/m/n/8 4.26| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2773--2773
+[]|\OT1/ptm/m/n/8 2.07| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2773--2773
+[]|\OT1/ptm/m/n/8 3.32| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2774--2774
+[]|\OT1/ptm/m/n/8 2.12| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2774--2774
+[]|\OT1/ptm/m/n/8 0.47| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2774--2774
+[]|\OT1/ptm/m/n/8 0.99| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2774--2774
+[]|\OT1/ptm/m/n/8 1.38| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2774--2774
+[]|\OT1/ptm/b/n/8 0.33| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2774--2774
+[]|\OT1/ptm/m/n/8 3.82| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2774--2774
+[]|\OT1/ptm/m/n/8 1.03| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2774--2774
+[]|\OT1/ptm/m/n/8 1.93| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2775--2775
+[]|\OT1/ptm/m/n/8 2.72| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2775--2775
+[]|\OT1/ptm/m/n/8 0.66| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2775--2775
+[]|\OT1/ptm/m/n/8 1.06| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2775--2775
+[]|\OT1/ptm/m/n/8 1.81| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2775--2775
+[]|\OT1/ptm/b/n/8 0.17| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2775--2775
+[]|\OT1/ptm/m/n/8 3.82| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2775--2775
+[]|\OT1/ptm/m/n/8 1.66| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2775--2775
+[]|\OT1/ptm/m/n/8 2.00| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2776--2776
+[]|\OT1/ptm/m/n/8 4.62| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2776--2776
+[]|\OT1/ptm/m/n/8 1.39| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2776--2776
+[]|\OT1/ptm/m/n/8 2.26| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2776--2776
+[]|\OT1/ptm/m/n/8 7.95| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2776--2776
+[]|\OT1/ptm/b/n/8 1.36| 
+ []
+
+
+Overfull \hbox (6.61908pt too wide) in paragraph at lines 2776--2776
+[]|\OT1/ptm/m/n/8 14.02| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2776--2776
+[]|\OT1/ptm/m/n/8 4.65| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2776--2776
+[]|\OT1/ptm/m/n/8 6.08| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2777--2777
+[]|\OT1/ptm/m/n/8 4.35| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2777--2777
+[]|\OT1/ptm/b/n/8 0.72| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2777--2777
+[]|\OT1/ptm/m/n/8 2.59| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2777--2777
+[]|\OT1/ptm/m/n/8 4.82| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2777--2777
+[]|\OT1/ptm/m/n/8 1.13| 
+ []
+
+
+Overfull \hbox (6.61908pt too wide) in paragraph at lines 2777--2777
+[]|\OT1/ptm/m/n/8 11.17| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2777--2777
+[]|\OT1/ptm/m/n/8 2.66| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2777--2777
+[]|\OT1/ptm/m/n/8 3.32| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2778--2778
+[]|\OT1/ptm/m/n/8 7.13| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2778--2778
+[]|\OT1/ptm/b/n/8 1.08| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2778--2778
+[]|\OT1/ptm/m/n/8 2.99| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2778--2778
+[]|\OT1/ptm/m/n/8 7.41| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2778--2778
+[]|\OT1/ptm/m/n/8 1.65| 
+ []
+
+
+Overfull \hbox (6.61908pt too wide) in paragraph at lines 2778--2778
+[]|\OT1/ptm/m/n/8 13.95| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2778--2778
+[]|\OT1/ptm/m/n/8 4.29| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2778--2778
+[]|\OT1/ptm/m/n/8 4.18| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2779--2779
+[]|\OT1/ptm/m/n/8 4.90| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2779--2779
+[]|\OT1/ptm/b/n/8 1.06| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2779--2779
+[]|\OT1/ptm/m/n/8 3.60| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2779--2779
+[]|\OT1/ptm/m/n/8 6.07| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2779--2779
+[]|\OT1/ptm/m/n/8 1.26| 
+ []
+
+
+Overfull \hbox (6.61908pt too wide) in paragraph at lines 2779--2779
+[]|\OT1/ptm/m/n/8 15.28| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2779--2779
+[]|\OT1/ptm/m/n/8 4.84| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2779--2779
+[]|\OT1/ptm/m/n/8 5.95| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2780--2780
+[]|\OT1/ptm/m/n/8 5.37| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2780--2780
+[]|\OT1/ptm/b/n/8 1.49| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2780--2780
+[]|\OT1/ptm/m/n/8 3.05| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2780--2780
+[]|\OT1/ptm/m/n/8 5.31| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2780--2780
+[]|\OT1/ptm/m/n/8 1.92| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2780--2780
+[]|\OT1/ptm/m/n/8 8.46| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2780--2780
+[]|\OT1/ptm/m/n/8 3.33| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2780--2780
+[]|\OT1/ptm/m/n/8 6.57| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2781--2781
+[]|\OT1/ptm/m/n/8 6.32| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2781--2781
+[]|\OT1/ptm/b/n/8 0.75| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2781--2781
+[]|\OT1/ptm/m/n/8 2.85| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2781--2781
+[]|\OT1/ptm/m/n/8 6.26| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2781--2781
+[]|\OT1/ptm/m/n/8 1.91| 
+ []
+
+
+Overfull \hbox (6.61908pt too wide) in paragraph at lines 2781--2781
+[]|\OT1/ptm/m/n/8 11.21| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2781--2781
+[]|\OT1/ptm/m/n/8 4.16| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2781--2781
+[]|\OT1/ptm/m/n/8 6.79| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2782--2782
+[]|\OT1/ptm/m/n/8 4.55| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2782--2782
+[]|\OT1/ptm/m/n/8 0.55| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2782--2782
+[]|\OT1/ptm/m/n/8 1.57| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2782--2782
+[]|\OT1/ptm/m/n/8 2.92| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2782--2782
+[]|\OT1/ptm/b/n/8 0.37| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2782--2782
+[]|\OT1/ptm/m/n/8 5.28| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2782--2782
+[]|\OT1/ptm/m/n/8 3.14| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2782--2782
+[]|\OT1/ptm/m/n/8 3.72| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2783--2783
+[]|\OT1/ptm/m/n/8 3.87| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2783--2783
+[]|\OT1/ptm/m/n/8 0.89| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2783--2783
+[]|\OT1/ptm/m/n/8 1.48| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2783--2783
+[]|\OT1/ptm/m/n/8 2.25| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2783--2783
+[]|\OT1/ptm/b/n/8 0.53| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2783--2783
+[]|\OT1/ptm/m/n/8 4.68| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2783--2783
+[]|\OT1/ptm/m/n/8 1.88| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2783--2783
+[]|\OT1/ptm/m/n/8 3.05| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2784--2784
+[]|\OT1/ptm/m/n/8 3.91| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2784--2784
+[]|\OT1/ptm/m/n/8 0.46| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2784--2784
+[]|\OT1/ptm/m/n/8 1.59| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2784--2784
+[]|\OT1/ptm/m/n/8 3.16| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2784--2784
+[]|\OT1/ptm/b/n/8 0.45| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2784--2784
+[]|\OT1/ptm/m/n/8 5.87| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2784--2784
+[]|\OT1/ptm/m/n/8 3.03| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2784--2784
+[]|\OT1/ptm/m/n/8 3.30| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2785--2785
+[]|\OT1/ptm/m/n/8 4.60| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2785--2785
+[]|\OT1/ptm/m/n/8 1.28| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2785--2785
+[]|\OT1/ptm/m/n/8 3.17| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2785--2785
+[]|\OT1/ptm/m/n/8 5.92| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2785--2785
+[]|\OT1/ptm/b/n/8 1.24| 
+ []
+
+
+Overfull \hbox (6.61908pt too wide) in paragraph at lines 2785--2785
+[]|\OT1/ptm/m/n/8 13.57| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2785--2785
+[]|\OT1/ptm/m/n/8 2.98| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2785--2785
+[]|\OT1/ptm/m/n/8 4.21| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2786--2786
+[]|\OT1/ptm/m/n/8 5.43| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2786--2786
+[]|\OT1/ptm/b/n/8 1.59| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2786--2786
+[]|\OT1/ptm/m/n/8 2.73| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2786--2786
+[]|\OT1/ptm/m/n/8 6.02| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2786--2786
+[]|\OT1/ptm/m/n/8 2.19| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2786--2786
+[]|\OT1/ptm/m/n/8 8.90| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2786--2786
+[]|\OT1/ptm/m/n/8 5.53| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2786--2786
+[]|\OT1/ptm/m/n/8 5.39| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2787--2787
+[]|\OT1/ptm/m/n/8 5.71| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2787--2787
+[]|\OT1/ptm/b/n/8 1.20| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2787--2787
+[]|\OT1/ptm/m/n/8 3.14| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2787--2787
+[]|\OT1/ptm/m/n/8 7.79| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2787--2787
+[]|\OT1/ptm/m/n/8 1.41| 
+ []
+
+
+Overfull \hbox (6.61908pt too wide) in paragraph at lines 2787--2787
+[]|\OT1/ptm/m/n/8 11.27| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2787--2787
+[]|\OT1/ptm/m/n/8 3.87| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2787--2787
+[]|\OT1/ptm/m/n/8 5.93| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2788--2788
+[]|\OT1/ptm/m/n/8 5.68| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2788--2788
+[]|\OT1/ptm/b/n/8 0.91| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2788--2788
+[]|\OT1/ptm/m/n/8 3.11| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2788--2788
+[]|\OT1/ptm/m/n/8 4.77| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2788--2788
+[]|\OT1/ptm/m/n/8 1.22| 
+ []
+
+
+Overfull \hbox (6.61908pt too wide) in paragraph at lines 2788--2788
+[]|\OT1/ptm/m/n/8 11.61| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2788--2788
+[]|\OT1/ptm/m/n/8 2.22| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2788--2788
+[]|\OT1/ptm/m/n/8 6.04| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2789--2789
+[]|\OT1/ptm/m/n/8 4.24| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2789--2789
+[]|\OT1/ptm/b/n/8 1.12| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2789--2789
+[]|\OT1/ptm/m/n/8 2.58| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2789--2789
+[]|\OT1/ptm/m/n/8 3.95| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2789--2789
+[]|\OT1/ptm/m/n/8 1.26| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2789--2789
+[]|\OT1/ptm/m/n/8 7.29| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2789--2789
+[]|\OT1/ptm/m/n/8 2.85| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2789--2789
+[]|\OT1/ptm/m/n/8 3.30| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2790--2790
+[]|\OT1/ptm/m/n/8 5.21| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2790--2790
+[]|\OT1/ptm/b/n/8 0.96| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2790--2790
+[]|\OT1/ptm/m/n/8 3.18| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2790--2790
+[]|\OT1/ptm/m/n/8 5.58| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2790--2790
+[]|\OT1/ptm/m/n/8 1.33| 
+ []
+
+
+Overfull \hbox (6.61908pt too wide) in paragraph at lines 2790--2790
+[]|\OT1/ptm/m/n/8 12.02| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2790--2790
+[]|\OT1/ptm/m/n/8 2.78| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2790--2790
+[]|\OT1/ptm/m/n/8 5.24| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2791--2791
+[]|\OT1/ptm/m/n/8 6.20| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2791--2791
+[]|\OT1/ptm/b/n/8 1.91| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2791--2791
+[]|\OT1/ptm/m/n/8 2.78| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2791--2791
+[]|\OT1/ptm/m/n/8 5.06| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2791--2791
+[]|\OT1/ptm/m/n/8 2.61| 
+ []
+
+
+Overfull \hbox (6.61908pt too wide) in paragraph at lines 2791--2791
+[]|\OT1/ptm/m/n/8 11.78| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2791--2791
+[]|\OT1/ptm/m/n/8 4.28| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2791--2791
+[]|\OT1/ptm/m/n/8 5.96| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2792--2792
+[]|\OT1/ptm/m/n/8 3.97| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2792--2792
+[]|\OT1/ptm/m/n/8 1.39| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2792--2792
+[]|\OT1/ptm/m/n/8 2.80| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2792--2792
+[]|\OT1/ptm/m/n/8 6.32| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2792--2792
+[]|\OT1/ptm/b/n/8 1.34| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2792--2792
+[]|\OT1/ptm/m/n/8 8.43| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2792--2792
+[]|\OT1/ptm/m/n/8 3.71| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2792--2792
+[]|\OT1/ptm/m/n/8 4.45| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2793--2793
+[]|\OT1/ptm/m/n/8 4.18| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2793--2793
+[]|\OT1/ptm/b/n/8 1.77| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2793--2793
+[]|\OT1/ptm/m/n/8 2.79| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2793--2793
+[]|\OT1/ptm/m/n/8 5.36| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2793--2793
+[]|\OT1/ptm/m/n/8 2.04| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2793--2793
+[]|\OT1/ptm/m/n/8 7.75| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2793--2793
+[]|\OT1/ptm/m/n/8 4.25| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2793--2793
+[]|\OT1/ptm/m/n/8 4.74| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2794--2794
+[]|\OT1/ptm/m/n/8 3.44| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2794--2794
+[]|\OT1/ptm/m/n/8 0.58| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2794--2794
+[]|\OT1/ptm/m/n/8 1.24| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2794--2794
+[]|\OT1/ptm/m/n/8 1.56| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2794--2794
+[]|\OT1/ptm/b/n/8 0.31| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2794--2794
+[]|\OT1/ptm/m/n/8 3.73| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2794--2794
+[]|\OT1/ptm/m/n/8 1.53| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2794--2794
+[]|\OT1/ptm/m/n/8 2.74| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2795--2795
+[]|\OT1/ptm/m/n/8 2.70| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2795--2795
+[]|\OT1/ptm/m/n/8 0.44| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2795--2795
+[]|\OT1/ptm/m/n/8 1.37| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2795--2795
+[]|\OT1/ptm/m/n/8 1.35| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2795--2795
+[]|\OT1/ptm/b/n/8 0.38| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2795--2795
+[]|\OT1/ptm/m/n/8 4.00| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2795--2795
+[]|\OT1/ptm/m/n/8 1.10| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2795--2795
+[]|\OT1/ptm/m/n/8 1.63| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2796--2796
+[]|\OT1/ptm/m/n/8 2.44| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2796--2796
+[]|\OT1/ptm/m/n/8 0.56| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2796--2796
+[]|\OT1/ptm/m/n/8 1.31| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2796--2796
+[]|\OT1/ptm/m/n/8 1.49| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2796--2796
+[]|\OT1/ptm/b/n/8 0.42| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2796--2796
+[]|\OT1/ptm/m/n/8 4.66| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2796--2796
+[]|\OT1/ptm/m/n/8 2.32| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2796--2796
+[]|\OT1/ptm/m/n/8 2.15| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2797--2797
+[]|\OT1/ptm/m/n/8 4.56| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2797--2797
+[]|\OT1/ptm/b/n/8 1.59| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2797--2797
+[]|\OT1/ptm/m/n/8 2.39| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2797--2797
+[]|\OT1/ptm/m/n/8 5.28| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2797--2797
+[]|\OT1/ptm/m/n/8 2.50| 
+ []
+
+
+Overfull \hbox (6.61908pt too wide) in paragraph at lines 2797--2797
+[]|\OT1/ptm/m/n/8 11.08| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2797--2797
+[]|\OT1/ptm/m/n/8 3.35| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2797--2797
+[]|\OT1/ptm/m/n/8 5.90| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2798--2798
+[]|\OT1/ptm/m/n/8 4.47| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2798--2798
+[]|\OT1/ptm/b/n/8 1.19| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2798--2798
+[]|\OT1/ptm/m/n/8 3.26| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2798--2798
+[]|\OT1/ptm/m/n/8 5.69| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2798--2798
+[]|\OT1/ptm/m/n/8 1.44| 
+ []
+
+
+Overfull \hbox (6.61908pt too wide) in paragraph at lines 2798--2798
+[]|\OT1/ptm/m/n/8 10.68| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2798--2798
+[]|\OT1/ptm/m/n/8 4.67| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2798--2798
+[]|\OT1/ptm/m/n/8 4.20| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2799--2799
+[]|\OT1/ptm/m/n/8 5.36| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2799--2799
+[]|\OT1/ptm/b/n/8 1.76| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2799--2799
+[]|\OT1/ptm/m/n/8 2.70| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2799--2799
+[]|\OT1/ptm/m/n/8 6.36| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2799--2799
+[]|\OT1/ptm/m/n/8 1.95| 
+ []
+
+
+Overfull \hbox (6.61908pt too wide) in paragraph at lines 2799--2799
+[]|\OT1/ptm/m/n/8 12.63| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2799--2799
+[]|\OT1/ptm/m/n/8 3.93| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2799--2799
+[]|\OT1/ptm/m/n/8 4.23| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2800--2800
+[]|\OT1/ptm/m/n/8 7.84| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2800--2800
+[]|\OT1/ptm/b/n/8 1.49| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2800--2800
+[]|\OT1/ptm/m/n/8 3.00| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2800--2800
+[]|\OT1/ptm/m/n/8 7.69| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2800--2800
+[]|\OT1/ptm/m/n/8 2.94| 
+ []
+
+
+Overfull \hbox (6.61908pt too wide) in paragraph at lines 2800--2800
+[]|\OT1/ptm/m/n/8 12.93| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2800--2800
+[]|\OT1/ptm/m/n/8 5.09| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2800--2800
+[]|\OT1/ptm/m/n/8 6.37| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2801--2801
+[]|\OT1/ptm/m/n/8 4.95| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2801--2801
+[]|\OT1/ptm/b/n/8 1.24| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2801--2801
+[]|\OT1/ptm/m/n/8 1.93| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2801--2801
+[]|\OT1/ptm/m/n/8 5.81| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2801--2801
+[]|\OT1/ptm/m/n/8 1.55| 
+ []
+
+
+Overfull \hbox (6.61908pt too wide) in paragraph at lines 2801--2801
+[]|\OT1/ptm/m/n/8 11.12| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2801--2801
+[]|\OT1/ptm/m/n/8 3.22| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2801--2801
+[]|\OT1/ptm/m/n/8 5.06| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2802--2802
+[]|\OT1/ptm/m/n/8 5.66| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2802--2802
+[]|\OT1/ptm/b/n/8 1.31| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2802--2802
+[]|\OT1/ptm/m/n/8 3.19| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2802--2802
+[]|\OT1/ptm/m/n/8 6.73| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2802--2802
+[]|\OT1/ptm/m/n/8 2.60| 
+ []
+
+
+Overfull \hbox (6.61908pt too wide) in paragraph at lines 2802--2802
+[]|\OT1/ptm/m/n/8 12.61| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2802--2802
+[]|\OT1/ptm/m/n/8 3.85| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2802--2802
+[]|\OT1/ptm/m/n/8 6.42| 
+ []
+
+
+Overfull \hbox (6.61908pt too wide) in paragraph at lines 2803--2803
+[]|\OT1/ptm/m/n/8 10.55| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2803--2803
+[]|\OT1/ptm/b/n/8 0.95| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2803--2803
+[]|\OT1/ptm/m/n/8 3.27| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2803--2803
+[]|\OT1/ptm/m/n/8 6.36| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2803--2803
+[]|\OT1/ptm/m/n/8 1.76| 
+ []
+
+
+Overfull \hbox (6.61908pt too wide) in paragraph at lines 2803--2803
+[]|\OT1/ptm/m/n/8 15.32| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2803--2803
+[]|\OT1/ptm/m/n/8 4.29| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2803--2803
+[]|\OT1/ptm/m/n/8 5.01| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2804--2804
+[]|\OT1/ptm/m/n/8 5.14| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2804--2804
+[]|\OT1/ptm/b/n/8 1.73| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2804--2804
+[]|\OT1/ptm/m/n/8 2.72| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2804--2804
+[]|\OT1/ptm/m/n/8 9.54| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2804--2804
+[]|\OT1/ptm/m/n/8 2.73| 
+ []
+
+
+Overfull \hbox (6.61908pt too wide) in paragraph at lines 2804--2804
+[]|\OT1/ptm/m/n/8 10.39| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2804--2804
+[]|\OT1/ptm/m/n/8 3.33| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2804--2804
+[]|\OT1/ptm/m/n/8 6.47| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2805--2805
+[]|\OT1/ptm/m/n/8 7.35| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2805--2805
+[]|\OT1/ptm/b/n/8 1.19| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2805--2805
+[]|\OT1/ptm/m/n/8 2.76| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2805--2805
+[]|\OT1/ptm/m/n/8 9.13| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2805--2805
+[]|\OT1/ptm/m/n/8 1.61| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2805--2805
+[]|\OT1/ptm/m/n/8 9.91| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2805--2805
+[]|\OT1/ptm/m/n/8 4.17| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2805--2805
+[]|\OT1/ptm/m/n/8 8.56| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2806--2806
+[]|\OT1/ptm/m/n/8 4.94| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2806--2806
+[]|\OT1/ptm/m/n/8 1.38| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2806--2806
+[]|\OT1/ptm/m/n/8 3.37| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2806--2806
+[]|\OT1/ptm/m/n/8 5.83| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2806--2806
+[]|\OT1/ptm/b/n/8 1.37| 
+ []
+
+
+Overfull \hbox (6.61908pt too wide) in paragraph at lines 2806--2806
+[]|\OT1/ptm/m/n/8 10.28| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2806--2806
+[]|\OT1/ptm/m/n/8 3.68| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2806--2806
+[]|\OT1/ptm/m/n/8 4.26| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2807--2807
+[]|\OT1/ptm/m/n/8 4.54| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2807--2807
+[]|\OT1/ptm/b/n/8 0.75| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2807--2807
+[]|\OT1/ptm/m/n/8 2.44| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2807--2807
+[]|\OT1/ptm/m/n/8 5.15| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2807--2807
+[]|\OT1/ptm/m/n/8 0.98| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2807--2807
+[]|\OT1/ptm/m/n/8 8.62| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2807--2807
+[]|\OT1/ptm/m/n/8 2.49| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2807--2807
+[]|\OT1/ptm/m/n/8 3.69| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2808--2808
+[]|\OT1/ptm/m/n/8 6.30| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2808--2808
+[]|\OT1/ptm/b/n/8 0.94| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2808--2808
+[]|\OT1/ptm/m/n/8 2.94| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2808--2808
+[]|\OT1/ptm/m/n/8 5.32| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2808--2808
+[]|\OT1/ptm/m/n/8 2.53| 
+ []
+
+
+Overfull \hbox (6.61908pt too wide) in paragraph at lines 2808--2808
+[]|\OT1/ptm/m/n/8 11.44| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2808--2808
+[]|\OT1/ptm/m/n/8 3.61| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2808--2808
+[]|\OT1/ptm/m/n/8 4.16| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2809--2809
+[]|\OT1/ptm/m/n/8 2.89| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2809--2809
+[]|\OT1/ptm/m/n/8 0.50| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2809--2809
+[]|\OT1/ptm/m/n/8 1.18| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2809--2809
+[]|\OT1/ptm/m/n/8 1.06| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2809--2809
+[]|\OT1/ptm/b/n/8 0.35| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2809--2809
+[]|\OT1/ptm/m/n/8 3.52| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2809--2809
+[]|\OT1/ptm/m/n/8 1.51| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2809--2809
+[]|\OT1/ptm/m/n/8 1.95| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2810--2810
+[]|\OT1/ptm/m/n/8 3.07| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2810--2810
+[]|\OT1/ptm/b/n/8 0.46| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2810--2810
+[]|\OT1/ptm/m/n/8 1.28| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2810--2810
+[]|\OT1/ptm/m/n/8 1.18| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2810--2810
+[]|\OT1/ptm/m/n/8 0.49| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2810--2810
+[]|\OT1/ptm/m/n/8 2.56| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2810--2810
+[]|\OT1/ptm/m/n/8 1.21| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2810--2810
+[]|\OT1/ptm/m/n/8 2.57| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2811--2811
+[]|\OT1/ptm/m/n/8 2.52| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2811--2811
+[]|\OT1/ptm/m/n/8 0.33| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2811--2811
+[]|\OT1/ptm/m/n/8 1.32| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2811--2811
+[]|\OT1/ptm/m/n/8 2.41| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2811--2811
+[]|\OT1/ptm/b/n/8 0.18| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2811--2811
+[]|\OT1/ptm/m/n/8 5.09| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2811--2811
+[]|\OT1/ptm/m/n/8 1.64| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2811--2811
+[]|\OT1/ptm/m/n/8 3.05| 
+ []
+
+
+Overfull \hbox (25.75906pt too wide) in paragraph at lines 2738--2813
 [][] 
  []
 
 
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 2738.
+               Default added (so using `tbp') on input line 2819.
 
 
-Overfull \hbox (182.7117pt too wide) in paragraph at lines 2740--2805
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 2890.
+
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 2961.
+
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 3032.
+
+
+Overfull \hbox (38.79024pt too wide) in paragraph at lines 3034--3099
 [][] 
  []
 
-
-Overfull \hbox (264.0pt too wide) in paragraph at lines 2842--2844
- [][] 
- []
-
-<imagenes_hueso/resultados_7_dim.png, id=237, 901.3675pt x 1775.63374pt>
+<imagenes_hueso/resultados_7_dim.png, id=233, 901.3675pt x 1775.63374pt>
 File: imagenes_hueso/resultados_7_dim.png Graphic file (type png)
 <use imagenes_hueso/resultados_7_dim.png>
 Package pdftex.def Info: imagenes_hueso/resultados_7_dim.png  used on input lin
-e 2886.
+e 3103.
 (pdftex.def)             Requested size: 258.0pt x 508.2284pt.
-<imagenes_hueso/resultados_8_dim.png, id=238, 901.3675pt x 1775.63374pt>
+<imagenes_hueso/resultados_8_dim.png, id=234, 901.3675pt x 1775.63374pt>
 File: imagenes_hueso/resultados_8_dim.png Graphic file (type png)
 <use imagenes_hueso/resultados_8_dim.png>
 Package pdftex.def Info: imagenes_hueso/resultados_8_dim.png  used on input lin
-e 2892.
+e 3109.
 (pdftex.def)             Requested size: 258.0pt x 508.2284pt.
-<imagenes_hueso/resultados_9_dim.png, id=239, 901.3675pt x 1775.63374pt>
+<imagenes_hueso/resultados_9_dim.png, id=235, 901.3675pt x 1775.63374pt>
 File: imagenes_hueso/resultados_9_dim.png Graphic file (type png)
 <use imagenes_hueso/resultados_9_dim.png>
 Package pdftex.def Info: imagenes_hueso/resultados_9_dim.png  used on input lin
-e 2898.
+e 3115.
 (pdftex.def)             Requested size: 258.0pt x 508.2284pt.
 
 ** Conference Paper **
@@ -1483,16 +3869,15 @@ Before submitting the final camera ready copy, remember to:
  uses only Type 1 fonts and that every step in the generation
  process uses the appropriate paper size.
 
-[32 <./imagenes_hueso/resultados_7_dim.png>] [33] [34] [35 <./imagenes_hueso/re
-sultados_8_dim.png>] [36 <./imagenes_hueso/resultados_9_dim.png>] [37
+[31
 
 
-
-] [38]
-(Sumativa1.aux)
+ <./imagenes_hueso/resultados_7_dim.png>] [32] [33] [34] [35] [36] [37]
+[38 <./imagenes_hueso/resultados_8_dim.png>] [39 <./imagenes_hueso/resultados_9
+_dim.png>] (Sumativa1.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
-L3 programming layer <2024-01-22>
+L3 programming layer <2024-01-04>
  ***********
 
 
@@ -1503,41 +3888,37 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 7807 strings out of 474542
- 147781 string characters out of 5737366
- 2228978 words of memory out of 5000000
- 29920 multiletter control sequences out of 15000+600000
+ 7955 strings out of 474486
+ 148390 string characters out of 5743755
+ 2509542 words of memory out of 5000000
+ 30119 multiletter control sequences out of 15000+600000
  604176 words of font info for 133 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  67i,20n,77p,1953b,507s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/FernandoJoseRamirezS/AppData/Local/Programs/MiKTeX/fonts/type1/publ
-ic/amsfonts/cm/cmbx10.pfb><C:/Users/FernandoJoseRamirezS/AppData/Local/Programs
-/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/FernandoJoseRamirez
-S/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/U
-sers/FernandoJoseRamirezS/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsf
-onts/cm/cmmi5.pfb><C:/Users/FernandoJoseRamirezS/AppData/Local/Programs/MiKTeX/
-fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/FernandoJoseRamirezS/AppData
-/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/Ferna
-ndoJoseRamirezS/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cm
-r10.pfb><C:/Users/FernandoJoseRamirezS/AppData/Local/Programs/MiKTeX/fonts/type
-1/public/amsfonts/cm/cmr5.pfb><C:/Users/FernandoJoseRamirezS/AppData/Local/Prog
-rams/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/FernandoJoseRamir
-ezS/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/U
-sers/FernandoJoseRamirezS/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsf
-onts/cm/cmr9.pfb><C:/Users/FernandoJoseRamirezS/AppData/Local/Programs/MiKTeX/f
-onts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/FernandoJoseRamirezS/AppData
-/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy5.pfb><C:/Users/Ferna
-ndoJoseRamirezS/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cm
-sy7.pfb><C:/Users/FernandoJoseRamirezS/AppData/Local/Programs/MiKTeX/fonts/type
-1/public/amsfonts/symbols/msbm10.pfb><C:/Users/FernandoJoseRamirezS/AppData/Loc
-al/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/FernandoJoseRamir
-ezS/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmbi8a.pfb><C:/Users/F
-ernandoJoseRamirezS/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.
-pfb><C:/Users/FernandoJoseRamirezS/AppData/Local/Programs/MiKTeX/fonts/type1/ur
-w/times/utmri8a.pfb>
-Output written on Sumativa1.pdf (38 pages, 18619762 bytes).
+<C:/Users/Ferna/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/
+cmbx10.pfb><C:/Users/Ferna/AppData/Local/Programs/MiKTeX/fonts/type1/public/ams
+fonts/cm/cmex10.pfb><C:/Users/Ferna/AppData/Local/Programs/MiKTeX/fonts/type1/p
+ublic/amsfonts/cm/cmmi10.pfb><C:/Users/Ferna/AppData/Local/Programs/MiKTeX/font
+s/type1/public/amsfonts/cm/cmmi5.pfb><C:/Users/Ferna/AppData/Local/Programs/MiK
+TeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/Ferna/AppData/Local/Prog
+rams/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/Ferna/AppData/Lo
+cal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Ferna/Ap
+pData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Users/F
+erna/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/
+Users/Ferna/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.p
+fb><C:/Users/Ferna/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm
+/cmr9.pfb><C:/Users/Ferna/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsf
+onts/cm/cmsy10.pfb><C:/Users/Ferna/AppData/Local/Programs/MiKTeX/fonts/type1/pu
+blic/amsfonts/cm/cmsy5.pfb><C:/Users/Ferna/AppData/Local/Programs/MiKTeX/fonts/
+type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/Ferna/AppData/Local/Programs/MiKTe
+X/fonts/type1/public/amsfonts/symbols/msbm10.pfb><C:/Users/Ferna/AppData/Local/
+Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/Ferna/AppData/Local/
+Programs/MiKTeX/fonts/type1/urw/times/utmbi8a.pfb><C:/Users/Ferna/AppData/Local
+/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/Ferna/AppData/Local
+/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
+Output written on Sumativa1.pdf (39 pages, 18657189 bytes).
 PDF statistics:
- 346 PDF objects out of 1000 (max. 8388607)
+ 349 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  311 words of extra memory for PDF output out of 10000 (max. 10000000)
 
