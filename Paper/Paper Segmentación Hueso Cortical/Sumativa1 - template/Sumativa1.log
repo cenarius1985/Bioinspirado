@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.1.30)  1 FEB 2024 15:34
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.1.30)  1 FEB 2024 21:20
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -534,6 +534,183 @@ LaTeX Warning: Label `fig:imagenes' multiply defined.
 
 
 LaTeX Warning: Label `fig:fig511' multiply defined.
+
+
+LaTeX Warning: Label `fig:imagen2' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:imagen2' multiply defined.
+
+
+LaTeX Warning: Label `fig:imagen2' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:imagen2' multiply defined.
+
+
+LaTeX Warning: Label `fig:imgOrginal' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:imgOrginal' multiply defined.
+
+
+LaTeX Warning: Label `fig:imagen1' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:imagen1' multiply defined.
+
+
+LaTeX Warning: Label `fig:imagen2' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:imagen2' multiply defined.
+
+
+LaTeX Warning: Label `fig:imagen2' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:imagen2' multiply defined.
+
+
+LaTeX Warning: Label `fig:imagen2' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:imagen2' multiply defined.
+
+
+LaTeX Warning: Label `fig:resultados7dim' multiply defined.
+
+
+LaTeX Warning: Label `fig:imgOrginal' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:imgOrginal' multiply defined.
+
+
+LaTeX Warning: Label `fig:imagen1' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:imagen1' multiply defined.
+
+
+LaTeX Warning: Label `fig:imagen2' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:imagen2' multiply defined.
+
+
+LaTeX Warning: Label `fig:imagen2' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:imagen2' multiply defined.
+
+
+LaTeX Warning: Label `fig:imagen2' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:imagen2' multiply defined.
+
+
+LaTeX Warning: Label `fig:resultados7dim' multiply defined.
+
+
+LaTeX Warning: Label `fig:imgOrginal' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:imgOrginal' multiply defined.
+
+
+LaTeX Warning: Label `fig:imagen1' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:imagen1' multiply defined.
+
+
+LaTeX Warning: Label `fig:imagen2' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:imagen2' multiply defined.
+
+
+LaTeX Warning: Label `fig:imagen2' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:imagen2' multiply defined.
+
+
+LaTeX Warning: Label `fig:imagen2' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:imagen2' multiply defined.
+
+
+LaTeX Warning: Label `fig:resultados7dim' multiply defined.
+
+
+LaTeX Warning: Label `fig:imgOrginal' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:imgOrginal' multiply defined.
+
+
+LaTeX Warning: Label `fig:imagen1' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:imagen1' multiply defined.
+
+
+LaTeX Warning: Label `fig:imagen2' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:imagen2' multiply defined.
+
+
+LaTeX Warning: Label `fig:imagen2' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:imagen2' multiply defined.
+
+
+LaTeX Warning: Label `fig:imagen2' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:imagen2' multiply defined.
+
+
+LaTeX Warning: Label `fig:resultados7dim' multiply defined.
+
+
+LaTeX Warning: Label `fig:imgOrginal' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:imgOrginal' multiply defined.
+
+
+LaTeX Warning: Label `fig:imagen1' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:imagen1' multiply defined.
+
+
+LaTeX Warning: Label `fig:imagen2' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:imagen2' multiply defined.
+
+
+LaTeX Warning: Label `fig:imagen2' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:imagen2' multiply defined.
+
+
+LaTeX Warning: Label `fig:imagen2' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:imagen2' multiply defined.
+
+
+LaTeX Warning: Label `fig:resultados7dim' multiply defined.
 
 )
 \openout1 = `Sumativa1.aux'.
@@ -3840,24 +4017,193 @@ Overfull \hbox (38.79024pt too wide) in paragraph at lines 3034--3099
 [][] 
  []
 
-<imagenes_hueso/resultados_7_dim.png, id=233, 901.3675pt x 1775.63374pt>
-File: imagenes_hueso/resultados_7_dim.png Graphic file (type png)
-<use imagenes_hueso/resultados_7_dim.png>
-Package pdftex.def Info: imagenes_hueso/resultados_7_dim.png  used on input lin
-e 3103.
-(pdftex.def)             Requested size: 258.0pt x 508.2284pt.
-<imagenes_hueso/resultados_8_dim.png, id=234, 901.3675pt x 1775.63374pt>
-File: imagenes_hueso/resultados_8_dim.png Graphic file (type png)
-<use imagenes_hueso/resultados_8_dim.png>
-Package pdftex.def Info: imagenes_hueso/resultados_8_dim.png  used on input lin
-e 3109.
-(pdftex.def)             Requested size: 258.0pt x 508.2284pt.
-<imagenes_hueso/resultados_9_dim.png, id=235, 901.3675pt x 1775.63374pt>
-File: imagenes_hueso/resultados_9_dim.png Graphic file (type png)
-<use imagenes_hueso/resultados_9_dim.png>
-Package pdftex.def Info: imagenes_hueso/resultados_9_dim.png  used on input lin
-e 3115.
-(pdftex.def)             Requested size: 258.0pt x 508.2284pt.
+<Umbrales/Original.png, id=233, 79.497pt x 786.2976pt>
+File: Umbrales/Original.png Graphic file (type png)
+<use Umbrales/Original.png>
+Package pdftex.def Info: Umbrales/Original.png  used on input line 3105.
+(pdftex.def)             Requested size: 67.08252pt x 663.54497pt.
+<Umbrales/kapur/Dim7/RSA_HBA_Dim7_Kapur.png, id=234, 79.497pt x 786.2976pt>
+File: Umbrales/kapur/Dim7/RSA_HBA_Dim7_Kapur.png Graphic file (type png)
+<use Umbrales/kapur/Dim7/RSA_HBA_Dim7_Kapur.png>
+Package pdftex.def Info: Umbrales/kapur/Dim7/RSA_HBA_Dim7_Kapur.png  used on in
+put line 3110.
+(pdftex.def)             Requested size: 67.08252pt x 663.54497pt.
+<Umbrales/kapur/Dim7/OPA_BES_Dim7_Kapur.png, id=235, 79.497pt x 786.2976pt>
+File: Umbrales/kapur/Dim7/OPA_BES_Dim7_Kapur.png Graphic file (type png)
+<use Umbrales/kapur/Dim7/OPA_BES_Dim7_Kapur.png>
+Package pdftex.def Info: Umbrales/kapur/Dim7/OPA_BES_Dim7_Kapur.png  used on in
+put line 3115.
+(pdftex.def)             Requested size: 67.08252pt x 663.54497pt.
+<Umbrales/kapur/Dim7/HHO_TSO_Dim7_Kapur.png, id=236, 79.497pt x 786.2976pt>
+File: Umbrales/kapur/Dim7/HHO_TSO_Dim7_Kapur.png Graphic file (type png)
+<use Umbrales/kapur/Dim7/HHO_TSO_Dim7_Kapur.png>
+Package pdftex.def Info: Umbrales/kapur/Dim7/HHO_TSO_Dim7_Kapur.png  used on in
+put line 3120.
+(pdftex.def)             Requested size: 67.08252pt x 663.54497pt.
+<Umbrales/kapur/Dim7/GWO_CSA_Dim7_Kapur.png, id=237, 79.497pt x 786.2976pt>
+File: Umbrales/kapur/Dim7/GWO_CSA_Dim7_Kapur.png Graphic file (type png)
+<use Umbrales/kapur/Dim7/GWO_CSA_Dim7_Kapur.png>
+Package pdftex.def Info: Umbrales/kapur/Dim7/GWO_CSA_Dim7_Kapur.png  used on in
+put line 3125.
+(pdftex.def)             Requested size: 67.08252pt x 663.54497pt.
+
+LaTeX Warning: Float too large for page by 41.145pt on input line 3133.
+
+File: Umbrales/Original.png Graphic file (type png)
+<use Umbrales/Original.png>
+Package pdftex.def Info: Umbrales/Original.png  used on input line 3138.
+(pdftex.def)             Requested size: 67.08252pt x 663.54497pt.
+<Umbrales/Otsu/Dim7/RSA-HBA_Dim7_Otsu.png, id=238, 79.497pt x 786.2976pt>
+File: Umbrales/Otsu/Dim7/RSA-HBA_Dim7_Otsu.png Graphic file (type png)
+<use Umbrales/Otsu/Dim7/RSA-HBA_Dim7_Otsu.png>
+Package pdftex.def Info: Umbrales/Otsu/Dim7/RSA-HBA_Dim7_Otsu.png  used on inpu
+t line 3143.
+(pdftex.def)             Requested size: 67.08252pt x 663.54497pt.
+<Umbrales/Otsu/Dim7/OPA-BES_Dim7_Otsu.png, id=239, 79.497pt x 786.2976pt>
+File: Umbrales/Otsu/Dim7/OPA-BES_Dim7_Otsu.png Graphic file (type png)
+<use Umbrales/Otsu/Dim7/OPA-BES_Dim7_Otsu.png>
+Package pdftex.def Info: Umbrales/Otsu/Dim7/OPA-BES_Dim7_Otsu.png  used on inpu
+t line 3148.
+(pdftex.def)             Requested size: 67.08252pt x 663.54497pt.
+<Umbrales/Otsu/Dim7/HHO-TSO_Dim7_Otsu.png, id=240, 79.497pt x 786.2976pt>
+File: Umbrales/Otsu/Dim7/HHO-TSO_Dim7_Otsu.png Graphic file (type png)
+<use Umbrales/Otsu/Dim7/HHO-TSO_Dim7_Otsu.png>
+Package pdftex.def Info: Umbrales/Otsu/Dim7/HHO-TSO_Dim7_Otsu.png  used on inpu
+t line 3153.
+(pdftex.def)             Requested size: 67.08252pt x 663.54497pt.
+<Umbrales/Otsu/Dim7/GWO-CSA_Dim7_Otsu.png, id=241, 79.497pt x 786.2976pt>
+File: Umbrales/Otsu/Dim7/GWO-CSA_Dim7_Otsu.png Graphic file (type png)
+<use Umbrales/Otsu/Dim7/GWO-CSA_Dim7_Otsu.png>
+Package pdftex.def Info: Umbrales/Otsu/Dim7/GWO-CSA_Dim7_Otsu.png  used on inpu
+t line 3158.
+(pdftex.def)             Requested size: 67.08252pt x 663.54497pt.
+
+LaTeX Warning: Float too large for page by 41.145pt on input line 3166.
+
+File: Umbrales/Original.png Graphic file (type png)
+<use Umbrales/Original.png>
+Package pdftex.def Info: Umbrales/Original.png  used on input line 3172.
+(pdftex.def)             Requested size: 67.08252pt x 663.54497pt.
+<Umbrales/kapur/Dim8/RSA-HBA_Dim8_Kapur.png, id=242, 79.497pt x 786.2976pt>
+File: Umbrales/kapur/Dim8/RSA-HBA_Dim8_Kapur.png Graphic file (type png)
+<use Umbrales/kapur/Dim8/RSA-HBA_Dim8_Kapur.png>
+Package pdftex.def Info: Umbrales/kapur/Dim8/RSA-HBA_Dim8_Kapur.png  used on in
+put line 3177.
+(pdftex.def)             Requested size: 67.08252pt x 663.54497pt.
+<Umbrales/kapur/Dim8/OPA-BES_Dim8_Kapur.png, id=243, 79.497pt x 786.2976pt>
+File: Umbrales/kapur/Dim8/OPA-BES_Dim8_Kapur.png Graphic file (type png)
+<use Umbrales/kapur/Dim8/OPA-BES_Dim8_Kapur.png>
+Package pdftex.def Info: Umbrales/kapur/Dim8/OPA-BES_Dim8_Kapur.png  used on in
+put line 3182.
+(pdftex.def)             Requested size: 67.08252pt x 663.54497pt.
+<Umbrales/kapur/Dim8/HHO-TSO_Dim8_Kapur.png, id=244, 79.497pt x 786.2976pt>
+File: Umbrales/kapur/Dim8/HHO-TSO_Dim8_Kapur.png Graphic file (type png)
+<use Umbrales/kapur/Dim8/HHO-TSO_Dim8_Kapur.png>
+Package pdftex.def Info: Umbrales/kapur/Dim8/HHO-TSO_Dim8_Kapur.png  used on in
+put line 3187.
+(pdftex.def)             Requested size: 67.08252pt x 663.54497pt.
+<Umbrales/kapur/Dim8/GWO-CSA_Dim8_Kapur.png, id=245, 79.497pt x 786.2976pt>
+File: Umbrales/kapur/Dim8/GWO-CSA_Dim8_Kapur.png Graphic file (type png)
+<use Umbrales/kapur/Dim8/GWO-CSA_Dim8_Kapur.png>
+Package pdftex.def Info: Umbrales/kapur/Dim8/GWO-CSA_Dim8_Kapur.png  used on in
+put line 3192.
+(pdftex.def)             Requested size: 67.08252pt x 663.54497pt.
+
+LaTeX Warning: Float too large for page by 41.145pt on input line 3200.
+
+File: Umbrales/Original.png Graphic file (type png)
+<use Umbrales/Original.png>
+Package pdftex.def Info: Umbrales/Original.png  used on input line 3205.
+(pdftex.def)             Requested size: 67.08252pt x 663.54497pt.
+<Umbrales/Otsu/Dim8/RSA-HBA_Dim8_Otsu.png, id=246, 79.497pt x 786.2976pt>
+File: Umbrales/Otsu/Dim8/RSA-HBA_Dim8_Otsu.png Graphic file (type png)
+<use Umbrales/Otsu/Dim8/RSA-HBA_Dim8_Otsu.png>
+Package pdftex.def Info: Umbrales/Otsu/Dim8/RSA-HBA_Dim8_Otsu.png  used on inpu
+t line 3210.
+(pdftex.def)             Requested size: 67.08252pt x 663.54497pt.
+<Umbrales/Otsu/Dim8/OPA-BES_Dim8_Otsu.png, id=247, 79.497pt x 786.2976pt>
+File: Umbrales/Otsu/Dim8/OPA-BES_Dim8_Otsu.png Graphic file (type png)
+<use Umbrales/Otsu/Dim8/OPA-BES_Dim8_Otsu.png>
+Package pdftex.def Info: Umbrales/Otsu/Dim8/OPA-BES_Dim8_Otsu.png  used on inpu
+t line 3215.
+(pdftex.def)             Requested size: 67.08252pt x 663.54497pt.
+<Umbrales/Otsu/Dim8/HHO-TSO_Dim8_Otsu.png, id=248, 79.497pt x 786.2976pt>
+File: Umbrales/Otsu/Dim8/HHO-TSO_Dim8_Otsu.png Graphic file (type png)
+<use Umbrales/Otsu/Dim8/HHO-TSO_Dim8_Otsu.png>
+Package pdftex.def Info: Umbrales/Otsu/Dim8/HHO-TSO_Dim8_Otsu.png  used on inpu
+t line 3220.
+(pdftex.def)             Requested size: 67.08252pt x 663.54497pt.
+<Umbrales/Otsu/Dim8/GWO-CSA_Dim8_Otsu.png, id=249, 79.497pt x 786.2976pt>
+File: Umbrales/Otsu/Dim8/GWO-CSA_Dim8_Otsu.png Graphic file (type png)
+<use Umbrales/Otsu/Dim8/GWO-CSA_Dim8_Otsu.png>
+Package pdftex.def Info: Umbrales/Otsu/Dim8/GWO-CSA_Dim8_Otsu.png  used on inpu
+t line 3225.
+(pdftex.def)             Requested size: 67.08252pt x 663.54497pt.
+
+LaTeX Warning: Float too large for page by 41.145pt on input line 3233.
+
+File: Umbrales/Original.png Graphic file (type png)
+<use Umbrales/Original.png>
+Package pdftex.def Info: Umbrales/Original.png  used on input line 3239.
+(pdftex.def)             Requested size: 67.08252pt x 663.54497pt.
+<Umbrales/kapur/Dim9/RSA-HBA_Dim9_Kapur.png, id=250, 79.497pt x 786.2976pt>
+File: Umbrales/kapur/Dim9/RSA-HBA_Dim9_Kapur.png Graphic file (type png)
+<use Umbrales/kapur/Dim9/RSA-HBA_Dim9_Kapur.png>
+Package pdftex.def Info: Umbrales/kapur/Dim9/RSA-HBA_Dim9_Kapur.png  used on in
+put line 3244.
+(pdftex.def)             Requested size: 67.08252pt x 663.54497pt.
+<Umbrales/kapur/Dim9/OPA-BES_Dim9_Kapur.png, id=251, 79.497pt x 786.2976pt>
+File: Umbrales/kapur/Dim9/OPA-BES_Dim9_Kapur.png Graphic file (type png)
+<use Umbrales/kapur/Dim9/OPA-BES_Dim9_Kapur.png>
+Package pdftex.def Info: Umbrales/kapur/Dim9/OPA-BES_Dim9_Kapur.png  used on in
+put line 3249.
+(pdftex.def)             Requested size: 67.08252pt x 663.54497pt.
+<Umbrales/kapur/Dim9/HHO-TSO_Dim9_Kapur.png, id=252, 79.497pt x 786.2976pt>
+File: Umbrales/kapur/Dim9/HHO-TSO_Dim9_Kapur.png Graphic file (type png)
+<use Umbrales/kapur/Dim9/HHO-TSO_Dim9_Kapur.png>
+Package pdftex.def Info: Umbrales/kapur/Dim9/HHO-TSO_Dim9_Kapur.png  used on in
+put line 3254.
+(pdftex.def)             Requested size: 67.08252pt x 663.54497pt.
+<Umbrales/kapur/Dim9/GWO-CSA_Dim9_Kapur.png, id=253, 79.497pt x 786.2976pt>
+File: Umbrales/kapur/Dim9/GWO-CSA_Dim9_Kapur.png Graphic file (type png)
+<use Umbrales/kapur/Dim9/GWO-CSA_Dim9_Kapur.png>
+Package pdftex.def Info: Umbrales/kapur/Dim9/GWO-CSA_Dim9_Kapur.png  used on in
+put line 3259.
+(pdftex.def)             Requested size: 67.08252pt x 663.54497pt.
+
+LaTeX Warning: Float too large for page by 41.145pt on input line 3267.
+
+File: Umbrales/Original.png Graphic file (type png)
+<use Umbrales/Original.png>
+Package pdftex.def Info: Umbrales/Original.png  used on input line 3273.
+(pdftex.def)             Requested size: 67.08252pt x 663.54497pt.
+<Umbrales/Otsu/Dim9/RSA-HBA_Dim9_Otsu.png, id=254, 79.497pt x 786.2976pt>
+File: Umbrales/Otsu/Dim9/RSA-HBA_Dim9_Otsu.png Graphic file (type png)
+<use Umbrales/Otsu/Dim9/RSA-HBA_Dim9_Otsu.png>
+Package pdftex.def Info: Umbrales/Otsu/Dim9/RSA-HBA_Dim9_Otsu.png  used on inpu
+t line 3278.
+(pdftex.def)             Requested size: 67.08252pt x 663.54497pt.
+<Umbrales/Otsu/Dim9/OPA-BES_Dim9_Otsu.png, id=255, 79.497pt x 786.2976pt>
+File: Umbrales/Otsu/Dim9/OPA-BES_Dim9_Otsu.png Graphic file (type png)
+<use Umbrales/Otsu/Dim9/OPA-BES_Dim9_Otsu.png>
+Package pdftex.def Info: Umbrales/Otsu/Dim9/OPA-BES_Dim9_Otsu.png  used on inpu
+t line 3283.
+(pdftex.def)             Requested size: 67.08252pt x 663.54497pt.
+<Umbrales/Otsu/Dim9/HHO-TSO_Dim9_Otsu.png, id=256, 79.497pt x 786.2976pt>
+File: Umbrales/Otsu/Dim9/HHO-TSO_Dim9_Otsu.png Graphic file (type png)
+<use Umbrales/Otsu/Dim9/HHO-TSO_Dim9_Otsu.png>
+Package pdftex.def Info: Umbrales/Otsu/Dim9/HHO-TSO_Dim9_Otsu.png  used on inpu
+t line 3288.
+(pdftex.def)             Requested size: 67.08252pt x 663.54497pt.
+<Umbrales/Otsu/Dim9/GWO-CSA_Dim9_Otsu.png, id=257, 79.497pt x 786.2976pt>
+File: Umbrales/Otsu/Dim9/GWO-CSA_Dim9_Otsu.png Graphic file (type png)
+<use Umbrales/Otsu/Dim9/GWO-CSA_Dim9_Otsu.png>
+Package pdftex.def Info: Umbrales/Otsu/Dim9/GWO-CSA_Dim9_Otsu.png  used on inpu
+t line 3293.
+(pdftex.def)             Requested size: 67.08252pt x 663.54497pt.
+
+LaTeX Warning: Float too large for page by 41.145pt on input line 3301.
+
 
 ** Conference Paper **
 Before submitting the final camera ready copy, remember to:
@@ -3872,9 +4218,22 @@ Before submitting the final camera ready copy, remember to:
 [31
 
 
- <./imagenes_hueso/resultados_7_dim.png>] [32] [33] [34] [35] [36] [37]
-[38 <./imagenes_hueso/resultados_8_dim.png>] [39 <./imagenes_hueso/resultados_9
-_dim.png>] (Sumativa1.aux)
+] [32] [33] [34] [35] [36] [37] [38 <./Umbrales/Original.png> <./Umbrales/kapur
+/Dim7/RSA_HBA_Dim7_Kapur.png> <./Umbrales/kapur/Dim7/OPA_BES_Dim7_Kapur.png> <.
+/Umbrales/kapur/Dim7/HHO_TSO_Dim7_Kapur.png> <./Umbrales/kapur/Dim7/GWO_CSA_Dim
+7_Kapur.png>] [39 <./Umbrales/Otsu/Dim7/RSA-HBA_Dim7_Otsu.png> <./Umbrales/Otsu
+/Dim7/OPA-BES_Dim7_Otsu.png> <./Umbrales/Otsu/Dim7/HHO-TSO_Dim7_Otsu.png> <./Um
+brales/Otsu/Dim7/GWO-CSA_Dim7_Otsu.png>] [40 <./Umbrales/kapur/Dim8/RSA-HBA_Dim
+8_Kapur.png> <./Umbrales/kapur/Dim8/OPA-BES_Dim8_Kapur.png> <./Umbrales/kapur/D
+im8/HHO-TSO_Dim8_Kapur.png> <./Umbrales/kapur/Dim8/GWO-CSA_Dim8_Kapur.png>]
+[41 <./Umbrales/Otsu/Dim8/RSA-HBA_Dim8_Otsu.png> <./Umbrales/Otsu/Dim8/OPA-BES_
+Dim8_Otsu.png> <./Umbrales/Otsu/Dim8/HHO-TSO_Dim8_Otsu.png> <./Umbrales/Otsu/Di
+m8/GWO-CSA_Dim8_Otsu.png>] [42 <./Umbrales/kapur/Dim9/RSA-HBA_Dim9_Kapur.png> <
+./Umbrales/kapur/Dim9/OPA-BES_Dim9_Kapur.png> <./Umbrales/kapur/Dim9/HHO-TSO_Di
+m9_Kapur.png> <./Umbrales/kapur/Dim9/GWO-CSA_Dim9_Kapur.png>] [43 <./Umbrales/O
+tsu/Dim9/RSA-HBA_Dim9_Otsu.png> <./Umbrales/Otsu/Dim9/OPA-BES_Dim9_Otsu.png> <.
+/Umbrales/Otsu/Dim9/HHO-TSO_Dim9_Otsu.png> <./Umbrales/Otsu/Dim9/GWO-CSA_Dim9_O
+tsu.png>] (Sumativa1.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
@@ -3888,13 +4247,13 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 7955 strings out of 474486
- 148390 string characters out of 5743755
- 2509542 words of memory out of 5000000
- 30119 multiletter control sequences out of 15000+600000
- 604176 words of font info for 133 fonts, out of 8000000 for 9000
+ 8116 strings out of 474486
+ 155844 string characters out of 5743755
+ 2520542 words of memory out of 5000000
+ 30279 multiletter control sequences out of 15000+600000
+ 605254 words of font info for 134 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 67i,20n,77p,1953b,507s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 67i,20n,77p,1953b,555s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/Ferna/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/
 cmbx10.pfb><C:/Users/Ferna/AppData/Local/Programs/MiKTeX/fonts/type1/public/ams
 fonts/cm/cmex10.pfb><C:/Users/Ferna/AppData/Local/Programs/MiKTeX/fonts/type1/p
@@ -3916,9 +4275,9 @@ Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/Ferna/AppData/Local/
 Programs/MiKTeX/fonts/type1/urw/times/utmbi8a.pfb><C:/Users/Ferna/AppData/Local
 /Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/Ferna/AppData/Local
 /Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on Sumativa1.pdf (39 pages, 18657189 bytes).
+Output written on Sumativa1.pdf (43 pages, 47070506 bytes).
 PDF statistics:
- 349 PDF objects out of 1000 (max. 8388607)
+ 406 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 311 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 421 words of extra memory for PDF output out of 10000 (max. 10000000)
 
