@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.1.30)  4 FEB 2024 16:37
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.1.30)  4 FEB 2024 16:48
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1662,2074 +1662,620 @@ Overfull \hbox (6.0pt too wide) in paragraph at lines 2325--2326
 <SSIM/Otsu/Rank_Otsu_SSIM.png, id=291, 710.436pt x 391.353pt>
 File: SSIM/Otsu/Rank_Otsu_SSIM.png Graphic file (type png)
 <use SSIM/Otsu/Rank_Otsu_SSIM.png>
-Package pdftex.def Info: SSIM/Otsu/Rank_Otsu_SSIM.png  used on input line 2332.
+Package pdftex.def Info: SSIM/Otsu/Rank_Otsu_SSIM.png  used on input line 2351.
 
 (pdftex.def)             Requested size: 258.0pt x 142.12308pt.
 
-Overfull \hbox (6.0pt too wide) in paragraph at lines 2332--2333
+Overfull \hbox (6.0pt too wide) in paragraph at lines 2351--2352
  [][] 
  []
 
-
-LaTeX Warning: Reference `tab:tabla3' on page 33 undefined on input line 2340.
-
-
-LaTeX Warning: Reference `fig:fig512' on page 33 undefined on input line 2346.
-
-
-LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 2348.
-
-
-LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 2420.
-
 [33 <./SSIM/Kapur/Rank_Kapur_SSIM.png (PNG copy)> <./SSIM/Otsu/Rank_Otsu_SSIM.p
-ng>] [34] [35] [36] [37] [38] (Sumativa1.bbl) [39
+ng>] [34] [35]
+
+LaTeX Warning: Reference `tab:tabla3' on page 36 undefined on input line 2377.
+
+
+LaTeX Warning: Reference `fig:fig512' on page 36 undefined on input line 2383.
+
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 2385.
+
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 2457.
+
+[36] [37] [38] [39] (Sumativa1.bbl) [40
 
 ]
 
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 2612.
+               Default added (so using `tbp') on input line 2649.
 
 
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2628--2628
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2665--2665
 []|\OT1/ptm/m/n/8 5.56| 
  []
 
 
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2628--2628
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2665--2665
 []|\OT1/ptm/b/n/8 1.40| 
  []
 
 
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2628--2628
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2665--2665
 []|\OT1/ptm/m/n/8 2.98| 
  []
 
 
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2628--2628
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2665--2665
 []|\OT1/ptm/m/n/8 6.46| 
  []
 
 
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2628--2628
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2665--2665
 []|\OT1/ptm/m/n/8 1.68| 
  []
 
 
-Overfull \hbox (6.61908pt too wide) in paragraph at lines 2628--2628
+Overfull \hbox (6.61908pt too wide) in paragraph at lines 2665--2665
 []|\OT1/ptm/m/n/8 14.13| 
  []
 
 
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2628--2628
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2665--2665
 []|\OT1/ptm/m/n/8 2.95| 
  []
 
 
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2628--2628
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2665--2665
 []|\OT1/ptm/m/n/8 6.45| 
  []
 
 
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2629--2629
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2666--2666
 []|\OT1/ptm/m/n/8 4.02| 
  []
 
 
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2629--2629
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2666--2666
 []|\OT1/ptm/b/n/8 1.21| 
  []
 
 
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2629--2629
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2666--2666
 []|\OT1/ptm/m/n/8 2.30| 
  []
 
 
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2629--2629
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2666--2666
 []|\OT1/ptm/m/n/8 4.21| 
  []
 
 
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2629--2629
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2666--2666
 []|\OT1/ptm/m/n/8 1.26| 
  []
 
 
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2629--2629
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2666--2666
 []|\OT1/ptm/m/n/8 8.67| 
  []
 
 
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2629--2629
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2666--2666
 []|\OT1/ptm/m/n/8 4.15| 
  []
 
 
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2629--2629
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2666--2666
 []|\OT1/ptm/m/n/8 3.88| 
  []
 
 
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2630--2630
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2667--2667
 []|\OT1/ptm/m/n/8 5.26| 
  []
 
 
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2630--2630
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2667--2667
 []|\OT1/ptm/b/n/8 1.38| 
  []
 
 
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2630--2630
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2667--2667
 []|\OT1/ptm/m/n/8 2.58| 
  []
 
 
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2630--2630
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2667--2667
 []|\OT1/ptm/m/n/8 5.60| 
  []
 
 
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2630--2630
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2667--2667
 []|\OT1/ptm/m/n/8 1.96| 
  []
 
 
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2630--2630
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2667--2667
 []|\OT1/ptm/m/n/8 9.95| 
  []
 
 
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2630--2630
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2667--2667
 []|\OT1/ptm/m/n/8 3.92| 
  []
 
 
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2630--2630
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2667--2667
 []|\OT1/ptm/m/n/8 5.54| 
  []
 
 
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2631--2631
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2668--2668
 []|\OT1/ptm/m/n/8 7.24| 
  []
 
 
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2631--2631
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2668--2668
 []|\OT1/ptm/b/n/8 1.38| 
  []
 
 
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2631--2631
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2668--2668
 []|\OT1/ptm/m/n/8 2.90| 
  []
 
 
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2631--2631
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2668--2668
 []|\OT1/ptm/m/n/8 6.62| 
  []
 
 
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2631--2631
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2668--2668
 []|\OT1/ptm/m/n/8 1.83| 
  []
 
 
-Overfull \hbox (6.61908pt too wide) in paragraph at lines 2631--2631
+Overfull \hbox (6.61908pt too wide) in paragraph at lines 2668--2668
 []|\OT1/ptm/m/n/8 10.74| 
  []
 
 
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2631--2631
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2668--2668
 []|\OT1/ptm/m/n/8 3.54| 
  []
 
 
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2631--2631
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2668--2668
 []|\OT1/ptm/m/n/8 4.82| 
  []
 
 
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2632--2632
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2669--2669
 []|\OT1/ptm/m/n/8 5.07| 
  []
 
 
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2632--2632
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2669--2669
 []|\OT1/ptm/b/n/8 1.47| 
  []
 
 
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2632--2632
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2669--2669
 []|\OT1/ptm/m/n/8 3.02| 
  []
 
 
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2632--2632
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2669--2669
 []|\OT1/ptm/m/n/8 7.27| 
  []
 
 
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2632--2632
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2669--2669
 []|\OT1/ptm/m/n/8 2.09| 
  []
 
 
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2632--2632
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2669--2669
 []|\OT1/ptm/m/n/8 9.08| 
  []
 
 
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2632--2632
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2669--2669
 []|\OT1/ptm/m/n/8 2.69| 
  []
 
 
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2632--2632
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2669--2669
 []|\OT1/ptm/m/n/8 5.95| 
  []
 
 
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2633--2633
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2670--2670
 []|\OT1/ptm/m/n/8 6.53| 
  []
 
 
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2633--2633
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2670--2670
 []|\OT1/ptm/b/n/8 1.47| 
  []
 
 
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2633--2633
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2670--2670
 []|\OT1/ptm/m/n/8 3.08| 
  []
 
 
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2633--2633
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2670--2670
 []|\OT1/ptm/m/n/8 6.08| 
  []
 
 
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2633--2633
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2670--2670
 []|\OT1/ptm/m/n/8 1.94| 
  []
 
 
-Overfull \hbox (6.61908pt too wide) in paragraph at lines 2633--2633
+Overfull \hbox (6.61908pt too wide) in paragraph at lines 2670--2670
 []|\OT1/ptm/m/n/8 11.44| 
  []
 
 
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2633--2633
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2670--2670
 []|\OT1/ptm/m/n/8 3.32| 
  []
 
 
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2633--2633
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2670--2670
 []|\OT1/ptm/m/n/8 6.40| 
  []
 
 
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2634--2634
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2671--2671
 []|\OT1/ptm/m/n/8 6.46| 
  []
 
 
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2634--2634
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2671--2671
 []|\OT1/ptm/b/n/8 1.29| 
  []
 
 
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2634--2634
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2671--2671
 []|\OT1/ptm/m/n/8 2.91| 
  []
 
 
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2634--2634
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2671--2671
 []|\OT1/ptm/m/n/8 6.96| 
  []
 
 
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2634--2634
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2671--2671
 []|\OT1/ptm/m/n/8 1.92| 
  []
 
 
-Overfull \hbox (6.61908pt too wide) in paragraph at lines 2634--2634
+Overfull \hbox (6.61908pt too wide) in paragraph at lines 2671--2671
 []|\OT1/ptm/m/n/8 14.95| 
  []
 
 
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2634--2634
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2671--2671
 []|\OT1/ptm/m/n/8 2.87| 
  []
 
 
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2634--2634
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2671--2671
 []|\OT1/ptm/m/n/8 5.13| 
  []
 
 
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2635--2635
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2672--2672
 []|\OT1/ptm/m/n/8 5.42| 
  []
 
 
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2635--2635
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2672--2672
 []|\OT1/ptm/b/n/8 1.24| 
  []
 
 
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2635--2635
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2672--2672
 []|\OT1/ptm/m/n/8 2.59| 
  []
 
 
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2635--2635
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2672--2672
 []|\OT1/ptm/m/n/8 8.22| 
  []
 
 
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2635--2635
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2672--2672
 []|\OT1/ptm/m/n/8 2.35| 
  []
 
 
-Overfull \hbox (6.61908pt too wide) in paragraph at lines 2635--2635
+Overfull \hbox (6.61908pt too wide) in paragraph at lines 2672--2672
 []|\OT1/ptm/m/n/8 10.24| 
  []
 
 
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2635--2635
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2672--2672
 []|\OT1/ptm/m/n/8 2.83| 
  []
 
 
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2635--2635
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2672--2672
 []|\OT1/ptm/m/n/8 3.85| 
  []
 
 
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2636--2636
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2673--2673
 []|\OT1/ptm/m/n/8 7.07| 
  []
 
 
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2636--2636
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2673--2673
 []|\OT1/ptm/b/n/8 1.53| 
  []
 
 
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2636--2636
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2673--2673
 []|\OT1/ptm/m/n/8 2.71| 
  []
 
 
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2636--2636
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2673--2673
 []|\OT1/ptm/m/n/8 7.63| 
  []
 
 
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2636--2636
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2673--2673
 []|\OT1/ptm/m/n/8 1.78| 
  []
 
 
-Overfull \hbox (6.61908pt too wide) in paragraph at lines 2636--2636
+Overfull \hbox (6.61908pt too wide) in paragraph at lines 2673--2673
 []|\OT1/ptm/m/n/8 11.80| 
  []
 
 
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2636--2636
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2673--2673
 []|\OT1/ptm/m/n/8 4.61| 
  []
 
 
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2636--2636
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2673--2673
 []|\OT1/ptm/m/n/8 4.59| 
  []
 
 
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2637--2637
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2674--2674
 []|\OT1/ptm/m/n/8 7.67| 
  []
 
 
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2637--2637
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2674--2674
 []|\OT1/ptm/b/n/8 1.27| 
  []
 
 
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2637--2637
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2674--2674
 []|\OT1/ptm/m/n/8 3.13| 
  []
 
 
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2637--2637
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2674--2674
 []|\OT1/ptm/m/n/8 7.30| 
  []
 
 
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2637--2637
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2674--2674
 []|\OT1/ptm/m/n/8 2.57| 
  []
 
 
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2637--2637
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2674--2674
 []|\OT1/ptm/m/n/8 9.91| 
  []
 
 
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2637--2637
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2674--2674
 []|\OT1/ptm/m/n/8 4.52| 
  []
 
 
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2637--2637
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2674--2674
 []|\OT1/ptm/m/n/8 5.57| 
  []
 
 
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2638--2638
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2675--2675
 []|\OT1/ptm/m/n/8 5.58| 
  []
 
 
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2638--2638
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2675--2675
 []|\OT1/ptm/b/n/8 1.65| 
  []
 
 
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2638--2638
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2675--2675
 []|\OT1/ptm/m/n/8 2.50| 
  []
 
 
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2638--2638
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2675--2675
 []|\OT1/ptm/m/n/8 6.21| 
  []
 
 
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2638--2638
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2675--2675
 []|\OT1/ptm/m/n/8 2.47| 
  []
 
 
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2638--2638
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2675--2675
 []|\OT1/ptm/m/n/8 8.89| 
  []
 
 
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2638--2638
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2675--2675
 []|\OT1/ptm/m/n/8 5.42| 
  []
 
 
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2638--2638
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2675--2675
 []|\OT1/ptm/m/n/8 4.59| 
  []
 
 
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2639--2639
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2676--2676
 []|\OT1/ptm/m/n/8 5.98| 
  []
 
 
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2639--2639
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2676--2676
 []|\OT1/ptm/b/n/8 1.17| 
  []
 
 
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2639--2639
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2676--2676
 []|\OT1/ptm/m/n/8 3.03| 
  []
 
 
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2639--2639
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2676--2676
 []|\OT1/ptm/m/n/8 5.94| 
  []
 
 
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2639--2639
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2676--2676
 []|\OT1/ptm/m/n/8 1.90| 
  []
 
 
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2639--2639
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2676--2676
 []|\OT1/ptm/m/n/8 9.98| 
  []
 
 
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2639--2639
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2676--2676
 []|\OT1/ptm/m/n/8 4.48| 
  []
 
 
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2639--2639
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2676--2676
 []|\OT1/ptm/m/n/8 4.39| 
  []
 
 
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2640--2640
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2677--2677
 []|\OT1/ptm/m/n/8 6.26| 
  []
 
 
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2640--2640
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2677--2677
 []|\OT1/ptm/b/n/8 0.98| 
  []
 
 
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2640--2640
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2677--2677
 []|\OT1/ptm/m/n/8 2.99| 
  []
 
 
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2640--2640
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2677--2677
 []|\OT1/ptm/m/n/8 6.04| 
  []
 
 
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2640--2640
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2677--2677
 []|\OT1/ptm/m/n/8 1.69| 
  []
 
 
-Overfull \hbox (6.61908pt too wide) in paragraph at lines 2640--2640
+Overfull \hbox (6.61908pt too wide) in paragraph at lines 2677--2677
 []|\OT1/ptm/m/n/8 15.14| 
  []
 
 
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2640--2640
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2677--2677
 []|\OT1/ptm/m/n/8 2.93| 
  []
 
 
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2640--2640
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2677--2677
 []|\OT1/ptm/m/n/8 4.01| 
  []
 
 
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2641--2641
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2678--2678
 []|\OT1/ptm/m/n/8 5.78| 
  []
 
 
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2641--2641
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2678--2678
 []|\OT1/ptm/b/n/8 1.16| 
  []
 
 
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2641--2641
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2678--2678
 []|\OT1/ptm/m/n/8 2.43| 
  []
 
 
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2641--2641
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2678--2678
 []|\OT1/ptm/m/n/8 6.62| 
  []
 
 
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2641--2641
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2678--2678
 []|\OT1/ptm/m/n/8 1.59| 
- []
-
-
-Overfull \hbox (6.61908pt too wide) in paragraph at lines 2641--2641
-[]|\OT1/ptm/m/n/8 10.17| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2641--2641
-[]|\OT1/ptm/m/n/8 3.22| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2641--2641
-[]|\OT1/ptm/m/n/8 3.38| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2642--2642
-[]|\OT1/ptm/m/n/8 6.47| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2642--2642
-[]|\OT1/ptm/b/n/8 0.86| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2642--2642
-[]|\OT1/ptm/m/n/8 3.26| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2642--2642
-[]|\OT1/ptm/m/n/8 7.35| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2642--2642
-[]|\OT1/ptm/m/n/8 1.31| 
- []
-
-
-Overfull \hbox (6.61908pt too wide) in paragraph at lines 2642--2642
-[]|\OT1/ptm/m/n/8 10.55| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2642--2642
-[]|\OT1/ptm/m/n/8 2.97| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2642--2642
-[]|\OT1/ptm/m/n/8 5.95| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2643--2643
-[]|\OT1/ptm/m/n/8 3.42| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2643--2643
-[]|\OT1/ptm/m/n/8 0.50| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2643--2643
-[]|\OT1/ptm/m/n/8 1.37| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2643--2643
-[]|\OT1/ptm/m/n/8 1.44| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2643--2643
-[]|\OT1/ptm/b/n/8 0.39| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2643--2643
-[]|\OT1/ptm/m/n/8 3.94| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2643--2643
-[]|\OT1/ptm/m/n/8 1.66| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2643--2643
-[]|\OT1/ptm/m/n/8 1.70| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2644--2644
-[]|\OT1/ptm/m/n/8 1.79| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2644--2644
-[]|\OT1/ptm/b/n/8 0.41| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2644--2644
-[]|\OT1/ptm/m/n/8 1.37| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2644--2644
-[]|\OT1/ptm/m/n/8 1.61| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2644--2644
-[]|\OT1/ptm/m/n/8 0.45| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2644--2644
-[]|\OT1/ptm/m/n/8 2.40| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2644--2644
-[]|\OT1/ptm/m/n/8 1.08| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2644--2644
-[]|\OT1/ptm/m/n/8 1.90| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2645--2645
-[]|\OT1/ptm/m/n/8 3.02| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2645--2645
-[]|\OT1/ptm/m/n/8 0.50| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2645--2645
-[]|\OT1/ptm/m/n/8 1.33| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2645--2645
-[]|\OT1/ptm/m/n/8 1.97| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2645--2645
-[]|\OT1/ptm/b/n/8 0.22| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2645--2645
-[]|\OT1/ptm/m/n/8 2.63| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2645--2645
-[]|\OT1/ptm/m/n/8 1.73| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2645--2645
-[]|\OT1/ptm/m/n/8 3.10| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2646--2646
-[]|\OT1/ptm/m/n/8 5.55| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2646--2646
-[]|\OT1/ptm/b/n/8 0.89| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2646--2646
-[]|\OT1/ptm/m/n/8 2.29| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2646--2646
-[]|\OT1/ptm/m/n/8 7.35| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2646--2646
-[]|\OT1/ptm/m/n/8 0.90| 
- []
-
-
-Overfull \hbox (6.61908pt too wide) in paragraph at lines 2646--2646
-[]|\OT1/ptm/m/n/8 10.78| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2646--2646
-[]|\OT1/ptm/m/n/8 3.52| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2646--2646
-[]|\OT1/ptm/m/n/8 5.17| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2647--2647
-[]|\OT1/ptm/m/n/8 4.36| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2647--2647
-[]|\OT1/ptm/b/n/8 1.13| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2647--2647
-[]|\OT1/ptm/m/n/8 2.18| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2647--2647
-[]|\OT1/ptm/m/n/8 5.40| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2647--2647
-[]|\OT1/ptm/m/n/8 2.01| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2647--2647
-[]|\OT1/ptm/m/n/8 8.21| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2647--2647
-[]|\OT1/ptm/m/n/8 2.84| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2647--2647
-[]|\OT1/ptm/m/n/8 4.56| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2648--2648
-[]|\OT1/ptm/m/n/8 5.75| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2648--2648
-[]|\OT1/ptm/m/n/8 0.96| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2648--2648
-[]|\OT1/ptm/m/n/8 2.63| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2648--2648
-[]|\OT1/ptm/m/n/8 5.23| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2648--2648
-[]|\OT1/ptm/b/n/8 0.96| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2648--2648
-[]|\OT1/ptm/m/n/8 9.01| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2648--2648
-[]|\OT1/ptm/m/n/8 4.12| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2648--2648
-[]|\OT1/ptm/m/n/8 3.94| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2649--2649
-[]|\OT1/ptm/m/n/8 3.31| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2649--2649
-[]|\OT1/ptm/m/n/8 0.55| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2649--2649
-[]|\OT1/ptm/m/n/8 1.06| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2649--2649
-[]|\OT1/ptm/m/n/8 1.99| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2649--2649
-[]|\OT1/ptm/b/n/8 0.29| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2649--2649
-[]|\OT1/ptm/m/n/8 4.26| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2649--2649
-[]|\OT1/ptm/m/n/8 2.07| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2649--2649
-[]|\OT1/ptm/m/n/8 3.32| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2650--2650
-[]|\OT1/ptm/m/n/8 2.12| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2650--2650
-[]|\OT1/ptm/m/n/8 0.47| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2650--2650
-[]|\OT1/ptm/m/n/8 0.99| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2650--2650
-[]|\OT1/ptm/m/n/8 1.38| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2650--2650
-[]|\OT1/ptm/b/n/8 0.33| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2650--2650
-[]|\OT1/ptm/m/n/8 3.82| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2650--2650
-[]|\OT1/ptm/m/n/8 1.03| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2650--2650
-[]|\OT1/ptm/m/n/8 1.93| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2651--2651
-[]|\OT1/ptm/m/n/8 2.72| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2651--2651
-[]|\OT1/ptm/m/n/8 0.66| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2651--2651
-[]|\OT1/ptm/m/n/8 1.06| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2651--2651
-[]|\OT1/ptm/m/n/8 1.81| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2651--2651
-[]|\OT1/ptm/b/n/8 0.17| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2651--2651
-[]|\OT1/ptm/m/n/8 3.82| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2651--2651
-[]|\OT1/ptm/m/n/8 1.66| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2651--2651
-[]|\OT1/ptm/m/n/8 2.00| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2652--2652
-[]|\OT1/ptm/m/n/8 4.62| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2652--2652
-[]|\OT1/ptm/m/n/8 1.39| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2652--2652
-[]|\OT1/ptm/m/n/8 2.26| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2652--2652
-[]|\OT1/ptm/m/n/8 7.95| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2652--2652
-[]|\OT1/ptm/b/n/8 1.36| 
- []
-
-
-Overfull \hbox (6.61908pt too wide) in paragraph at lines 2652--2652
-[]|\OT1/ptm/m/n/8 14.02| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2652--2652
-[]|\OT1/ptm/m/n/8 4.65| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2652--2652
-[]|\OT1/ptm/m/n/8 6.08| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2653--2653
-[]|\OT1/ptm/m/n/8 4.35| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2653--2653
-[]|\OT1/ptm/b/n/8 0.72| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2653--2653
-[]|\OT1/ptm/m/n/8 2.59| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2653--2653
-[]|\OT1/ptm/m/n/8 4.82| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2653--2653
-[]|\OT1/ptm/m/n/8 1.13| 
- []
-
-
-Overfull \hbox (6.61908pt too wide) in paragraph at lines 2653--2653
-[]|\OT1/ptm/m/n/8 11.17| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2653--2653
-[]|\OT1/ptm/m/n/8 2.66| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2653--2653
-[]|\OT1/ptm/m/n/8 3.32| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2654--2654
-[]|\OT1/ptm/m/n/8 7.13| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2654--2654
-[]|\OT1/ptm/b/n/8 1.08| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2654--2654
-[]|\OT1/ptm/m/n/8 2.99| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2654--2654
-[]|\OT1/ptm/m/n/8 7.41| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2654--2654
-[]|\OT1/ptm/m/n/8 1.65| 
- []
-
-
-Overfull \hbox (6.61908pt too wide) in paragraph at lines 2654--2654
-[]|\OT1/ptm/m/n/8 13.95| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2654--2654
-[]|\OT1/ptm/m/n/8 4.29| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2654--2654
-[]|\OT1/ptm/m/n/8 4.18| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2655--2655
-[]|\OT1/ptm/m/n/8 4.90| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2655--2655
-[]|\OT1/ptm/b/n/8 1.06| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2655--2655
-[]|\OT1/ptm/m/n/8 3.60| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2655--2655
-[]|\OT1/ptm/m/n/8 6.07| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2655--2655
-[]|\OT1/ptm/m/n/8 1.26| 
- []
-
-
-Overfull \hbox (6.61908pt too wide) in paragraph at lines 2655--2655
-[]|\OT1/ptm/m/n/8 15.28| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2655--2655
-[]|\OT1/ptm/m/n/8 4.84| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2655--2655
-[]|\OT1/ptm/m/n/8 5.95| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2656--2656
-[]|\OT1/ptm/m/n/8 5.37| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2656--2656
-[]|\OT1/ptm/b/n/8 1.49| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2656--2656
-[]|\OT1/ptm/m/n/8 3.05| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2656--2656
-[]|\OT1/ptm/m/n/8 5.31| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2656--2656
-[]|\OT1/ptm/m/n/8 1.92| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2656--2656
-[]|\OT1/ptm/m/n/8 8.46| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2656--2656
-[]|\OT1/ptm/m/n/8 3.33| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2656--2656
-[]|\OT1/ptm/m/n/8 6.57| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2657--2657
-[]|\OT1/ptm/m/n/8 6.32| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2657--2657
-[]|\OT1/ptm/b/n/8 0.75| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2657--2657
-[]|\OT1/ptm/m/n/8 2.85| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2657--2657
-[]|\OT1/ptm/m/n/8 6.26| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2657--2657
-[]|\OT1/ptm/m/n/8 1.91| 
- []
-
-
-Overfull \hbox (6.61908pt too wide) in paragraph at lines 2657--2657
-[]|\OT1/ptm/m/n/8 11.21| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2657--2657
-[]|\OT1/ptm/m/n/8 4.16| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2657--2657
-[]|\OT1/ptm/m/n/8 6.79| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2658--2658
-[]|\OT1/ptm/m/n/8 4.55| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2658--2658
-[]|\OT1/ptm/m/n/8 0.55| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2658--2658
-[]|\OT1/ptm/m/n/8 1.57| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2658--2658
-[]|\OT1/ptm/m/n/8 2.92| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2658--2658
-[]|\OT1/ptm/b/n/8 0.37| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2658--2658
-[]|\OT1/ptm/m/n/8 5.28| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2658--2658
-[]|\OT1/ptm/m/n/8 3.14| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2658--2658
-[]|\OT1/ptm/m/n/8 3.72| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2659--2659
-[]|\OT1/ptm/m/n/8 3.87| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2659--2659
-[]|\OT1/ptm/m/n/8 0.89| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2659--2659
-[]|\OT1/ptm/m/n/8 1.48| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2659--2659
-[]|\OT1/ptm/m/n/8 2.25| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2659--2659
-[]|\OT1/ptm/b/n/8 0.53| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2659--2659
-[]|\OT1/ptm/m/n/8 4.68| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2659--2659
-[]|\OT1/ptm/m/n/8 1.88| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2659--2659
-[]|\OT1/ptm/m/n/8 3.05| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2660--2660
-[]|\OT1/ptm/m/n/8 3.91| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2660--2660
-[]|\OT1/ptm/m/n/8 0.46| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2660--2660
-[]|\OT1/ptm/m/n/8 1.59| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2660--2660
-[]|\OT1/ptm/m/n/8 3.16| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2660--2660
-[]|\OT1/ptm/b/n/8 0.45| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2660--2660
-[]|\OT1/ptm/m/n/8 5.87| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2660--2660
-[]|\OT1/ptm/m/n/8 3.03| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2660--2660
-[]|\OT1/ptm/m/n/8 3.30| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2661--2661
-[]|\OT1/ptm/m/n/8 4.60| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2661--2661
-[]|\OT1/ptm/m/n/8 1.28| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2661--2661
-[]|\OT1/ptm/m/n/8 3.17| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2661--2661
-[]|\OT1/ptm/m/n/8 5.92| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2661--2661
-[]|\OT1/ptm/b/n/8 1.24| 
- []
-
-
-Overfull \hbox (6.61908pt too wide) in paragraph at lines 2661--2661
-[]|\OT1/ptm/m/n/8 13.57| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2661--2661
-[]|\OT1/ptm/m/n/8 2.98| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2661--2661
-[]|\OT1/ptm/m/n/8 4.21| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2662--2662
-[]|\OT1/ptm/m/n/8 5.43| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2662--2662
-[]|\OT1/ptm/b/n/8 1.59| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2662--2662
-[]|\OT1/ptm/m/n/8 2.73| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2662--2662
-[]|\OT1/ptm/m/n/8 6.02| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2662--2662
-[]|\OT1/ptm/m/n/8 2.19| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2662--2662
-[]|\OT1/ptm/m/n/8 8.90| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2662--2662
-[]|\OT1/ptm/m/n/8 5.53| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2662--2662
-[]|\OT1/ptm/m/n/8 5.39| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2663--2663
-[]|\OT1/ptm/m/n/8 5.71| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2663--2663
-[]|\OT1/ptm/b/n/8 1.20| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2663--2663
-[]|\OT1/ptm/m/n/8 3.14| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2663--2663
-[]|\OT1/ptm/m/n/8 7.79| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2663--2663
-[]|\OT1/ptm/m/n/8 1.41| 
- []
-
-
-Overfull \hbox (6.61908pt too wide) in paragraph at lines 2663--2663
-[]|\OT1/ptm/m/n/8 11.27| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2663--2663
-[]|\OT1/ptm/m/n/8 3.87| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2663--2663
-[]|\OT1/ptm/m/n/8 5.93| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2664--2664
-[]|\OT1/ptm/m/n/8 5.68| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2664--2664
-[]|\OT1/ptm/b/n/8 0.91| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2664--2664
-[]|\OT1/ptm/m/n/8 3.11| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2664--2664
-[]|\OT1/ptm/m/n/8 4.77| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2664--2664
-[]|\OT1/ptm/m/n/8 1.22| 
- []
-
-
-Overfull \hbox (6.61908pt too wide) in paragraph at lines 2664--2664
-[]|\OT1/ptm/m/n/8 11.61| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2664--2664
-[]|\OT1/ptm/m/n/8 2.22| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2664--2664
-[]|\OT1/ptm/m/n/8 6.04| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2665--2665
-[]|\OT1/ptm/m/n/8 4.24| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2665--2665
-[]|\OT1/ptm/b/n/8 1.12| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2665--2665
-[]|\OT1/ptm/m/n/8 2.58| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2665--2665
-[]|\OT1/ptm/m/n/8 3.95| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2665--2665
-[]|\OT1/ptm/m/n/8 1.26| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2665--2665
-[]|\OT1/ptm/m/n/8 7.29| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2665--2665
-[]|\OT1/ptm/m/n/8 2.85| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2665--2665
-[]|\OT1/ptm/m/n/8 3.30| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2666--2666
-[]|\OT1/ptm/m/n/8 5.21| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2666--2666
-[]|\OT1/ptm/b/n/8 0.96| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2666--2666
-[]|\OT1/ptm/m/n/8 3.18| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2666--2666
-[]|\OT1/ptm/m/n/8 5.58| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2666--2666
-[]|\OT1/ptm/m/n/8 1.33| 
- []
-
-
-Overfull \hbox (6.61908pt too wide) in paragraph at lines 2666--2666
-[]|\OT1/ptm/m/n/8 12.02| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2666--2666
-[]|\OT1/ptm/m/n/8 2.78| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2666--2666
-[]|\OT1/ptm/m/n/8 5.24| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2667--2667
-[]|\OT1/ptm/m/n/8 6.20| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2667--2667
-[]|\OT1/ptm/b/n/8 1.91| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2667--2667
-[]|\OT1/ptm/m/n/8 2.78| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2667--2667
-[]|\OT1/ptm/m/n/8 5.06| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2667--2667
-[]|\OT1/ptm/m/n/8 2.61| 
- []
-
-
-Overfull \hbox (6.61908pt too wide) in paragraph at lines 2667--2667
-[]|\OT1/ptm/m/n/8 11.78| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2667--2667
-[]|\OT1/ptm/m/n/8 4.28| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2667--2667
-[]|\OT1/ptm/m/n/8 5.96| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2668--2668
-[]|\OT1/ptm/m/n/8 3.97| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2668--2668
-[]|\OT1/ptm/m/n/8 1.39| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2668--2668
-[]|\OT1/ptm/m/n/8 2.80| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2668--2668
-[]|\OT1/ptm/m/n/8 6.32| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2668--2668
-[]|\OT1/ptm/b/n/8 1.34| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2668--2668
-[]|\OT1/ptm/m/n/8 8.43| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2668--2668
-[]|\OT1/ptm/m/n/8 3.71| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2668--2668
-[]|\OT1/ptm/m/n/8 4.45| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2669--2669
-[]|\OT1/ptm/m/n/8 4.18| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2669--2669
-[]|\OT1/ptm/b/n/8 1.77| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2669--2669
-[]|\OT1/ptm/m/n/8 2.79| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2669--2669
-[]|\OT1/ptm/m/n/8 5.36| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2669--2669
-[]|\OT1/ptm/m/n/8 2.04| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2669--2669
-[]|\OT1/ptm/m/n/8 7.75| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2669--2669
-[]|\OT1/ptm/m/n/8 4.25| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2669--2669
-[]|\OT1/ptm/m/n/8 4.74| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2670--2670
-[]|\OT1/ptm/m/n/8 3.44| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2670--2670
-[]|\OT1/ptm/m/n/8 0.58| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2670--2670
-[]|\OT1/ptm/m/n/8 1.24| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2670--2670
-[]|\OT1/ptm/m/n/8 1.56| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2670--2670
-[]|\OT1/ptm/b/n/8 0.31| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2670--2670
-[]|\OT1/ptm/m/n/8 3.73| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2670--2670
-[]|\OT1/ptm/m/n/8 1.53| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2670--2670
-[]|\OT1/ptm/m/n/8 2.74| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2671--2671
-[]|\OT1/ptm/m/n/8 2.70| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2671--2671
-[]|\OT1/ptm/m/n/8 0.44| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2671--2671
-[]|\OT1/ptm/m/n/8 1.37| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2671--2671
-[]|\OT1/ptm/m/n/8 1.35| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2671--2671
-[]|\OT1/ptm/b/n/8 0.38| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2671--2671
-[]|\OT1/ptm/m/n/8 4.00| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2671--2671
-[]|\OT1/ptm/m/n/8 1.10| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2671--2671
-[]|\OT1/ptm/m/n/8 1.63| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2672--2672
-[]|\OT1/ptm/m/n/8 2.44| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2672--2672
-[]|\OT1/ptm/m/n/8 0.56| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2672--2672
-[]|\OT1/ptm/m/n/8 1.31| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2672--2672
-[]|\OT1/ptm/m/n/8 1.49| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2672--2672
-[]|\OT1/ptm/b/n/8 0.42| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2672--2672
-[]|\OT1/ptm/m/n/8 4.66| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2672--2672
-[]|\OT1/ptm/m/n/8 2.32| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2672--2672
-[]|\OT1/ptm/m/n/8 2.15| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2673--2673
-[]|\OT1/ptm/m/n/8 4.56| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2673--2673
-[]|\OT1/ptm/b/n/8 1.59| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2673--2673
-[]|\OT1/ptm/m/n/8 2.39| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2673--2673
-[]|\OT1/ptm/m/n/8 5.28| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2673--2673
-[]|\OT1/ptm/m/n/8 2.50| 
- []
-
-
-Overfull \hbox (6.61908pt too wide) in paragraph at lines 2673--2673
-[]|\OT1/ptm/m/n/8 11.08| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2673--2673
-[]|\OT1/ptm/m/n/8 3.35| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2673--2673
-[]|\OT1/ptm/m/n/8 5.90| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2674--2674
-[]|\OT1/ptm/m/n/8 4.47| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2674--2674
-[]|\OT1/ptm/b/n/8 1.19| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2674--2674
-[]|\OT1/ptm/m/n/8 3.26| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2674--2674
-[]|\OT1/ptm/m/n/8 5.69| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2674--2674
-[]|\OT1/ptm/m/n/8 1.44| 
- []
-
-
-Overfull \hbox (6.61908pt too wide) in paragraph at lines 2674--2674
-[]|\OT1/ptm/m/n/8 10.68| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2674--2674
-[]|\OT1/ptm/m/n/8 4.67| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2674--2674
-[]|\OT1/ptm/m/n/8 4.20| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2675--2675
-[]|\OT1/ptm/m/n/8 5.36| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2675--2675
-[]|\OT1/ptm/b/n/8 1.76| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2675--2675
-[]|\OT1/ptm/m/n/8 2.70| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2675--2675
-[]|\OT1/ptm/m/n/8 6.36| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2675--2675
-[]|\OT1/ptm/m/n/8 1.95| 
- []
-
-
-Overfull \hbox (6.61908pt too wide) in paragraph at lines 2675--2675
-[]|\OT1/ptm/m/n/8 12.63| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2675--2675
-[]|\OT1/ptm/m/n/8 3.93| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2675--2675
-[]|\OT1/ptm/m/n/8 4.23| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2676--2676
-[]|\OT1/ptm/m/n/8 7.84| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2676--2676
-[]|\OT1/ptm/b/n/8 1.49| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2676--2676
-[]|\OT1/ptm/m/n/8 3.00| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2676--2676
-[]|\OT1/ptm/m/n/8 7.69| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2676--2676
-[]|\OT1/ptm/m/n/8 2.94| 
- []
-
-
-Overfull \hbox (6.61908pt too wide) in paragraph at lines 2676--2676
-[]|\OT1/ptm/m/n/8 12.93| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2676--2676
-[]|\OT1/ptm/m/n/8 5.09| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2676--2676
-[]|\OT1/ptm/m/n/8 6.37| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2677--2677
-[]|\OT1/ptm/m/n/8 4.95| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2677--2677
-[]|\OT1/ptm/b/n/8 1.24| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2677--2677
-[]|\OT1/ptm/m/n/8 1.93| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2677--2677
-[]|\OT1/ptm/m/n/8 5.81| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2677--2677
-[]|\OT1/ptm/m/n/8 1.55| 
- []
-
-
-Overfull \hbox (6.61908pt too wide) in paragraph at lines 2677--2677
-[]|\OT1/ptm/m/n/8 11.12| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2677--2677
-[]|\OT1/ptm/m/n/8 3.22| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2677--2677
-[]|\OT1/ptm/m/n/8 5.06| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2678--2678
-[]|\OT1/ptm/m/n/8 5.66| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2678--2678
-[]|\OT1/ptm/b/n/8 1.31| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2678--2678
-[]|\OT1/ptm/m/n/8 3.19| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2678--2678
-[]|\OT1/ptm/m/n/8 6.73| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2678--2678
-[]|\OT1/ptm/m/n/8 2.60| 
  []
 
 
 Overfull \hbox (6.61908pt too wide) in paragraph at lines 2678--2678
-[]|\OT1/ptm/m/n/8 12.61| 
+[]|\OT1/ptm/m/n/8 10.17| 
  []
 
 
 Overfull \hbox (2.61908pt too wide) in paragraph at lines 2678--2678
-[]|\OT1/ptm/m/n/8 3.85| 
+[]|\OT1/ptm/m/n/8 3.22| 
  []
 
 
 Overfull \hbox (2.61908pt too wide) in paragraph at lines 2678--2678
-[]|\OT1/ptm/m/n/8 6.42| 
+[]|\OT1/ptm/m/n/8 3.38| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2679--2679
+[]|\OT1/ptm/m/n/8 6.47| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2679--2679
+[]|\OT1/ptm/b/n/8 0.86| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2679--2679
+[]|\OT1/ptm/m/n/8 3.26| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2679--2679
+[]|\OT1/ptm/m/n/8 7.35| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2679--2679
+[]|\OT1/ptm/m/n/8 1.31| 
  []
 
 
@@ -3739,97 +2285,67 @@ Overfull \hbox (6.61908pt too wide) in paragraph at lines 2679--2679
 
 
 Overfull \hbox (2.61908pt too wide) in paragraph at lines 2679--2679
-[]|\OT1/ptm/b/n/8 0.95| 
+[]|\OT1/ptm/m/n/8 2.97| 
  []
 
 
 Overfull \hbox (2.61908pt too wide) in paragraph at lines 2679--2679
-[]|\OT1/ptm/m/n/8 3.27| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2679--2679
-[]|\OT1/ptm/m/n/8 6.36| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2679--2679
-[]|\OT1/ptm/m/n/8 1.76| 
- []
-
-
-Overfull \hbox (6.61908pt too wide) in paragraph at lines 2679--2679
-[]|\OT1/ptm/m/n/8 15.32| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2679--2679
-[]|\OT1/ptm/m/n/8 4.29| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2679--2679
-[]|\OT1/ptm/m/n/8 5.01| 
+[]|\OT1/ptm/m/n/8 5.95| 
  []
 
 
 Overfull \hbox (2.61908pt too wide) in paragraph at lines 2680--2680
-[]|\OT1/ptm/m/n/8 5.14| 
+[]|\OT1/ptm/m/n/8 3.42| 
  []
 
 
 Overfull \hbox (2.61908pt too wide) in paragraph at lines 2680--2680
-[]|\OT1/ptm/b/n/8 1.73| 
+[]|\OT1/ptm/m/n/8 0.50| 
  []
 
 
 Overfull \hbox (2.61908pt too wide) in paragraph at lines 2680--2680
-[]|\OT1/ptm/m/n/8 2.72| 
+[]|\OT1/ptm/m/n/8 1.37| 
  []
 
 
 Overfull \hbox (2.61908pt too wide) in paragraph at lines 2680--2680
-[]|\OT1/ptm/m/n/8 9.54| 
+[]|\OT1/ptm/m/n/8 1.44| 
  []
 
 
 Overfull \hbox (2.61908pt too wide) in paragraph at lines 2680--2680
-[]|\OT1/ptm/m/n/8 2.73| 
- []
-
-
-Overfull \hbox (6.61908pt too wide) in paragraph at lines 2680--2680
-[]|\OT1/ptm/m/n/8 10.39| 
+[]|\OT1/ptm/b/n/8 0.39| 
  []
 
 
 Overfull \hbox (2.61908pt too wide) in paragraph at lines 2680--2680
-[]|\OT1/ptm/m/n/8 3.33| 
+[]|\OT1/ptm/m/n/8 3.94| 
  []
 
 
 Overfull \hbox (2.61908pt too wide) in paragraph at lines 2680--2680
-[]|\OT1/ptm/m/n/8 6.47| 
+[]|\OT1/ptm/m/n/8 1.66| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2680--2680
+[]|\OT1/ptm/m/n/8 1.70| 
  []
 
 
 Overfull \hbox (2.61908pt too wide) in paragraph at lines 2681--2681
-[]|\OT1/ptm/m/n/8 7.35| 
+[]|\OT1/ptm/m/n/8 1.79| 
  []
 
 
 Overfull \hbox (2.61908pt too wide) in paragraph at lines 2681--2681
-[]|\OT1/ptm/b/n/8 1.19| 
+[]|\OT1/ptm/b/n/8 0.41| 
  []
 
 
 Overfull \hbox (2.61908pt too wide) in paragraph at lines 2681--2681
-[]|\OT1/ptm/m/n/8 2.76| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2681--2681
-[]|\OT1/ptm/m/n/8 9.13| 
+[]|\OT1/ptm/m/n/8 1.37| 
  []
 
 
@@ -3839,471 +2355,1956 @@ Overfull \hbox (2.61908pt too wide) in paragraph at lines 2681--2681
 
 
 Overfull \hbox (2.61908pt too wide) in paragraph at lines 2681--2681
-[]|\OT1/ptm/m/n/8 9.91| 
+[]|\OT1/ptm/m/n/8 0.45| 
  []
 
 
 Overfull \hbox (2.61908pt too wide) in paragraph at lines 2681--2681
-[]|\OT1/ptm/m/n/8 4.17| 
+[]|\OT1/ptm/m/n/8 2.40| 
  []
 
 
 Overfull \hbox (2.61908pt too wide) in paragraph at lines 2681--2681
-[]|\OT1/ptm/m/n/8 8.56| 
+[]|\OT1/ptm/m/n/8 1.08| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2681--2681
+[]|\OT1/ptm/m/n/8 1.90| 
  []
 
 
 Overfull \hbox (2.61908pt too wide) in paragraph at lines 2682--2682
-[]|\OT1/ptm/m/n/8 4.94| 
+[]|\OT1/ptm/m/n/8 3.02| 
  []
 
 
 Overfull \hbox (2.61908pt too wide) in paragraph at lines 2682--2682
-[]|\OT1/ptm/m/n/8 1.38| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2682--2682
-[]|\OT1/ptm/m/n/8 3.37| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2682--2682
-[]|\OT1/ptm/m/n/8 5.83| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2682--2682
-[]|\OT1/ptm/b/n/8 1.37| 
- []
-
-
-Overfull \hbox (6.61908pt too wide) in paragraph at lines 2682--2682
-[]|\OT1/ptm/m/n/8 10.28| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2682--2682
-[]|\OT1/ptm/m/n/8 3.68| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2682--2682
-[]|\OT1/ptm/m/n/8 4.26| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2683--2683
-[]|\OT1/ptm/m/n/8 4.54| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2683--2683
-[]|\OT1/ptm/b/n/8 0.75| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2683--2683
-[]|\OT1/ptm/m/n/8 2.44| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2683--2683
-[]|\OT1/ptm/m/n/8 5.15| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2683--2683
-[]|\OT1/ptm/m/n/8 0.98| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2683--2683
-[]|\OT1/ptm/m/n/8 8.62| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2683--2683
-[]|\OT1/ptm/m/n/8 2.49| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2683--2683
-[]|\OT1/ptm/m/n/8 3.69| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2684--2684
-[]|\OT1/ptm/m/n/8 6.30| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2684--2684
-[]|\OT1/ptm/b/n/8 0.94| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2684--2684
-[]|\OT1/ptm/m/n/8 2.94| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2684--2684
-[]|\OT1/ptm/m/n/8 5.32| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2684--2684
-[]|\OT1/ptm/m/n/8 2.53| 
- []
-
-
-Overfull \hbox (6.61908pt too wide) in paragraph at lines 2684--2684
-[]|\OT1/ptm/m/n/8 11.44| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2684--2684
-[]|\OT1/ptm/m/n/8 3.61| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2684--2684
-[]|\OT1/ptm/m/n/8 4.16| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2685--2685
-[]|\OT1/ptm/m/n/8 2.89| 
- []
-
-
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2685--2685
 []|\OT1/ptm/m/n/8 0.50| 
  []
 
 
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2685--2685
-[]|\OT1/ptm/m/n/8 1.18| 
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2682--2682
+[]|\OT1/ptm/m/n/8 1.33| 
  []
 
 
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2685--2685
-[]|\OT1/ptm/m/n/8 1.06| 
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2682--2682
+[]|\OT1/ptm/m/n/8 1.97| 
  []
 
 
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2685--2685
-[]|\OT1/ptm/b/n/8 0.35| 
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2682--2682
+[]|\OT1/ptm/b/n/8 0.22| 
  []
 
 
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2685--2685
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2682--2682
+[]|\OT1/ptm/m/n/8 2.63| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2682--2682
+[]|\OT1/ptm/m/n/8 1.73| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2682--2682
+[]|\OT1/ptm/m/n/8 3.10| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2683--2683
+[]|\OT1/ptm/m/n/8 5.55| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2683--2683
+[]|\OT1/ptm/b/n/8 0.89| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2683--2683
+[]|\OT1/ptm/m/n/8 2.29| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2683--2683
+[]|\OT1/ptm/m/n/8 7.35| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2683--2683
+[]|\OT1/ptm/m/n/8 0.90| 
+ []
+
+
+Overfull \hbox (6.61908pt too wide) in paragraph at lines 2683--2683
+[]|\OT1/ptm/m/n/8 10.78| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2683--2683
 []|\OT1/ptm/m/n/8 3.52| 
  []
 
 
-Overfull \hbox (2.61908pt too wide) in paragraph at lines 2685--2685
-[]|\OT1/ptm/m/n/8 1.51| 
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2683--2683
+[]|\OT1/ptm/m/n/8 5.17| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2684--2684
+[]|\OT1/ptm/m/n/8 4.36| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2684--2684
+[]|\OT1/ptm/b/n/8 1.13| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2684--2684
+[]|\OT1/ptm/m/n/8 2.18| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2684--2684
+[]|\OT1/ptm/m/n/8 5.40| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2684--2684
+[]|\OT1/ptm/m/n/8 2.01| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2684--2684
+[]|\OT1/ptm/m/n/8 8.21| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2684--2684
+[]|\OT1/ptm/m/n/8 2.84| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2684--2684
+[]|\OT1/ptm/m/n/8 4.56| 
  []
 
 
 Overfull \hbox (2.61908pt too wide) in paragraph at lines 2685--2685
-[]|\OT1/ptm/m/n/8 1.95| 
+[]|\OT1/ptm/m/n/8 5.75| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2685--2685
+[]|\OT1/ptm/m/n/8 0.96| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2685--2685
+[]|\OT1/ptm/m/n/8 2.63| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2685--2685
+[]|\OT1/ptm/m/n/8 5.23| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2685--2685
+[]|\OT1/ptm/b/n/8 0.96| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2685--2685
+[]|\OT1/ptm/m/n/8 9.01| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2685--2685
+[]|\OT1/ptm/m/n/8 4.12| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2685--2685
+[]|\OT1/ptm/m/n/8 3.94| 
  []
 
 
 Overfull \hbox (2.61908pt too wide) in paragraph at lines 2686--2686
-[]|\OT1/ptm/m/n/8 3.07| 
+[]|\OT1/ptm/m/n/8 3.31| 
  []
 
 
 Overfull \hbox (2.61908pt too wide) in paragraph at lines 2686--2686
-[]|\OT1/ptm/b/n/8 0.46| 
+[]|\OT1/ptm/m/n/8 0.55| 
  []
 
 
 Overfull \hbox (2.61908pt too wide) in paragraph at lines 2686--2686
-[]|\OT1/ptm/m/n/8 1.28| 
+[]|\OT1/ptm/m/n/8 1.06| 
  []
 
 
 Overfull \hbox (2.61908pt too wide) in paragraph at lines 2686--2686
-[]|\OT1/ptm/m/n/8 1.18| 
+[]|\OT1/ptm/m/n/8 1.99| 
  []
 
 
 Overfull \hbox (2.61908pt too wide) in paragraph at lines 2686--2686
-[]|\OT1/ptm/m/n/8 0.49| 
+[]|\OT1/ptm/b/n/8 0.29| 
  []
 
 
 Overfull \hbox (2.61908pt too wide) in paragraph at lines 2686--2686
-[]|\OT1/ptm/m/n/8 2.56| 
+[]|\OT1/ptm/m/n/8 4.26| 
  []
 
 
 Overfull \hbox (2.61908pt too wide) in paragraph at lines 2686--2686
-[]|\OT1/ptm/m/n/8 1.21| 
+[]|\OT1/ptm/m/n/8 2.07| 
  []
 
 
 Overfull \hbox (2.61908pt too wide) in paragraph at lines 2686--2686
-[]|\OT1/ptm/m/n/8 2.57| 
+[]|\OT1/ptm/m/n/8 3.32| 
  []
 
 
 Overfull \hbox (2.61908pt too wide) in paragraph at lines 2687--2687
-[]|\OT1/ptm/m/n/8 2.52| 
+[]|\OT1/ptm/m/n/8 2.12| 
  []
 
 
 Overfull \hbox (2.61908pt too wide) in paragraph at lines 2687--2687
-[]|\OT1/ptm/m/n/8 0.33| 
+[]|\OT1/ptm/m/n/8 0.47| 
  []
 
 
 Overfull \hbox (2.61908pt too wide) in paragraph at lines 2687--2687
-[]|\OT1/ptm/m/n/8 1.32| 
+[]|\OT1/ptm/m/n/8 0.99| 
  []
 
 
 Overfull \hbox (2.61908pt too wide) in paragraph at lines 2687--2687
-[]|\OT1/ptm/m/n/8 2.41| 
+[]|\OT1/ptm/m/n/8 1.38| 
  []
 
 
 Overfull \hbox (2.61908pt too wide) in paragraph at lines 2687--2687
-[]|\OT1/ptm/b/n/8 0.18| 
+[]|\OT1/ptm/b/n/8 0.33| 
  []
 
 
 Overfull \hbox (2.61908pt too wide) in paragraph at lines 2687--2687
-[]|\OT1/ptm/m/n/8 5.09| 
+[]|\OT1/ptm/m/n/8 3.82| 
  []
 
 
 Overfull \hbox (2.61908pt too wide) in paragraph at lines 2687--2687
-[]|\OT1/ptm/m/n/8 1.64| 
+[]|\OT1/ptm/m/n/8 1.03| 
  []
 
 
 Overfull \hbox (2.61908pt too wide) in paragraph at lines 2687--2687
+[]|\OT1/ptm/m/n/8 1.93| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2688--2688
+[]|\OT1/ptm/m/n/8 2.72| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2688--2688
+[]|\OT1/ptm/m/n/8 0.66| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2688--2688
+[]|\OT1/ptm/m/n/8 1.06| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2688--2688
+[]|\OT1/ptm/m/n/8 1.81| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2688--2688
+[]|\OT1/ptm/b/n/8 0.17| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2688--2688
+[]|\OT1/ptm/m/n/8 3.82| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2688--2688
+[]|\OT1/ptm/m/n/8 1.66| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2688--2688
+[]|\OT1/ptm/m/n/8 2.00| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2689--2689
+[]|\OT1/ptm/m/n/8 4.62| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2689--2689
+[]|\OT1/ptm/m/n/8 1.39| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2689--2689
+[]|\OT1/ptm/m/n/8 2.26| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2689--2689
+[]|\OT1/ptm/m/n/8 7.95| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2689--2689
+[]|\OT1/ptm/b/n/8 1.36| 
+ []
+
+
+Overfull \hbox (6.61908pt too wide) in paragraph at lines 2689--2689
+[]|\OT1/ptm/m/n/8 14.02| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2689--2689
+[]|\OT1/ptm/m/n/8 4.65| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2689--2689
+[]|\OT1/ptm/m/n/8 6.08| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2690--2690
+[]|\OT1/ptm/m/n/8 4.35| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2690--2690
+[]|\OT1/ptm/b/n/8 0.72| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2690--2690
+[]|\OT1/ptm/m/n/8 2.59| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2690--2690
+[]|\OT1/ptm/m/n/8 4.82| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2690--2690
+[]|\OT1/ptm/m/n/8 1.13| 
+ []
+
+
+Overfull \hbox (6.61908pt too wide) in paragraph at lines 2690--2690
+[]|\OT1/ptm/m/n/8 11.17| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2690--2690
+[]|\OT1/ptm/m/n/8 2.66| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2690--2690
+[]|\OT1/ptm/m/n/8 3.32| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2691--2691
+[]|\OT1/ptm/m/n/8 7.13| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2691--2691
+[]|\OT1/ptm/b/n/8 1.08| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2691--2691
+[]|\OT1/ptm/m/n/8 2.99| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2691--2691
+[]|\OT1/ptm/m/n/8 7.41| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2691--2691
+[]|\OT1/ptm/m/n/8 1.65| 
+ []
+
+
+Overfull \hbox (6.61908pt too wide) in paragraph at lines 2691--2691
+[]|\OT1/ptm/m/n/8 13.95| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2691--2691
+[]|\OT1/ptm/m/n/8 4.29| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2691--2691
+[]|\OT1/ptm/m/n/8 4.18| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2692--2692
+[]|\OT1/ptm/m/n/8 4.90| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2692--2692
+[]|\OT1/ptm/b/n/8 1.06| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2692--2692
+[]|\OT1/ptm/m/n/8 3.60| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2692--2692
+[]|\OT1/ptm/m/n/8 6.07| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2692--2692
+[]|\OT1/ptm/m/n/8 1.26| 
+ []
+
+
+Overfull \hbox (6.61908pt too wide) in paragraph at lines 2692--2692
+[]|\OT1/ptm/m/n/8 15.28| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2692--2692
+[]|\OT1/ptm/m/n/8 4.84| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2692--2692
+[]|\OT1/ptm/m/n/8 5.95| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2693--2693
+[]|\OT1/ptm/m/n/8 5.37| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2693--2693
+[]|\OT1/ptm/b/n/8 1.49| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2693--2693
 []|\OT1/ptm/m/n/8 3.05| 
  []
 
 
-Overfull \hbox (25.75906pt too wide) in paragraph at lines 2614--2689
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2693--2693
+[]|\OT1/ptm/m/n/8 5.31| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2693--2693
+[]|\OT1/ptm/m/n/8 1.92| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2693--2693
+[]|\OT1/ptm/m/n/8 8.46| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2693--2693
+[]|\OT1/ptm/m/n/8 3.33| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2693--2693
+[]|\OT1/ptm/m/n/8 6.57| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2694--2694
+[]|\OT1/ptm/m/n/8 6.32| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2694--2694
+[]|\OT1/ptm/b/n/8 0.75| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2694--2694
+[]|\OT1/ptm/m/n/8 2.85| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2694--2694
+[]|\OT1/ptm/m/n/8 6.26| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2694--2694
+[]|\OT1/ptm/m/n/8 1.91| 
+ []
+
+
+Overfull \hbox (6.61908pt too wide) in paragraph at lines 2694--2694
+[]|\OT1/ptm/m/n/8 11.21| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2694--2694
+[]|\OT1/ptm/m/n/8 4.16| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2694--2694
+[]|\OT1/ptm/m/n/8 6.79| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2695--2695
+[]|\OT1/ptm/m/n/8 4.55| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2695--2695
+[]|\OT1/ptm/m/n/8 0.55| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2695--2695
+[]|\OT1/ptm/m/n/8 1.57| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2695--2695
+[]|\OT1/ptm/m/n/8 2.92| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2695--2695
+[]|\OT1/ptm/b/n/8 0.37| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2695--2695
+[]|\OT1/ptm/m/n/8 5.28| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2695--2695
+[]|\OT1/ptm/m/n/8 3.14| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2695--2695
+[]|\OT1/ptm/m/n/8 3.72| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2696--2696
+[]|\OT1/ptm/m/n/8 3.87| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2696--2696
+[]|\OT1/ptm/m/n/8 0.89| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2696--2696
+[]|\OT1/ptm/m/n/8 1.48| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2696--2696
+[]|\OT1/ptm/m/n/8 2.25| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2696--2696
+[]|\OT1/ptm/b/n/8 0.53| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2696--2696
+[]|\OT1/ptm/m/n/8 4.68| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2696--2696
+[]|\OT1/ptm/m/n/8 1.88| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2696--2696
+[]|\OT1/ptm/m/n/8 3.05| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2697--2697
+[]|\OT1/ptm/m/n/8 3.91| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2697--2697
+[]|\OT1/ptm/m/n/8 0.46| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2697--2697
+[]|\OT1/ptm/m/n/8 1.59| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2697--2697
+[]|\OT1/ptm/m/n/8 3.16| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2697--2697
+[]|\OT1/ptm/b/n/8 0.45| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2697--2697
+[]|\OT1/ptm/m/n/8 5.87| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2697--2697
+[]|\OT1/ptm/m/n/8 3.03| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2697--2697
+[]|\OT1/ptm/m/n/8 3.30| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2698--2698
+[]|\OT1/ptm/m/n/8 4.60| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2698--2698
+[]|\OT1/ptm/m/n/8 1.28| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2698--2698
+[]|\OT1/ptm/m/n/8 3.17| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2698--2698
+[]|\OT1/ptm/m/n/8 5.92| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2698--2698
+[]|\OT1/ptm/b/n/8 1.24| 
+ []
+
+
+Overfull \hbox (6.61908pt too wide) in paragraph at lines 2698--2698
+[]|\OT1/ptm/m/n/8 13.57| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2698--2698
+[]|\OT1/ptm/m/n/8 2.98| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2698--2698
+[]|\OT1/ptm/m/n/8 4.21| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2699--2699
+[]|\OT1/ptm/m/n/8 5.43| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2699--2699
+[]|\OT1/ptm/b/n/8 1.59| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2699--2699
+[]|\OT1/ptm/m/n/8 2.73| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2699--2699
+[]|\OT1/ptm/m/n/8 6.02| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2699--2699
+[]|\OT1/ptm/m/n/8 2.19| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2699--2699
+[]|\OT1/ptm/m/n/8 8.90| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2699--2699
+[]|\OT1/ptm/m/n/8 5.53| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2699--2699
+[]|\OT1/ptm/m/n/8 5.39| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2700--2700
+[]|\OT1/ptm/m/n/8 5.71| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2700--2700
+[]|\OT1/ptm/b/n/8 1.20| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2700--2700
+[]|\OT1/ptm/m/n/8 3.14| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2700--2700
+[]|\OT1/ptm/m/n/8 7.79| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2700--2700
+[]|\OT1/ptm/m/n/8 1.41| 
+ []
+
+
+Overfull \hbox (6.61908pt too wide) in paragraph at lines 2700--2700
+[]|\OT1/ptm/m/n/8 11.27| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2700--2700
+[]|\OT1/ptm/m/n/8 3.87| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2700--2700
+[]|\OT1/ptm/m/n/8 5.93| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2701--2701
+[]|\OT1/ptm/m/n/8 5.68| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2701--2701
+[]|\OT1/ptm/b/n/8 0.91| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2701--2701
+[]|\OT1/ptm/m/n/8 3.11| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2701--2701
+[]|\OT1/ptm/m/n/8 4.77| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2701--2701
+[]|\OT1/ptm/m/n/8 1.22| 
+ []
+
+
+Overfull \hbox (6.61908pt too wide) in paragraph at lines 2701--2701
+[]|\OT1/ptm/m/n/8 11.61| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2701--2701
+[]|\OT1/ptm/m/n/8 2.22| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2701--2701
+[]|\OT1/ptm/m/n/8 6.04| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2702--2702
+[]|\OT1/ptm/m/n/8 4.24| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2702--2702
+[]|\OT1/ptm/b/n/8 1.12| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2702--2702
+[]|\OT1/ptm/m/n/8 2.58| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2702--2702
+[]|\OT1/ptm/m/n/8 3.95| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2702--2702
+[]|\OT1/ptm/m/n/8 1.26| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2702--2702
+[]|\OT1/ptm/m/n/8 7.29| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2702--2702
+[]|\OT1/ptm/m/n/8 2.85| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2702--2702
+[]|\OT1/ptm/m/n/8 3.30| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2703--2703
+[]|\OT1/ptm/m/n/8 5.21| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2703--2703
+[]|\OT1/ptm/b/n/8 0.96| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2703--2703
+[]|\OT1/ptm/m/n/8 3.18| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2703--2703
+[]|\OT1/ptm/m/n/8 5.58| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2703--2703
+[]|\OT1/ptm/m/n/8 1.33| 
+ []
+
+
+Overfull \hbox (6.61908pt too wide) in paragraph at lines 2703--2703
+[]|\OT1/ptm/m/n/8 12.02| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2703--2703
+[]|\OT1/ptm/m/n/8 2.78| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2703--2703
+[]|\OT1/ptm/m/n/8 5.24| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2704--2704
+[]|\OT1/ptm/m/n/8 6.20| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2704--2704
+[]|\OT1/ptm/b/n/8 1.91| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2704--2704
+[]|\OT1/ptm/m/n/8 2.78| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2704--2704
+[]|\OT1/ptm/m/n/8 5.06| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2704--2704
+[]|\OT1/ptm/m/n/8 2.61| 
+ []
+
+
+Overfull \hbox (6.61908pt too wide) in paragraph at lines 2704--2704
+[]|\OT1/ptm/m/n/8 11.78| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2704--2704
+[]|\OT1/ptm/m/n/8 4.28| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2704--2704
+[]|\OT1/ptm/m/n/8 5.96| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2705--2705
+[]|\OT1/ptm/m/n/8 3.97| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2705--2705
+[]|\OT1/ptm/m/n/8 1.39| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2705--2705
+[]|\OT1/ptm/m/n/8 2.80| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2705--2705
+[]|\OT1/ptm/m/n/8 6.32| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2705--2705
+[]|\OT1/ptm/b/n/8 1.34| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2705--2705
+[]|\OT1/ptm/m/n/8 8.43| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2705--2705
+[]|\OT1/ptm/m/n/8 3.71| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2705--2705
+[]|\OT1/ptm/m/n/8 4.45| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2706--2706
+[]|\OT1/ptm/m/n/8 4.18| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2706--2706
+[]|\OT1/ptm/b/n/8 1.77| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2706--2706
+[]|\OT1/ptm/m/n/8 2.79| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2706--2706
+[]|\OT1/ptm/m/n/8 5.36| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2706--2706
+[]|\OT1/ptm/m/n/8 2.04| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2706--2706
+[]|\OT1/ptm/m/n/8 7.75| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2706--2706
+[]|\OT1/ptm/m/n/8 4.25| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2706--2706
+[]|\OT1/ptm/m/n/8 4.74| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2707--2707
+[]|\OT1/ptm/m/n/8 3.44| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2707--2707
+[]|\OT1/ptm/m/n/8 0.58| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2707--2707
+[]|\OT1/ptm/m/n/8 1.24| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2707--2707
+[]|\OT1/ptm/m/n/8 1.56| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2707--2707
+[]|\OT1/ptm/b/n/8 0.31| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2707--2707
+[]|\OT1/ptm/m/n/8 3.73| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2707--2707
+[]|\OT1/ptm/m/n/8 1.53| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2707--2707
+[]|\OT1/ptm/m/n/8 2.74| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2708--2708
+[]|\OT1/ptm/m/n/8 2.70| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2708--2708
+[]|\OT1/ptm/m/n/8 0.44| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2708--2708
+[]|\OT1/ptm/m/n/8 1.37| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2708--2708
+[]|\OT1/ptm/m/n/8 1.35| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2708--2708
+[]|\OT1/ptm/b/n/8 0.38| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2708--2708
+[]|\OT1/ptm/m/n/8 4.00| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2708--2708
+[]|\OT1/ptm/m/n/8 1.10| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2708--2708
+[]|\OT1/ptm/m/n/8 1.63| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2709--2709
+[]|\OT1/ptm/m/n/8 2.44| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2709--2709
+[]|\OT1/ptm/m/n/8 0.56| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2709--2709
+[]|\OT1/ptm/m/n/8 1.31| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2709--2709
+[]|\OT1/ptm/m/n/8 1.49| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2709--2709
+[]|\OT1/ptm/b/n/8 0.42| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2709--2709
+[]|\OT1/ptm/m/n/8 4.66| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2709--2709
+[]|\OT1/ptm/m/n/8 2.32| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2709--2709
+[]|\OT1/ptm/m/n/8 2.15| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2710--2710
+[]|\OT1/ptm/m/n/8 4.56| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2710--2710
+[]|\OT1/ptm/b/n/8 1.59| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2710--2710
+[]|\OT1/ptm/m/n/8 2.39| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2710--2710
+[]|\OT1/ptm/m/n/8 5.28| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2710--2710
+[]|\OT1/ptm/m/n/8 2.50| 
+ []
+
+
+Overfull \hbox (6.61908pt too wide) in paragraph at lines 2710--2710
+[]|\OT1/ptm/m/n/8 11.08| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2710--2710
+[]|\OT1/ptm/m/n/8 3.35| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2710--2710
+[]|\OT1/ptm/m/n/8 5.90| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2711--2711
+[]|\OT1/ptm/m/n/8 4.47| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2711--2711
+[]|\OT1/ptm/b/n/8 1.19| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2711--2711
+[]|\OT1/ptm/m/n/8 3.26| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2711--2711
+[]|\OT1/ptm/m/n/8 5.69| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2711--2711
+[]|\OT1/ptm/m/n/8 1.44| 
+ []
+
+
+Overfull \hbox (6.61908pt too wide) in paragraph at lines 2711--2711
+[]|\OT1/ptm/m/n/8 10.68| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2711--2711
+[]|\OT1/ptm/m/n/8 4.67| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2711--2711
+[]|\OT1/ptm/m/n/8 4.20| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2712--2712
+[]|\OT1/ptm/m/n/8 5.36| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2712--2712
+[]|\OT1/ptm/b/n/8 1.76| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2712--2712
+[]|\OT1/ptm/m/n/8 2.70| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2712--2712
+[]|\OT1/ptm/m/n/8 6.36| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2712--2712
+[]|\OT1/ptm/m/n/8 1.95| 
+ []
+
+
+Overfull \hbox (6.61908pt too wide) in paragraph at lines 2712--2712
+[]|\OT1/ptm/m/n/8 12.63| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2712--2712
+[]|\OT1/ptm/m/n/8 3.93| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2712--2712
+[]|\OT1/ptm/m/n/8 4.23| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2713--2713
+[]|\OT1/ptm/m/n/8 7.84| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2713--2713
+[]|\OT1/ptm/b/n/8 1.49| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2713--2713
+[]|\OT1/ptm/m/n/8 3.00| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2713--2713
+[]|\OT1/ptm/m/n/8 7.69| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2713--2713
+[]|\OT1/ptm/m/n/8 2.94| 
+ []
+
+
+Overfull \hbox (6.61908pt too wide) in paragraph at lines 2713--2713
+[]|\OT1/ptm/m/n/8 12.93| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2713--2713
+[]|\OT1/ptm/m/n/8 5.09| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2713--2713
+[]|\OT1/ptm/m/n/8 6.37| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2714--2714
+[]|\OT1/ptm/m/n/8 4.95| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2714--2714
+[]|\OT1/ptm/b/n/8 1.24| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2714--2714
+[]|\OT1/ptm/m/n/8 1.93| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2714--2714
+[]|\OT1/ptm/m/n/8 5.81| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2714--2714
+[]|\OT1/ptm/m/n/8 1.55| 
+ []
+
+
+Overfull \hbox (6.61908pt too wide) in paragraph at lines 2714--2714
+[]|\OT1/ptm/m/n/8 11.12| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2714--2714
+[]|\OT1/ptm/m/n/8 3.22| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2714--2714
+[]|\OT1/ptm/m/n/8 5.06| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2715--2715
+[]|\OT1/ptm/m/n/8 5.66| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2715--2715
+[]|\OT1/ptm/b/n/8 1.31| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2715--2715
+[]|\OT1/ptm/m/n/8 3.19| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2715--2715
+[]|\OT1/ptm/m/n/8 6.73| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2715--2715
+[]|\OT1/ptm/m/n/8 2.60| 
+ []
+
+
+Overfull \hbox (6.61908pt too wide) in paragraph at lines 2715--2715
+[]|\OT1/ptm/m/n/8 12.61| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2715--2715
+[]|\OT1/ptm/m/n/8 3.85| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2715--2715
+[]|\OT1/ptm/m/n/8 6.42| 
+ []
+
+
+Overfull \hbox (6.61908pt too wide) in paragraph at lines 2716--2716
+[]|\OT1/ptm/m/n/8 10.55| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2716--2716
+[]|\OT1/ptm/b/n/8 0.95| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2716--2716
+[]|\OT1/ptm/m/n/8 3.27| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2716--2716
+[]|\OT1/ptm/m/n/8 6.36| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2716--2716
+[]|\OT1/ptm/m/n/8 1.76| 
+ []
+
+
+Overfull \hbox (6.61908pt too wide) in paragraph at lines 2716--2716
+[]|\OT1/ptm/m/n/8 15.32| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2716--2716
+[]|\OT1/ptm/m/n/8 4.29| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2716--2716
+[]|\OT1/ptm/m/n/8 5.01| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2717--2717
+[]|\OT1/ptm/m/n/8 5.14| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2717--2717
+[]|\OT1/ptm/b/n/8 1.73| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2717--2717
+[]|\OT1/ptm/m/n/8 2.72| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2717--2717
+[]|\OT1/ptm/m/n/8 9.54| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2717--2717
+[]|\OT1/ptm/m/n/8 2.73| 
+ []
+
+
+Overfull \hbox (6.61908pt too wide) in paragraph at lines 2717--2717
+[]|\OT1/ptm/m/n/8 10.39| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2717--2717
+[]|\OT1/ptm/m/n/8 3.33| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2717--2717
+[]|\OT1/ptm/m/n/8 6.47| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2718--2718
+[]|\OT1/ptm/m/n/8 7.35| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2718--2718
+[]|\OT1/ptm/b/n/8 1.19| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2718--2718
+[]|\OT1/ptm/m/n/8 2.76| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2718--2718
+[]|\OT1/ptm/m/n/8 9.13| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2718--2718
+[]|\OT1/ptm/m/n/8 1.61| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2718--2718
+[]|\OT1/ptm/m/n/8 9.91| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2718--2718
+[]|\OT1/ptm/m/n/8 4.17| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2718--2718
+[]|\OT1/ptm/m/n/8 8.56| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2719--2719
+[]|\OT1/ptm/m/n/8 4.94| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2719--2719
+[]|\OT1/ptm/m/n/8 1.38| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2719--2719
+[]|\OT1/ptm/m/n/8 3.37| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2719--2719
+[]|\OT1/ptm/m/n/8 5.83| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2719--2719
+[]|\OT1/ptm/b/n/8 1.37| 
+ []
+
+
+Overfull \hbox (6.61908pt too wide) in paragraph at lines 2719--2719
+[]|\OT1/ptm/m/n/8 10.28| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2719--2719
+[]|\OT1/ptm/m/n/8 3.68| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2719--2719
+[]|\OT1/ptm/m/n/8 4.26| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2720--2720
+[]|\OT1/ptm/m/n/8 4.54| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2720--2720
+[]|\OT1/ptm/b/n/8 0.75| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2720--2720
+[]|\OT1/ptm/m/n/8 2.44| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2720--2720
+[]|\OT1/ptm/m/n/8 5.15| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2720--2720
+[]|\OT1/ptm/m/n/8 0.98| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2720--2720
+[]|\OT1/ptm/m/n/8 8.62| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2720--2720
+[]|\OT1/ptm/m/n/8 2.49| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2720--2720
+[]|\OT1/ptm/m/n/8 3.69| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2721--2721
+[]|\OT1/ptm/m/n/8 6.30| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2721--2721
+[]|\OT1/ptm/b/n/8 0.94| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2721--2721
+[]|\OT1/ptm/m/n/8 2.94| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2721--2721
+[]|\OT1/ptm/m/n/8 5.32| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2721--2721
+[]|\OT1/ptm/m/n/8 2.53| 
+ []
+
+
+Overfull \hbox (6.61908pt too wide) in paragraph at lines 2721--2721
+[]|\OT1/ptm/m/n/8 11.44| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2721--2721
+[]|\OT1/ptm/m/n/8 3.61| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2721--2721
+[]|\OT1/ptm/m/n/8 4.16| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2722--2722
+[]|\OT1/ptm/m/n/8 2.89| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2722--2722
+[]|\OT1/ptm/m/n/8 0.50| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2722--2722
+[]|\OT1/ptm/m/n/8 1.18| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2722--2722
+[]|\OT1/ptm/m/n/8 1.06| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2722--2722
+[]|\OT1/ptm/b/n/8 0.35| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2722--2722
+[]|\OT1/ptm/m/n/8 3.52| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2722--2722
+[]|\OT1/ptm/m/n/8 1.51| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2722--2722
+[]|\OT1/ptm/m/n/8 1.95| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2723--2723
+[]|\OT1/ptm/m/n/8 3.07| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2723--2723
+[]|\OT1/ptm/b/n/8 0.46| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2723--2723
+[]|\OT1/ptm/m/n/8 1.28| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2723--2723
+[]|\OT1/ptm/m/n/8 1.18| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2723--2723
+[]|\OT1/ptm/m/n/8 0.49| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2723--2723
+[]|\OT1/ptm/m/n/8 2.56| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2723--2723
+[]|\OT1/ptm/m/n/8 1.21| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2723--2723
+[]|\OT1/ptm/m/n/8 2.57| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2724--2724
+[]|\OT1/ptm/m/n/8 2.52| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2724--2724
+[]|\OT1/ptm/m/n/8 0.33| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2724--2724
+[]|\OT1/ptm/m/n/8 1.32| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2724--2724
+[]|\OT1/ptm/m/n/8 2.41| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2724--2724
+[]|\OT1/ptm/b/n/8 0.18| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2724--2724
+[]|\OT1/ptm/m/n/8 5.09| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2724--2724
+[]|\OT1/ptm/m/n/8 1.64| 
+ []
+
+
+Overfull \hbox (2.61908pt too wide) in paragraph at lines 2724--2724
+[]|\OT1/ptm/m/n/8 3.05| 
+ []
+
+
+Overfull \hbox (25.75906pt too wide) in paragraph at lines 2651--2726
 [][] 
  []
 
 
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 2692.
+               Default added (so using `tbp') on input line 2729.
 
 
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 2761.
+               Default added (so using `tbp') on input line 2798.
 
 
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 2831.
+               Default added (so using `tbp') on input line 2868.
 
 
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 2901.
+               Default added (so using `tbp') on input line 2938.
 
 
-Overfull \hbox (38.79024pt too wide) in paragraph at lines 2903--2968
+Overfull \hbox (38.79024pt too wide) in paragraph at lines 2940--3005
 [][] 
  []
 
-<Umbrales/Original.png, id=315, 79.497pt x 786.2976pt>
+<Umbrales/Original.png, id=318, 79.497pt x 786.2976pt>
 File: Umbrales/Original.png Graphic file (type png)
 <use Umbrales/Original.png>
-Package pdftex.def Info: Umbrales/Original.png  used on input line 2974.
+Package pdftex.def Info: Umbrales/Original.png  used on input line 3011.
 (pdftex.def)             Requested size: 67.08252pt x 663.54497pt.
-<Umbrales/kapur/Dim7/RSA_HBA_Dim7_Kapur.png, id=316, 79.497pt x 786.2976pt>
+<Umbrales/kapur/Dim7/RSA_HBA_Dim7_Kapur.png, id=319, 79.497pt x 786.2976pt>
 File: Umbrales/kapur/Dim7/RSA_HBA_Dim7_Kapur.png Graphic file (type png)
 <use Umbrales/kapur/Dim7/RSA_HBA_Dim7_Kapur.png>
 Package pdftex.def Info: Umbrales/kapur/Dim7/RSA_HBA_Dim7_Kapur.png  used on in
-put line 2979.
+put line 3016.
 (pdftex.def)             Requested size: 67.08252pt x 663.54497pt.
-<Umbrales/kapur/Dim7/OPA_BES_Dim7_Kapur.png, id=317, 79.497pt x 786.2976pt>
+<Umbrales/kapur/Dim7/OPA_BES_Dim7_Kapur.png, id=320, 79.497pt x 786.2976pt>
 File: Umbrales/kapur/Dim7/OPA_BES_Dim7_Kapur.png Graphic file (type png)
 <use Umbrales/kapur/Dim7/OPA_BES_Dim7_Kapur.png>
 Package pdftex.def Info: Umbrales/kapur/Dim7/OPA_BES_Dim7_Kapur.png  used on in
-put line 2984.
+put line 3021.
 (pdftex.def)             Requested size: 67.08252pt x 663.54497pt.
-<Umbrales/kapur/Dim7/HHO_TSO_Dim7_Kapur.png, id=318, 79.497pt x 786.2976pt>
+<Umbrales/kapur/Dim7/HHO_TSO_Dim7_Kapur.png, id=321, 79.497pt x 786.2976pt>
 File: Umbrales/kapur/Dim7/HHO_TSO_Dim7_Kapur.png Graphic file (type png)
 <use Umbrales/kapur/Dim7/HHO_TSO_Dim7_Kapur.png>
 Package pdftex.def Info: Umbrales/kapur/Dim7/HHO_TSO_Dim7_Kapur.png  used on in
-put line 2989.
+put line 3026.
 (pdftex.def)             Requested size: 67.08252pt x 663.54497pt.
-<Umbrales/kapur/Dim7/GWO_CSA_Dim7_Kapur.png, id=319, 79.497pt x 786.2976pt>
+<Umbrales/kapur/Dim7/GWO_CSA_Dim7_Kapur.png, id=322, 79.497pt x 786.2976pt>
 File: Umbrales/kapur/Dim7/GWO_CSA_Dim7_Kapur.png Graphic file (type png)
 <use Umbrales/kapur/Dim7/GWO_CSA_Dim7_Kapur.png>
 Package pdftex.def Info: Umbrales/kapur/Dim7/GWO_CSA_Dim7_Kapur.png  used on in
-put line 2994.
+put line 3031.
 (pdftex.def)             Requested size: 67.08252pt x 663.54497pt.
 
-LaTeX Warning: Float too large for page by 41.145pt on input line 3002.
+LaTeX Warning: Float too large for page by 41.145pt on input line 3039.
 
 File: Umbrales/Original.png Graphic file (type png)
 <use Umbrales/Original.png>
-Package pdftex.def Info: Umbrales/Original.png  used on input line 3007.
+Package pdftex.def Info: Umbrales/Original.png  used on input line 3044.
 (pdftex.def)             Requested size: 67.08252pt x 663.54497pt.
-<Umbrales/Otsu/Dim7/RSA-HBA_Dim7_Otsu.png, id=320, 79.497pt x 786.2976pt>
+<Umbrales/Otsu/Dim7/RSA-HBA_Dim7_Otsu.png, id=323, 79.497pt x 786.2976pt>
 File: Umbrales/Otsu/Dim7/RSA-HBA_Dim7_Otsu.png Graphic file (type png)
 <use Umbrales/Otsu/Dim7/RSA-HBA_Dim7_Otsu.png>
 Package pdftex.def Info: Umbrales/Otsu/Dim7/RSA-HBA_Dim7_Otsu.png  used on inpu
-t line 3012.
+t line 3049.
 (pdftex.def)             Requested size: 67.08252pt x 663.54497pt.
-<Umbrales/Otsu/Dim7/OPA-BES_Dim7_Otsu.png, id=321, 79.497pt x 786.2976pt>
+<Umbrales/Otsu/Dim7/OPA-BES_Dim7_Otsu.png, id=324, 79.497pt x 786.2976pt>
 File: Umbrales/Otsu/Dim7/OPA-BES_Dim7_Otsu.png Graphic file (type png)
 <use Umbrales/Otsu/Dim7/OPA-BES_Dim7_Otsu.png>
 Package pdftex.def Info: Umbrales/Otsu/Dim7/OPA-BES_Dim7_Otsu.png  used on inpu
-t line 3017.
+t line 3054.
 (pdftex.def)             Requested size: 67.08252pt x 663.54497pt.
-<Umbrales/Otsu/Dim7/HHO-TSO_Dim7_Otsu.png, id=322, 79.497pt x 786.2976pt>
+<Umbrales/Otsu/Dim7/HHO-TSO_Dim7_Otsu.png, id=325, 79.497pt x 786.2976pt>
 File: Umbrales/Otsu/Dim7/HHO-TSO_Dim7_Otsu.png Graphic file (type png)
 <use Umbrales/Otsu/Dim7/HHO-TSO_Dim7_Otsu.png>
 Package pdftex.def Info: Umbrales/Otsu/Dim7/HHO-TSO_Dim7_Otsu.png  used on inpu
-t line 3022.
+t line 3059.
 (pdftex.def)             Requested size: 67.08252pt x 663.54497pt.
-<Umbrales/Otsu/Dim7/GWO-CSA_Dim7_Otsu.png, id=323, 79.497pt x 786.2976pt>
+<Umbrales/Otsu/Dim7/GWO-CSA_Dim7_Otsu.png, id=326, 79.497pt x 786.2976pt>
 File: Umbrales/Otsu/Dim7/GWO-CSA_Dim7_Otsu.png Graphic file (type png)
 <use Umbrales/Otsu/Dim7/GWO-CSA_Dim7_Otsu.png>
 Package pdftex.def Info: Umbrales/Otsu/Dim7/GWO-CSA_Dim7_Otsu.png  used on inpu
-t line 3027.
+t line 3064.
 (pdftex.def)             Requested size: 67.08252pt x 663.54497pt.
 
-LaTeX Warning: Float too large for page by 41.145pt on input line 3035.
+LaTeX Warning: Float too large for page by 41.145pt on input line 3072.
 
 File: Umbrales/Original.png Graphic file (type png)
 <use Umbrales/Original.png>
-Package pdftex.def Info: Umbrales/Original.png  used on input line 3041.
+Package pdftex.def Info: Umbrales/Original.png  used on input line 3078.
 (pdftex.def)             Requested size: 67.08252pt x 663.54497pt.
-<Umbrales/kapur/Dim8/RSA-HBA_Dim8_Kapur.png, id=324, 79.497pt x 786.2976pt>
+<Umbrales/kapur/Dim8/RSA-HBA_Dim8_Kapur.png, id=327, 79.497pt x 786.2976pt>
 File: Umbrales/kapur/Dim8/RSA-HBA_Dim8_Kapur.png Graphic file (type png)
 <use Umbrales/kapur/Dim8/RSA-HBA_Dim8_Kapur.png>
 Package pdftex.def Info: Umbrales/kapur/Dim8/RSA-HBA_Dim8_Kapur.png  used on in
-put line 3046.
+put line 3083.
 (pdftex.def)             Requested size: 67.08252pt x 663.54497pt.
-<Umbrales/kapur/Dim8/OPA-BES_Dim8_Kapur.png, id=325, 79.497pt x 786.2976pt>
+<Umbrales/kapur/Dim8/OPA-BES_Dim8_Kapur.png, id=328, 79.497pt x 786.2976pt>
 File: Umbrales/kapur/Dim8/OPA-BES_Dim8_Kapur.png Graphic file (type png)
 <use Umbrales/kapur/Dim8/OPA-BES_Dim8_Kapur.png>
 Package pdftex.def Info: Umbrales/kapur/Dim8/OPA-BES_Dim8_Kapur.png  used on in
-put line 3051.
+put line 3088.
 (pdftex.def)             Requested size: 67.08252pt x 663.54497pt.
-<Umbrales/kapur/Dim8/HHO-TSO_Dim8_Kapur.png, id=326, 79.497pt x 786.2976pt>
+<Umbrales/kapur/Dim8/HHO-TSO_Dim8_Kapur.png, id=329, 79.497pt x 786.2976pt>
 File: Umbrales/kapur/Dim8/HHO-TSO_Dim8_Kapur.png Graphic file (type png)
 <use Umbrales/kapur/Dim8/HHO-TSO_Dim8_Kapur.png>
 Package pdftex.def Info: Umbrales/kapur/Dim8/HHO-TSO_Dim8_Kapur.png  used on in
-put line 3056.
+put line 3093.
 (pdftex.def)             Requested size: 67.08252pt x 663.54497pt.
-<Umbrales/kapur/Dim8/GWO-CSA_Dim8_Kapur.png, id=327, 79.497pt x 786.2976pt>
+<Umbrales/kapur/Dim8/GWO-CSA_Dim8_Kapur.png, id=330, 79.497pt x 786.2976pt>
 File: Umbrales/kapur/Dim8/GWO-CSA_Dim8_Kapur.png Graphic file (type png)
 <use Umbrales/kapur/Dim8/GWO-CSA_Dim8_Kapur.png>
 Package pdftex.def Info: Umbrales/kapur/Dim8/GWO-CSA_Dim8_Kapur.png  used on in
-put line 3061.
+put line 3098.
 (pdftex.def)             Requested size: 67.08252pt x 663.54497pt.
 
-LaTeX Warning: Float too large for page by 41.145pt on input line 3069.
+LaTeX Warning: Float too large for page by 41.145pt on input line 3106.
 
 File: Umbrales/Original.png Graphic file (type png)
 <use Umbrales/Original.png>
-Package pdftex.def Info: Umbrales/Original.png  used on input line 3074.
+Package pdftex.def Info: Umbrales/Original.png  used on input line 3111.
 (pdftex.def)             Requested size: 67.08252pt x 663.54497pt.
-<Umbrales/Otsu/Dim8/RSA-HBA_Dim8_Otsu.png, id=328, 79.497pt x 786.2976pt>
+<Umbrales/Otsu/Dim8/RSA-HBA_Dim8_Otsu.png, id=331, 79.497pt x 786.2976pt>
 File: Umbrales/Otsu/Dim8/RSA-HBA_Dim8_Otsu.png Graphic file (type png)
 <use Umbrales/Otsu/Dim8/RSA-HBA_Dim8_Otsu.png>
 Package pdftex.def Info: Umbrales/Otsu/Dim8/RSA-HBA_Dim8_Otsu.png  used on inpu
-t line 3079.
+t line 3116.
 (pdftex.def)             Requested size: 67.08252pt x 663.54497pt.
-<Umbrales/Otsu/Dim8/OPA-BES_Dim8_Otsu.png, id=329, 79.497pt x 786.2976pt>
+<Umbrales/Otsu/Dim8/OPA-BES_Dim8_Otsu.png, id=332, 79.497pt x 786.2976pt>
 File: Umbrales/Otsu/Dim8/OPA-BES_Dim8_Otsu.png Graphic file (type png)
 <use Umbrales/Otsu/Dim8/OPA-BES_Dim8_Otsu.png>
 Package pdftex.def Info: Umbrales/Otsu/Dim8/OPA-BES_Dim8_Otsu.png  used on inpu
-t line 3084.
+t line 3121.
 (pdftex.def)             Requested size: 67.08252pt x 663.54497pt.
-<Umbrales/Otsu/Dim8/HHO-TSO_Dim8_Otsu.png, id=330, 79.497pt x 786.2976pt>
+<Umbrales/Otsu/Dim8/HHO-TSO_Dim8_Otsu.png, id=333, 79.497pt x 786.2976pt>
 File: Umbrales/Otsu/Dim8/HHO-TSO_Dim8_Otsu.png Graphic file (type png)
 <use Umbrales/Otsu/Dim8/HHO-TSO_Dim8_Otsu.png>
 Package pdftex.def Info: Umbrales/Otsu/Dim8/HHO-TSO_Dim8_Otsu.png  used on inpu
-t line 3089.
+t line 3126.
 (pdftex.def)             Requested size: 67.08252pt x 663.54497pt.
-<Umbrales/Otsu/Dim8/GWO-CSA_Dim8_Otsu.png, id=331, 79.497pt x 786.2976pt>
+<Umbrales/Otsu/Dim8/GWO-CSA_Dim8_Otsu.png, id=334, 79.497pt x 786.2976pt>
 File: Umbrales/Otsu/Dim8/GWO-CSA_Dim8_Otsu.png Graphic file (type png)
 <use Umbrales/Otsu/Dim8/GWO-CSA_Dim8_Otsu.png>
 Package pdftex.def Info: Umbrales/Otsu/Dim8/GWO-CSA_Dim8_Otsu.png  used on inpu
-t line 3094.
+t line 3131.
 (pdftex.def)             Requested size: 67.08252pt x 663.54497pt.
 
-LaTeX Warning: Float too large for page by 41.145pt on input line 3102.
+LaTeX Warning: Float too large for page by 41.145pt on input line 3139.
 
 File: Umbrales/Original.png Graphic file (type png)
 <use Umbrales/Original.png>
-Package pdftex.def Info: Umbrales/Original.png  used on input line 3108.
+Package pdftex.def Info: Umbrales/Original.png  used on input line 3145.
 (pdftex.def)             Requested size: 67.08252pt x 663.54497pt.
-<Umbrales/kapur/Dim9/RSA-HBA_Dim9_Kapur.png, id=332, 79.497pt x 786.2976pt>
+<Umbrales/kapur/Dim9/RSA-HBA_Dim9_Kapur.png, id=335, 79.497pt x 786.2976pt>
 File: Umbrales/kapur/Dim9/RSA-HBA_Dim9_Kapur.png Graphic file (type png)
 <use Umbrales/kapur/Dim9/RSA-HBA_Dim9_Kapur.png>
 Package pdftex.def Info: Umbrales/kapur/Dim9/RSA-HBA_Dim9_Kapur.png  used on in
-put line 3113.
+put line 3150.
 (pdftex.def)             Requested size: 67.08252pt x 663.54497pt.
-<Umbrales/kapur/Dim9/OPA-BES_Dim9_Kapur.png, id=333, 79.497pt x 786.2976pt>
+<Umbrales/kapur/Dim9/OPA-BES_Dim9_Kapur.png, id=336, 79.497pt x 786.2976pt>
 File: Umbrales/kapur/Dim9/OPA-BES_Dim9_Kapur.png Graphic file (type png)
 <use Umbrales/kapur/Dim9/OPA-BES_Dim9_Kapur.png>
 Package pdftex.def Info: Umbrales/kapur/Dim9/OPA-BES_Dim9_Kapur.png  used on in
-put line 3118.
+put line 3155.
 (pdftex.def)             Requested size: 67.08252pt x 663.54497pt.
-<Umbrales/kapur/Dim9/HHO-TSO_Dim9_Kapur.png, id=334, 79.497pt x 786.2976pt>
+<Umbrales/kapur/Dim9/HHO-TSO_Dim9_Kapur.png, id=337, 79.497pt x 786.2976pt>
 File: Umbrales/kapur/Dim9/HHO-TSO_Dim9_Kapur.png Graphic file (type png)
 <use Umbrales/kapur/Dim9/HHO-TSO_Dim9_Kapur.png>
 Package pdftex.def Info: Umbrales/kapur/Dim9/HHO-TSO_Dim9_Kapur.png  used on in
-put line 3123.
+put line 3160.
 (pdftex.def)             Requested size: 67.08252pt x 663.54497pt.
-<Umbrales/kapur/Dim9/GWO-CSA_Dim9_Kapur.png, id=335, 79.497pt x 786.2976pt>
+<Umbrales/kapur/Dim9/GWO-CSA_Dim9_Kapur.png, id=338, 79.497pt x 786.2976pt>
 File: Umbrales/kapur/Dim9/GWO-CSA_Dim9_Kapur.png Graphic file (type png)
 <use Umbrales/kapur/Dim9/GWO-CSA_Dim9_Kapur.png>
 Package pdftex.def Info: Umbrales/kapur/Dim9/GWO-CSA_Dim9_Kapur.png  used on in
-put line 3128.
+put line 3165.
 (pdftex.def)             Requested size: 67.08252pt x 663.54497pt.
 
-LaTeX Warning: Float too large for page by 41.145pt on input line 3136.
+LaTeX Warning: Float too large for page by 41.145pt on input line 3173.
 
 File: Umbrales/Original.png Graphic file (type png)
 <use Umbrales/Original.png>
-Package pdftex.def Info: Umbrales/Original.png  used on input line 3142.
+Package pdftex.def Info: Umbrales/Original.png  used on input line 3179.
 (pdftex.def)             Requested size: 67.08252pt x 663.54497pt.
-<Umbrales/Otsu/Dim9/RSA-HBA_Dim9_Otsu.png, id=336, 79.497pt x 786.2976pt>
+<Umbrales/Otsu/Dim9/RSA-HBA_Dim9_Otsu.png, id=339, 79.497pt x 786.2976pt>
 File: Umbrales/Otsu/Dim9/RSA-HBA_Dim9_Otsu.png Graphic file (type png)
 <use Umbrales/Otsu/Dim9/RSA-HBA_Dim9_Otsu.png>
 Package pdftex.def Info: Umbrales/Otsu/Dim9/RSA-HBA_Dim9_Otsu.png  used on inpu
-t line 3147.
+t line 3184.
 (pdftex.def)             Requested size: 67.08252pt x 663.54497pt.
-<Umbrales/Otsu/Dim9/OPA-BES_Dim9_Otsu.png, id=337, 79.497pt x 786.2976pt>
+<Umbrales/Otsu/Dim9/OPA-BES_Dim9_Otsu.png, id=340, 79.497pt x 786.2976pt>
 File: Umbrales/Otsu/Dim9/OPA-BES_Dim9_Otsu.png Graphic file (type png)
 <use Umbrales/Otsu/Dim9/OPA-BES_Dim9_Otsu.png>
 Package pdftex.def Info: Umbrales/Otsu/Dim9/OPA-BES_Dim9_Otsu.png  used on inpu
-t line 3152.
+t line 3189.
 (pdftex.def)             Requested size: 67.08252pt x 663.54497pt.
-<Umbrales/Otsu/Dim9/HHO-TSO_Dim9_Otsu.png, id=338, 79.497pt x 786.2976pt>
+<Umbrales/Otsu/Dim9/HHO-TSO_Dim9_Otsu.png, id=341, 79.497pt x 786.2976pt>
 File: Umbrales/Otsu/Dim9/HHO-TSO_Dim9_Otsu.png Graphic file (type png)
 <use Umbrales/Otsu/Dim9/HHO-TSO_Dim9_Otsu.png>
 Package pdftex.def Info: Umbrales/Otsu/Dim9/HHO-TSO_Dim9_Otsu.png  used on inpu
-t line 3157.
+t line 3194.
 (pdftex.def)             Requested size: 67.08252pt x 663.54497pt.
-<Umbrales/Otsu/Dim9/GWO-CSA_Dim9_Otsu.png, id=339, 79.497pt x 786.2976pt>
+<Umbrales/Otsu/Dim9/GWO-CSA_Dim9_Otsu.png, id=342, 79.497pt x 786.2976pt>
 File: Umbrales/Otsu/Dim9/GWO-CSA_Dim9_Otsu.png Graphic file (type png)
 <use Umbrales/Otsu/Dim9/GWO-CSA_Dim9_Otsu.png>
 Package pdftex.def Info: Umbrales/Otsu/Dim9/GWO-CSA_Dim9_Otsu.png  used on inpu
-t line 3162.
+t line 3199.
 (pdftex.def)             Requested size: 67.08252pt x 663.54497pt.
 
-LaTeX Warning: Float too large for page by 41.145pt on input line 3170.
+LaTeX Warning: Float too large for page by 41.145pt on input line 3207.
 
 
 ** Conference Paper **
@@ -4316,22 +4317,22 @@ Before submitting the final camera ready copy, remember to:
  uses only Type 1 fonts and that every step in the generation
  process uses the appropriate paper size.
 
-[40
+[41
 
 
-] [41] [42] [43] [44] [45] [46] [47 <./Umbrales/Original.png> <./Umbrales/kapur
+] [42] [43] [44] [45] [46] [47] [48 <./Umbrales/Original.png> <./Umbrales/kapur
 /Dim7/RSA_HBA_Dim7_Kapur.png> <./Umbrales/kapur/Dim7/OPA_BES_Dim7_Kapur.png> <.
 /Umbrales/kapur/Dim7/HHO_TSO_Dim7_Kapur.png> <./Umbrales/kapur/Dim7/GWO_CSA_Dim
-7_Kapur.png>] [48 <./Umbrales/Otsu/Dim7/RSA-HBA_Dim7_Otsu.png> <./Umbrales/Otsu
+7_Kapur.png>] [49 <./Umbrales/Otsu/Dim7/RSA-HBA_Dim7_Otsu.png> <./Umbrales/Otsu
 /Dim7/OPA-BES_Dim7_Otsu.png> <./Umbrales/Otsu/Dim7/HHO-TSO_Dim7_Otsu.png> <./Um
-brales/Otsu/Dim7/GWO-CSA_Dim7_Otsu.png>] [49 <./Umbrales/kapur/Dim8/RSA-HBA_Dim
+brales/Otsu/Dim7/GWO-CSA_Dim7_Otsu.png>] [50 <./Umbrales/kapur/Dim8/RSA-HBA_Dim
 8_Kapur.png> <./Umbrales/kapur/Dim8/OPA-BES_Dim8_Kapur.png> <./Umbrales/kapur/D
 im8/HHO-TSO_Dim8_Kapur.png> <./Umbrales/kapur/Dim8/GWO-CSA_Dim8_Kapur.png>]
-[50 <./Umbrales/Otsu/Dim8/RSA-HBA_Dim8_Otsu.png> <./Umbrales/Otsu/Dim8/OPA-BES_
+[51 <./Umbrales/Otsu/Dim8/RSA-HBA_Dim8_Otsu.png> <./Umbrales/Otsu/Dim8/OPA-BES_
 Dim8_Otsu.png> <./Umbrales/Otsu/Dim8/HHO-TSO_Dim8_Otsu.png> <./Umbrales/Otsu/Di
-m8/GWO-CSA_Dim8_Otsu.png>] [51 <./Umbrales/kapur/Dim9/RSA-HBA_Dim9_Kapur.png> <
+m8/GWO-CSA_Dim8_Otsu.png>] [52 <./Umbrales/kapur/Dim9/RSA-HBA_Dim9_Kapur.png> <
 ./Umbrales/kapur/Dim9/OPA-BES_Dim9_Kapur.png> <./Umbrales/kapur/Dim9/HHO-TSO_Di
-m9_Kapur.png> <./Umbrales/kapur/Dim9/GWO-CSA_Dim9_Kapur.png>] [52 <./Umbrales/O
+m9_Kapur.png> <./Umbrales/kapur/Dim9/GWO-CSA_Dim9_Kapur.png>] [53 <./Umbrales/O
 tsu/Dim9/RSA-HBA_Dim9_Otsu.png> <./Umbrales/Otsu/Dim9/OPA-BES_Dim9_Otsu.png> <.
 /Umbrales/Otsu/Dim9/HHO-TSO_Dim9_Otsu.png> <./Umbrales/Otsu/Dim9/GWO-CSA_Dim9_O
 tsu.png>] (Sumativa1.aux)
@@ -4354,7 +4355,7 @@ LaTeX Warning: There were multiply-defined labels.
 Here is how much of TeX's memory you used:
  8319 strings out of 474486
  163951 string characters out of 5743755
- 2520542 words of memory out of 5000000
+ 2519542 words of memory out of 5000000
  30480 multiletter control sequences out of 15000+600000
  609082 words of font info for 146 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -4387,9 +4388,9 @@ ts/symbols/msbm10.pfb><C:/Users/Ferna/AppData/Local/Programs/MiKTeX/fonts/type1
 /urw/times/utmbi8a.pfb><C:/Users/Ferna/AppData/Local/Programs/MiKTeX/fonts/type
 1/urw/times/utmr8a.pfb><C:/Users/Ferna/AppData/Local/Programs/MiKTeX/fonts/type
 1/urw/times/utmri8a.pfb>
-Output written on Sumativa1.pdf (52 pages, 53518579 bytes).
+Output written on Sumativa1.pdf (53 pages, 53522523 bytes).
 PDF statistics:
- 511 PDF objects out of 1000 (max. 8388607)
+ 514 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  541 words of extra memory for PDF output out of 10000 (max. 10000000)
 
