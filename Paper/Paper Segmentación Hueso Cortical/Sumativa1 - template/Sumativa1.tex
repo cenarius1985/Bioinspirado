@@ -1249,7 +1249,7 @@ El forrajeo parabólico se describe como:
  
 \begin{itemize}
 
-\item GWO: Este algoritmo ha demostrado consistentemente el mejor rendimiento en las tres funciones objetivo (F1, F10 y F20). Tiene una mediana alta y una variabilidad baja, lo que indica que es eficaz y consistente en la segmentación de imágenes utilizando la entropía de Kapur.
+\item GWO: Este algoritmo ha demostrado consistentemente el mejor rendimiento. Tiene una mediana alta y una variabilidad baja, lo que indica que es eficaz y consistente en la segmentación de imágenes utilizando la entropía de Kapur.
 
 \item HHO también ha mostrado un rendimiento sólido en las tres funciones objetivo. Aunque su variabilidad es un poco mayor que la de GWO, sigue siendo una opción confiable.
 
@@ -1263,13 +1263,176 @@ El forrajeo parabólico se describe como:
 \end{itemize}
 \noindent En resumen ~\ref{fig:Boxplot_Fitnes_Dim9_Kapur}, GWO es consistentemente el mejor algoritmo en las tres funciones objetivo, seguido de cerca por HHO. Los algoritmos intermedios son HBA, OPA, CSA, y BES. RSA y TSO tienden a tener un rendimiento más bajo y variable.
 %Computational experiments Otsu
+\subsection{Resultados Función PSNR Entropia de Kapur}
+\subsubsection{Dimensión 7}
+\begin{itemize}
+	\item 
+	\item 
+	
+\end{itemize}
+% Boxplot de la 1 a la imagen 20 funcion PSNR
+% Dimension 7
+\begin{figure}[htbp]
+	\centering
+	\begin{subfigure}{0.4\textwidth}
+		\includegraphics[width=\linewidth]{PSNR/Kapur/Dim7/PSNR_Dim7_Kapur_1_6.png}
+	\end{subfigure}
+	
+	\begin{subfigure}{0.4\textwidth}
+		\includegraphics[width=\linewidth]{PSNR/Kapur/Dim7/PSNR_Dim7_Kapur_7_12.png}
+	\end{subfigure}
+	\begin{subfigure}{0.4\textwidth}
+		\includegraphics[width=\linewidth]{PSNR/Kapur/Dim7/PSNR_Dim7_Kapur_13_18.png}
+		%\vspace{-150pt} % Ajusta este valor según sea necesario
+	\end{subfigure}  
+	\begin{subfigure}{0.4\textwidth}
+		\includegraphics[width=\linewidth]{PSNR/Kapur/Dim7/PSNR_Dim7_Kapur_19_20.png}
+		\vspace{-120pt} % Ajusta este valor según sea necesario
+	\end{subfigure}
+	\caption{Boxplot de los valores PSNR por cada imagen en la dimensión 7, desde la imagen 1 hasta la imagen 20,Función Entropia de Kapur}
+	\label{fig:imagenes}    
+\end{figure}
+
+\subsubsection{Dimensión 8}
+%% Boxplot de los valores PSNR por cada imagen en la dimensión 8, desde la imagen 1 hasta la imagen 20, Función Entropía de Kapur
+\begin{figure}[htbp] % 'htbp' indica las preferencias de ubicación: aquí, arriba, abajo, en una página especial de figuras.
+	\centering % Esto centrará las imágenes
+	\begin{subfigure}{0.4\textwidth}
+		\includegraphics[width=\linewidth]{PSNR/Kapur/Dim8/PSNR_Dim8_Kapur_1_6.png}
+	\end{subfigure}
+	
+	\begin{subfigure}{0.4\textwidth}
+		\includegraphics[width=\linewidth]{PSNR/Kapur/Dim8/PSNR_Dim8_Kapur_7_12.png}
+	\end{subfigure}
+	
+	\begin{subfigure}{0.4\textwidth}
+		\includegraphics[width=\linewidth]{PSNR/Kapur/Dim8/PSNR_Dim8_Kapur_13_18.png}
+	\end{subfigure}
+	
+	\begin{subfigure}{0.4\textwidth}
+		\includegraphics[width=\linewidth]{PSNR/Kapur/Dim8/PSNR_Dim8_Kapur_19_20.png}
+		\vspace{-120pt} % Ajusta este valor según sea necesario
+		% Elimina o ajusta el \vspace si es necesario. Aquí se ha eliminado para evitar solapamientos.
+	\end{subfigure}
+	\caption{Boxplot de los valores PSNR por cada imagen en la dimensión 8, desde la imagen 1 hasta la imagen 20, Función Entropía de Kapur.}
+	\label{fig:imagenes_dim8_1_20}    
+\end{figure}
+
+\subsubsection{Dimensión 9}
+%% Dimension 9
+\begin{figure}[htbp]
+	\centering
+	\begin{subfigure}{0.4\textwidth}
+		\includegraphics[width=\linewidth]{PSNR/Kapur/Dim9/PSNR_Dim9_Kapur_1_6.png}
+	\end{subfigure}
+	
+	\begin{subfigure}{0.4\textwidth}
+		\includegraphics[width=\linewidth]{PSNR/Kapur/Dim9/PSNR_Dim9_Kapur_7_12.png}
+	\end{subfigure}
+	\begin{subfigure}{0.4\textwidth}
+		\includegraphics[width=\linewidth]{PSNR/Kapur/Dim9/PSNR_Dim9_Kapur_13_18.png}
+		%\vspace{-150pt} % Ajusta este valor según sea necesario
+	\end{subfigure}   
+	\begin{subfigure}{0.4\textwidth}
+		\includegraphics[width=\linewidth]{PSNR/Kapur/Dim9/PSNR_Dim9_Kapur_19_20.png}
+		\vspace{-120pt} % Ajusta este valor según sea necesario
+	\end{subfigure}
+	\caption{Boxplot de los valores PSNR por cada imagen en la dimensión 9, desde la imagen 1 hasta la imagen 20,Función Entropía de Kapur}
+	\label{fig:imagenes}    
+\end{figure}
+\subsection{Resultados Función SSIM Entropía de Kapur}
+\subsubsection{Dimensión 7}
+%% Boxplot de los valores SSIM por cada imagen en la dimensión 7, desde la imagen 1 hasta la imagen 20,Función Entropía de Kapur
+\begin{figure}
+	\centering
+	
+	\begin{subfigure}{0.4\textwidth}
+		\includegraphics[width=\linewidth]{SSIM/Kapur/Dim7/SSIM_Dim7_Kapur_1_6.png}
+	\end{subfigure}
+	
+	\begin{subfigure}{0.4\textwidth}
+		\includegraphics[width=\linewidth]{SSIM/Kapur/Dim7/SSIM_Dim7_Kapur_7_12.png}
+	\end{subfigure}
+	\begin{subfigure}{0.4\textwidth}
+		\includegraphics[width=\linewidth]{SSIM/Kapur/Dim7/SSIM_Dim7_Kapur_13_18.png}
+		%\vspace{-150pt} % Ajusta este valor según sea necesario
+	\end{subfigure}   
+	\begin{subfigure}{0.4\textwidth}
+		\includegraphics[width=\linewidth]{SSIM/Kapur/Dim7/SSIM_Dim7_Kapur_19_20.png}
+		\vspace{-120pt} % Ajusta este valor según sea necesario
+	\end{subfigure}
+	\caption{Boxplot de los valores SSIM por cada imagen en la dimensión 7, desde la imagen 1 hasta la imagen 20,Función Entropía de Kapur}
+	\label{fig:imagenes}    
+\end{figure}
+
+\subsubsection{Dimensión 8}
+%% Boxplot de los valores SSIM por cada imagen en la dimensión 8, desde la imagen 1 hasta la imagen 20,Función Entropía de Kapur
+\begin{figure}
+	\centering
+	
+	\begin{subfigure}{0.4\textwidth}
+		\includegraphics[width=\linewidth]{SSIM/Kapur/Dim8/SSIM_Dim8_Kapur_1_6.png}
+	\end{subfigure}
+	
+	\begin{subfigure}{0.4\textwidth}
+		\includegraphics[width=\linewidth]{SSIM/Kapur/Dim8/SSIM_Dim8_Kapur_7_12.png}
+	\end{subfigure}  
+	\begin{subfigure}{0.4\textwidth}
+		\includegraphics[width=\linewidth]{SSIM/Kapur/Dim8/SSIM_Dim8_Kapur_13_18.png}
+		%\vspace{-150pt} % Ajusta este valor según sea necesario
+	\end{subfigure}   
+	\begin{subfigure}{0.4\textwidth}
+		\includegraphics[width=\linewidth]{SSIM/Kapur/Dim8/SSIM_Dim8_Kapur_19_20.png}
+		\vspace{-120pt} % Ajusta este valor según sea necesario
+	\end{subfigure}
+	\caption{Boxplot de los valores SSIM por cada imagen en la dimensión 8, desde la imagen 1 hasta la imagen 20,Función Entropía de Kapur}
+	\label{fig:imagenes}    
+\end{figure}
+\subsubsection{Dimensión 9}
+
+%% Boxplot de los valores SSIM por cada imagen en la dimensión 9, desde la imagen 11 hasta la imagen 20,Función Entropía de Kapur
+\begin{figure}
+	\centering
+	
+	\begin{subfigure}{0.4\textwidth}
+		\includegraphics[width=\linewidth]{SSIM/Kapur/Dim9/SSIM_Dim9_Kapur_1_6.png}
+	\end{subfigure}
+	
+	\begin{subfigure}{0.4\textwidth}
+		\includegraphics[width=\linewidth]{SSIM/Kapur/Dim9/SSIM_Dim9_Kapur_7_12.png}
+	\end{subfigure}
+	\begin{subfigure}{0.4\textwidth}
+		\includegraphics[width=\linewidth]{SSIM/Kapur/Dim9/SSIM_Dim9_Kapur_13_18.png}
+		%\vspace{-150pt} % Ajusta este valor según sea necesario
+	\end{subfigure}   
+	\begin{subfigure}{0.4\textwidth}
+		\includegraphics[width=\linewidth]{SSIM/Kapur/Dim9/SSIM_Dim9_Kapur_19_20.png}
+		\vspace{-120pt} % Ajusta este valor según sea necesario
+	\end{subfigure}
+	\caption{Boxplot de los valores SSIM por cada imagen en la dimensión 9, desde la imagen 11 hasta la imagen 20,Función Entropía de Kapur}
+	\label{fig:imagenes}    
+\end{figure}
 \subsection{Resultados Función Fitness Otsu}
 \subsubsection{Dimensión 7}
 \begin{itemize}
-	\item el Mejor
-	\item rendimiento medio
-	\item el peor
+	\item RSA: Este algoritmo mostró un rendimiento inferior. Particularmente en F20, tenía la mediana más baja y valores atípicos significativos, indicando un rendimiento inconsistente y a menudo inferior a los demás.
+	
+	\item HBA: Presentó un rendimiento promedio a bueno, aunque con una variabilidad considerable en algunos casos. No fue el más destacado en ninguna función específica pero mantuvo una posición media en la mayoría de ellas.
+	
+	\item OPA: Registró resultados promedio con una consistencia aceptable. No tuvo los valores más altos, pero tampoco mostró una variabilidad extrema, lo que sugiere un rendimiento fiable.
+	
+	\item BES: Este algoritmo demostró un nivel de consistencia razonablemente bueno en las pruebas, manteniendo posiciones intermedias sin una gran cantidad de valores atípicos, lo que indica una robustez aceptable.
+	
+	\item CSA: Con resultados mixtos, este algoritmo mostró una consistencia regular y se mantuvo en un rango medio en la mayoría de las evaluaciones.
+	
+	\item HHO: Ofreció un buen rendimiento, especialmente en F19 y F20, con medianas altas y cajas estrechas que sugieren un alto nivel de consistencia y fiabilidad.
+	
+	\item GWO: Destacó consistentemente como uno de los algoritmos de mejor rendimiento en todas las funciones de fitness analizadas. En particular, fue el mejor en F8 y mantuvo un alto nivel de consistencia con resultados robustos en las demás funciones, lo que indica que es un algoritmo de optimización muy eficaz y confiable.
+	
+	\item TSO: Aunque tuvo un rendimiento variado, se destacó particularmente en F19 y F20, donde mostró las medianas más altas. A pesar de algunos valores atípicos, su rendimiento general fue uno de los mejores, lo que lo convierte en un algoritmo digno de consideración en problemas de optimización complejos.
+	
 \end{itemize}
+\noindent En resumen, mientras que GWO y TSO se destacaron por su alto rendimiento, cada algoritmo tiene sus propias fortalezas y debilidades. GWO demostró ser el más consistente y eficaz en general, mientras que TSO mostró ser capaz de alcanzar los mejores valores de fitness en ciertas instancias, aunque con una variabilidad más notable
 %Dimension 7
 \begin{figure}
 	\centering
@@ -1293,10 +1456,25 @@ El forrajeo parabólico se describe como:
 \end{figure}
 \subsubsection{Dimensión 8}
 \begin{itemize}
-\item el Mejor
-\item rendimiento medio
-\item el peor
+	\item RSA: Su rendimiento varía considerablemente. Aunque en algunos casos se acerca a un rendimiento medio bueno, también ha mostrado ser susceptible a resultados muy variables. No se destaca como el mejor ni el peor consistentemente.
+	
+	\item HBA: Este algoritmo ha mostrado un rendimiento promedio. Aunque no es consistentemente el mejor o el peor, su rendimiento tiende a estar en un rango medio sin extremos marcados.
+	
+	\item OPA: Generalmente, OPA ha mostrado un rendimiento medio con una variabilidad moderada. No ha presentado los mejores resultados, pero tampoco los peores, ubicándose frecuentemente en un rango intermedio.
+	
+	\item BES: Tiene un rendimiento variable pero tiende a situarse en un rango medio. No ha demostrado ser el mejor ni el peor, aunque ocasionalmente presenta resultados subóptimos.
+	
+	\item GWO: Este algoritmo se ha destacado en varios de los boxplots como uno de los que tiene el mejor rendimiento, con medianas bajas y dispersión reducida, lo que indica resultados buenos y consistentes.
+	
+	\item CSA: CSA también ha mostrado un rendimiento bueno y consistente, con medianas bajas y poca dispersión, aunque no siempre tan destacado como GWO.
+	
+	\item HHO: Generalmente tiene un buen rendimiento, aunque en algunas mostró una mediana ligeramente más alta comparada con los mejores. Se puede considerar que tiene un rendimiento intermedio a bueno.
+	
+	\item TSO: En la mayoría de los boxplots, TSO ha mostrado tener el peor rendimiento, con medianas altas y una dispersión que indica resultados menos óptimos y mayor variabilidad.
+	
 \end{itemize}
+\noindent Mejor Rendimiento: GWO se destaca consistentemente como el algoritmo con el mejor rendimiento.
+Rendimiento Intermedio: HHO muestra un rendimiento generalmente bueno, pero no alcanza la consistencia del mejor algoritmo, ubicándose en un nivel intermedio.
 % Dimension 8
 \begin{figure}
 	\centering
@@ -1320,9 +1498,14 @@ El forrajeo parabólico se describe como:
 \end{figure}
 \subsubsection{Dimensión 9}
 \begin{itemize}
-	\item el Mejor
-	\item rendimiento medio
-	\item el peor
+	\item GWO ha mostrado un rendimiento sobresaliente a través de las diferentes figuras. Posee una mediana consistentemente alta y una variabilidad baja, lo cual indica un rendimiento eficaz y consistente en la segmentación de imágenes.
+	
+	\item Algoritmos como CSA y TSO han mostrado resultados buenos y consistentes en varias figuras, pero con un rango de rendimiento que generalmente se encuentra entre el mejor y el peor, indicando un rendimiento medio.
+	HBA y OPA también se encuentran en esta categoría, ya que no han tenido la consistencia o los valores de mediana más altos de GWO, pero aún así han superado a los algoritmos de peor rendimiento.
+	Peor rendimiento:
+	
+	\item El RSA ha demostrado tener el peor rendimiento en la mayoría de las figuras analizadas, con la mediana más baja y una mayor variabilidad en los resultados.
+	
 \end{itemize}
 % Dimension 9
 \begin{figure}
@@ -1346,7 +1529,190 @@ El forrajeo parabólico se describe como:
 	\label{fig:imagenes}    
 \end{figure}
 
+\subsection{Resultados Función PSNR Otsu}
+\subsubsection{Dimensión 7}
+\begin{itemize}
+\item El RSA muestra una mediana en un nivel medio comparado con los demás algoritmos y un rango intercuartílico estrecho, lo que sugiere consistencia en la calidad de las imágenes.
+Sin embargo, la presencia de valores atípicos altos sugiere que en algunas instancias, puede alcanzar una calidad excepcionalmente alta.
 
+\item HBA tiene una mediana ligeramente superior a la de RSA, indicando un rendimiento medio en general. No obstante, su rango intercuartílico es más amplio y tiene varios valores atípicos en el extremo inferior, lo que puede indicar una menor consistencia en comparación con RSA.
+\item OPA presenta una mediana comparable a la de HBA, pero con un rango intercuartílico más amplio, lo que indica una mayor variabilidad en la calidad de reconstrucción de las imágenes. Los valores atípicos bajos sugieren que puede haber instancias de rendimiento significativamente peor.
+
+\item BES tiene la mediana más baja entre los primeros cuatro algoritmos, con un rango intercuartílico muy amplio, lo que indica una alta variabilidad en la calidad de las imágenes. La presencia de un valor atípico muy alto indica que bajo ciertas condiciones podría alcanzar una calidad muy alta, aunque estos casos parecen ser excepcionales.
+
+\item El algoritmo GWO muestra una mediana que está entre las más altas y un IQR estrecho, lo que sugiere una buena consistencia en la calidad de reconstrucción de las imágenes. La ausencia de valores atípicos indica que su rendimiento es predecible y confiable.
+
+\item CSA presenta resultados muy similares a GWO, con una mediana alta y un rango intercuartílico estrecho, lo que sugiere un rendimiento consistente y confiable. La presencia de un único valor atípico bajo no afecta significativamente su evaluación general.
+
+\item HHO tiene una mediana más baja comparada con GWO y CSA, y un rango intercuartílico mediano. Esto sugiere un rendimiento generalmente bueno pero con una variabilidad más alta que los líderes (GWO y CSA).
+\item TSO tiene la mediana más baja de todos, lo que indica el rendimiento más bajo en términos de calidad de imagen. A pesar de tener un rango intercuartílico estrecho, los valores atípicos altos sugieren que puede haber casos aislados de buen rendimiento, pero no son suficientes para elevar su evaluación general.
+\end{itemize}
+
+\noindent En general el mejor rendimiento: GWO y CSA son los algoritmos con el mejor rendimiento, mostrando medianas altas y consistencia en los resultados del PSNR, mientras que RSA, HBA y OPA tienen un rendimiento medio con una variabilidad más alta en sus resultados y BES y TSO se encuentran en el extremo inferior de rendimiento, con TSO como el que tiene el rendimiento más bajo debido a su baja mediana de PSNR. BES, aunque tiene un rendimiento medio-bajo, tiene la posibilidad de alcanzar resultados altos de forma atípica.
+% Dimension 7 PSNR OTSU
+\begin{figure}
+	\centering
+	\begin{subfigure}{0.4\textwidth}
+		\includegraphics[width=\linewidth]{PSNR/Otsu/Dim7/PSNR_Dim7_Otsu_1_6.png}
+	\end{subfigure}
+	
+	\begin{subfigure}{0.4\textwidth}
+		\includegraphics[width=\linewidth]{PSNR/Otsu/Dim7/PSNR_Dim7_Otsu_7_12.png}
+	\end{subfigure}
+	\begin{subfigure}{0.4\textwidth}
+		\includegraphics[width=\linewidth]{PSNR/Otsu/Dim7/PSNR_Dim7_Otsu_13_18.png}
+	\end{subfigure}
+	\begin{subfigure}{0.4\textwidth}
+		\includegraphics[width=\linewidth]{PSNR/Otsu/Dim7/PSNR_Dim7_Otsu_19_20.png}
+		\vspace{-120pt} % Ajusta este valor según sea necesario
+	\end{subfigure}
+	\caption{Boxplot de los valores PSNR por cada imagen en la dimensión 7, desde la imagen 1 hasta la imagen 20,Función Objetivo Otsu}
+	\label{fig:imagenes}    
+\end{figure}
+\subsubsection{Dimensión 8}
+\begin{itemize}
+\item RSA la mediana está por debajo de 20, con varios valores atípicos por encima de la caja. La variabilidad es considerable, indicada por el rango intercuartílico (la altura de la caja) y los bigotes extensos. Esto sugiere que el RSA tiene un rendimiento inconsistente.
+
+\item HBA con una mediana ligeramente superior a la del RSA y menos valores atípicos. La caja y los bigotes indican una variabilidad similar al RSA. La presencia de valores atípicos hacia abajo sugiere que el HBA puede tener casos donde el rendimiento es significativamente peor que el promedio.
+
+\item OPA tiene una mediana cercana a 20 y una variabilidad moderada, con menos valores atípicos que RSA y HBA. Esto indica un rendimiento más consistente pero aún con fluctuaciones.
+
+\item BES presenta la mediana más baja, lo que sugiere un rendimiento promedio inferior. Tiene una alta variabilidad y el mayor número de valores atípicos, lo que indica que su rendimiento puede ser bastante impredecible.
+
+\item GWO se observa una mediana alrededor de los 20 con una de las variabilidades más bajas y sin valores atípicos, lo que sugiere que GWO tiene un rendimiento consistente y predecible.
+
+\item CSA presenta una mediana similar a GWO y también una baja variabilidad, lo que indica un rendimiento consistente. Tiene un valor atípico, pero en general parece ser una opción confiable.
+
+\item HHO con una mediana en el mismo rango que GWO y CSA, y una variabilidad ligeramente mayor, el HHO sigue siendo un algoritmo con buen rendimiento. La presencia de valores atípicos indica que puede tener casos de rendimiento tanto muy buenos como malos.
+
+\item TSO a pesar de tener la media y la mediana más alta, se observa que tiene una variabilidad significativa, lo que indica que mientras que algunos de sus resultados son muy buenos, otros pueden ser mucho más bajos. La presencia de un valor atípico extremo hacia abajo sugiere que en ciertos casos, su rendimiento puede ser considerablemente peor que el promedio.
+\end{itemize}
+\noindent Al revisar detenidamente, los algoritmos GWO, CSA y HHO muestran un rendimiento más consistente y predecible que TSO, a pesar de que este último tiene valores máximos más altos. Esto se debe a su variabilidad comparativamente alta y presencia de valores atípicos. Para aplicaciones donde la consistencia es tan importante como la calidad máxima, GWO, CSA y HHO pueden ser preferibles. BES, con la variabilidad más alta y la mediana más baja, parece ser el menos deseable. La elección del algoritmo debería basarse en el equilibrio entre la calidad promedio deseada de la reconstrucción de imagen y la tolerancia a la variabilidad en los resultados.
+% Dimension 8 PSNR OTSU
+\begin{figure}
+	\centering
+	\begin{subfigure}{0.4\textwidth}
+		\includegraphics[width=\linewidth]{PSNR/Otsu/Dim8/PSNR_Dim8_Otsu_1_6.png}
+	\end{subfigure}
+	
+	\begin{subfigure}{0.4\textwidth}
+		\includegraphics[width=\linewidth]{PSNR/Otsu/Dim8/PSNR_Dim8_Otsu_7_12.png}
+	\end{subfigure}
+	\begin{subfigure}{0.4\textwidth}
+		\includegraphics[width=\linewidth]{PSNR/Otsu/Dim8/PSNR_Dim8_Otsu_13_18.png}
+	\end{subfigure}
+	\begin{subfigure}{0.4\textwidth}
+		\includegraphics[width=\linewidth]{PSNR/Otsu/Dim8/PSNR_Dim8_Otsu_19_20.png}
+		\vspace{-120pt} % Ajusta este valor según sea necesario
+	\end{subfigure}
+	\caption{Boxplot de los valores PSNR por cada imagen en la dimensión 8, desde la imagen 1 hasta la imagen 20,Función Objetivo Otsu}
+	\label{fig:imagenes}    
+\end{figure}
+
+\subsubsection{Dimensión 9}
+\begin{itemize}
+\item RSA tiende a una variabilidad moderada. Esto sugiere un rendimiento generalmente confiable y consistente en diferentes imágenes.
+\item HBA Muestra una mediana ligeramente variable, generalmente en el rango medio bajo, Su rendimiento es menos consistente que el de RSA.
+\item OPA presenta medianas similares a las de HBA, con variabilidades moderadas a altas y algunos valores atípicos. Esto indica un rendimiento medio con cierta inconsistencia.
+\item BES tiene las medianas más bajas y alta variabilidad en todos los conjuntos de datos, lo que indica un rendimiento generalmente inferior y poco fiable.
+\item GWO muestra medianas consistentemente altas y variabilidades moderadas sin muchos valores atípicos. Esto sugiere que GWO es generalmente robusto y confiable.
+\item CSA Tiene medianas altas y las variabilidades más bajas en la mayoría de los conjuntos de datos. CSA parece ofrecer el equilibrio más consistente entre calidad y fiabilidad.
+\item HHO presenta un comportamiento similar a GWO y CSA, con medianas altas y variabilidad moderada a baja. Es otro algoritmo robusto y confiable.
+\item TSO Aunque en un caso (F7) TSO mostró la mediana más alta, en general su rendimiento es muy variable, con la mayor dispersión en todos los conjuntos de datos. Esto indica que mientras tiene el potencial de lograr una alta calidad de reconstrucción, su rendimiento es inconsistente.
+	
+\end{itemize}
+\noindent En General CSA y HHO parecen ser los más consistentes a través de los diferentes conjuntos de datos, ofreciendo un buen equilibrio entre alta calidad de reconstrucción y baja variabilidad.
+
+\noindent Mejor rendimiento promedio GWO también ofrece un buen rendimiento, pero con ligeramente más variabilidad que CSA y HHO.
+
+\noindent Inconsistencia TSO, a pesar de tener un buen rendimiento en algunos casos, es el más inconsistente, lo que puede ser problemático en aplicaciones donde la fiabilidad es crítica.
+
+\noindent Menor rendimiento BES parece ser el menos confiable y el que tiene un rendimiento más bajo en promedio.
+% Dimension 9 PSNR OTSU
+\begin{figure}
+	\centering
+	\begin{subfigure}{0.4\textwidth}
+		\includegraphics[width=\linewidth]{PSNR/Otsu/Dim9/PSNR_Dim9_Otsu_1_6.png}
+	\end{subfigure}
+	
+	\begin{subfigure}{0.4\textwidth}
+		\includegraphics[width=\linewidth]{PSNR/Otsu/Dim9/PSNR_Dim9_Otsu_7_12.png}
+	\end{subfigure}
+	\begin{subfigure}{0.4\textwidth}
+		\includegraphics[width=\linewidth]{PSNR/Otsu/Dim9/PSNR_Dim9_Otsu_13_18.png}
+	\end{subfigure}
+	\begin{subfigure}{0.4\textwidth}
+		\includegraphics[width=\linewidth]{PSNR/Otsu/Dim9/PSNR_Dim9_Otsu_19_20.png}
+		\vspace{-120pt} % Ajusta este valor según sea necesario
+	\end{subfigure}
+	\caption{Boxplot de los valores PSNR por cada imagen en la dimensión 9, desde la imagen 1 hasta la imagen 20,Función Objetivo Otsu}
+	\label{fig:imagenes}    
+\end{figure}
+
+\subsection{Resultados Función SSIM Otsu}
+\subsubsection{Dimensión 7}
+% Dimension 7 SSIM OTSU
+\begin{figure}
+	\centering
+	\begin{subfigure}{0.4\textwidth}
+		\includegraphics[width=\linewidth]{SSIM/Otsu/Dim7/SSIM_Dim7_Otsu_1_6.png}
+	\end{subfigure}
+	
+	\begin{subfigure}{0.4\textwidth}
+		\includegraphics[width=\linewidth]{SSIM/Otsu/Dim7/SSIM_Dim7_Otsu_7_12.png}
+	\end{subfigure}
+	\begin{subfigure}{0.4\textwidth}
+		\includegraphics[width=\linewidth]{SSIM/Otsu/Dim7/SSIM_Dim7_Otsu_13_18.png}
+	\end{subfigure}
+	\begin{subfigure}{0.4\textwidth}
+		\includegraphics[width=\linewidth]{SSIM/Otsu/Dim7/SSIM_Dim7_Otsu_19_20.png}
+		\vspace{-120pt} % Ajusta este valor según sea necesario
+	\end{subfigure}
+	\caption{Boxplot de los valores SSIM por cada imagen en la dimensión 7, desde la imagen 1 hasta la imagen 20,Función Objetivo Otsu}
+	\label{fig:imagenes}    
+\end{figure}
+\subsubsection{Dimensión 8}
+% Dimension 8 SSIM OTSU
+\begin{figure}
+	\centering
+	\begin{subfigure}{0.4\textwidth}
+		\includegraphics[width=\linewidth]{SSIM/Otsu/Dim8/SSIM_Dim8_Otsu_1_6.png}
+	\end{subfigure}
+	
+	\begin{subfigure}{0.4\textwidth}
+		\includegraphics[width=\linewidth]{SSIM/Otsu/Dim8/SSIM_Dim8_Otsu_7_12.png}
+	\end{subfigure}
+	\begin{subfigure}{0.4\textwidth}
+		\includegraphics[width=\linewidth]{SSIM/Otsu/Dim8/SSIM_Dim8_Otsu_13_18.png}
+	\end{subfigure}
+	\begin{subfigure}{0.4\textwidth}
+		\includegraphics[width=\linewidth]{SSIM/Otsu/Dim8/SSIM_Dim8_Otsu_19_20.png}
+		\vspace{-120pt} % Ajusta este valor según sea necesario
+	\end{subfigure}
+	\caption{Boxplot de los valores SSIM por cada imagen en la dimensión 8, desde la imagen 1 hasta la imagen 20,Función Objetivo Otsu}
+	\label{fig:imagenes}    
+\end{figure}
+\subsubsection{Dimensión 9}
+% Dimension 9 SSIM OTSU
+\begin{figure}
+	\centering
+	\begin{subfigure}{0.4\textwidth}
+		\includegraphics[width=\linewidth]{SSIM/Otsu/Dim9/SSIM_Dim9_Otsu_1_6.png}
+	\end{subfigure}
+	
+	\begin{subfigure}{0.4\textwidth}
+		\includegraphics[width=\linewidth]{SSIM/Otsu/Dim9/SSIM_Dim9_Otsu_7_12.png}
+	\end{subfigure}
+	\begin{subfigure}{0.4\textwidth}
+		\includegraphics[width=\linewidth]{SSIM/Otsu/Dim9/SSIM_Dim9_Otsu_13_18.png}
+	\end{subfigure}
+	\begin{subfigure}{0.4\textwidth}
+		\includegraphics[width=\linewidth]{SSIM/Otsu/Dim9/SSIM_Dim9_Otsu_19_20.png}
+		\vspace{-120pt} % Ajusta este valor según sea necesario
+	\end{subfigure}
+	\caption{Boxplot de los valores SSIM por cada imagen en la dimensión 9, desde la imagen 1 hasta la imagen 20,Función Objetivo Otsu}
+	\label{fig:imagenes}    
+\end{figure}
 
 \subsection{Comparación bajo la métrica fitness}
 %% Analisis de la tabla 1 
@@ -1564,79 +1930,6 @@ El forrajeo parabólico se describe como:
 %%%%Analisis boxplot PSNR
 \noindent Los boxplots en la Figura \ref{fig:imagenesPSNRbox} ilustran el PSNR obtenido por diferentes técnicas de optimización en cuatro imágenes. TSO muestra una variabilidad extremadamente alta en las Imágenes 1 y 3, posiblemente indicando resultados anómalos o inconsistencias en la técnica. GWO, HBA y OPA mantienen un rango medio de PSNR más consistente en todas las imágenes, lo que sugiere una mayor fiabilidad en la mejora de la calidad de imagen. BES muestra una variabilidad considerable, especialmente en la Imagen 2. RSA presenta los valores más bajos de PSNR en las Imágenes 1 y 3, lo cual podría ser indicativo de un rendimiento subóptimo en la preservación de la calidad de imagen en esas instancias
 
-% Boxplot de la 1 a la imagen 20 funcion PSNR
-% Dimension 7
-\begin{figure}[htbp]
-	\centering
-	\begin{subfigure}{0.4\textwidth}
-		\includegraphics[width=\linewidth]{PSNR/Kapur/Dim7/PSNR_Dim7_Kapur_1_6.png}
-	\end{subfigure}
-	
-	\begin{subfigure}{0.4\textwidth}
-		\includegraphics[width=\linewidth]{PSNR/Kapur/Dim7/PSNR_Dim7_Kapur_7_12.png}
-	\end{subfigure}
-	\begin{subfigure}{0.4\textwidth}
-		\includegraphics[width=\linewidth]{PSNR/Kapur/Dim7/PSNR_Dim7_Kapur_13_18.png}
-		%\vspace{-150pt} % Ajusta este valor según sea necesario
-	\end{subfigure}  
-	\begin{subfigure}{0.4\textwidth}
-		\includegraphics[width=\linewidth]{PSNR/Kapur/Dim7/PSNR_Dim7_Kapur_19_20.png}
-		\vspace{-120pt} % Ajusta este valor según sea necesario
-	\end{subfigure}
-	\caption{Boxplot de los valores PSNR por cada imagen en la dimensión 7, desde la imagen 1 hasta la imagen 20,Función Entropia de Kapur}
-	\label{fig:imagenes}    
-\end{figure}
-
-%% Boxplot de los valores PSNR por cada imagen en la dimensión 8, desde la imagen 1 hasta la imagen 20, Función Entropía de Kapur
-\begin{figure}[htbp] % 'htbp' indica las preferencias de ubicación: aquí, arriba, abajo, en una página especial de figuras.
-	\centering % Esto centrará las imágenes
-	\begin{subfigure}{0.4\textwidth}
-		\includegraphics[width=\linewidth]{PSNR/Kapur/Dim8/PSNR_Dim8_Kapur_1_6.png}
-	\end{subfigure}
-	
-	\begin{subfigure}{0.4\textwidth}
-		\includegraphics[width=\linewidth]{PSNR/Kapur/Dim8/PSNR_Dim8_Kapur_7_12.png}
-	\end{subfigure}
-	
-	\begin{subfigure}{0.4\textwidth}
-		\includegraphics[width=\linewidth]{PSNR/Kapur/Dim8/PSNR_Dim8_Kapur_13_18.png}
-	\end{subfigure}
-	
-	\begin{subfigure}{0.4\textwidth}
-		\includegraphics[width=\linewidth]{PSNR/Kapur/Dim8/PSNR_Dim8_Kapur_19_20.png}
-		\vspace{-120pt} % Ajusta este valor según sea necesario
-		% Elimina o ajusta el \vspace si es necesario. Aquí se ha eliminado para evitar solapamientos.
-	\end{subfigure}
-	\caption{Boxplot de los valores PSNR por cada imagen en la dimensión 8, desde la imagen 1 hasta la imagen 20, Función Entropía de Kapur.}
-	\label{fig:imagenes_dim8_1_20}    
-\end{figure}
-
-
-
-%% Dimension 9
-\begin{figure}[htbp]
-	\centering
-	\begin{subfigure}{0.4\textwidth}
-		\includegraphics[width=\linewidth]{PSNR/Kapur/Dim9/PSNR_Dim9_Kapur_1_6.png}
-	\end{subfigure}
-	
-	\begin{subfigure}{0.4\textwidth}
-		\includegraphics[width=\linewidth]{PSNR/Kapur/Dim9/PSNR_Dim9_Kapur_7_12.png}
-	\end{subfigure}
-	\begin{subfigure}{0.4\textwidth}
-		\includegraphics[width=\linewidth]{PSNR/Kapur/Dim9/PSNR_Dim9_Kapur_13_18.png}
-		%\vspace{-150pt} % Ajusta este valor según sea necesario
-	\end{subfigure}   
-	\begin{subfigure}{0.4\textwidth}
-		\includegraphics[width=\linewidth]{PSNR/Kapur/Dim9/PSNR_Dim9_Kapur_19_20.png}
-		\vspace{-120pt} % Ajusta este valor según sea necesario
-	\end{subfigure}
-	\caption{Boxplot de los valores PSNR por cada imagen en la dimensión 9, desde la imagen 1 hasta la imagen 20,Función Entropía de Kapur}
-	\label{fig:imagenes}    
-\end{figure}
-
-
-
 \begin{figure}[htbp]
 	\centering
 	\includegraphics[width=0.5\textwidth]{PSNR/Kapur/Rank_Kapur_PSNR.png}
@@ -1814,74 +2107,6 @@ El forrajeo parabólico se describe como:
 %%analisis BoxPlot SSIM
 \noindent Los boxplots de la Figura \ref{fig:imagenesSSIMbox} representan los valores de SSIM para varias técnicas de optimización en cuatro imágenes distintas. En general, las técnicas exhiben una mediana de SSIM relativamente alta, lo que sugiere una adecuada preservación de la estructura de las imágenes. Sin embargo, BES presenta una mediana significativamente más baja en las Imágenes 1 y 3, lo que indica un rendimiento inferior. La técnica TSO muestra una dispersión de resultados más amplia, especialmente en la Imagen 1, lo que podría reflejar una inconsistencia en la preservación de la estructura de la imagen. GWO, HHO y CSA muestran una menor variabilidad y medianas más altas, indicando un rendimiento más robusto y consistente en la preservación de las características estructurales de las imágenes.
 
-%% Boxplot de los valores SSIM por cada imagen en la dimensión 7, desde la imagen 1 hasta la imagen 20,Función Entropía de Kapur
-\begin{figure}
-	\centering
-	
-	\begin{subfigure}{0.4\textwidth}
-		\includegraphics[width=\linewidth]{SSIM/Kapur/Dim7/SSIM_Dim7_Kapur_1_6.png}
-	\end{subfigure}
-	
-	\begin{subfigure}{0.4\textwidth}
-		\includegraphics[width=\linewidth]{SSIM/Kapur/Dim7/SSIM_Dim7_Kapur_7_12.png}
-	\end{subfigure}
-	\begin{subfigure}{0.4\textwidth}
-		\includegraphics[width=\linewidth]{SSIM/Kapur/Dim7/SSIM_Dim7_Kapur_13_18.png}
-		%\vspace{-150pt} % Ajusta este valor según sea necesario
-	\end{subfigure}   
-	\begin{subfigure}{0.4\textwidth}
-		\includegraphics[width=\linewidth]{SSIM/Kapur/Dim7/SSIM_Dim7_Kapur_19_20.png}
-		\vspace{-120pt} % Ajusta este valor según sea necesario
-	\end{subfigure}
-	\caption{Boxplot de los valores SSIM por cada imagen en la dimensión 7, desde la imagen 1 hasta la imagen 20,Función Entropía de Kapur}
-	\label{fig:imagenes}    
-\end{figure}
-
-%% Boxplot de los valores SSIM por cada imagen en la dimensión 8, desde la imagen 1 hasta la imagen 20,Función Entropía de Kapur
-\begin{figure}
-	\centering
-	
-	\begin{subfigure}{0.4\textwidth}
-		\includegraphics[width=\linewidth]{SSIM/Kapur/Dim8/SSIM_Dim8_Kapur_1_6.png}
-	\end{subfigure}
-	
-	\begin{subfigure}{0.4\textwidth}
-		\includegraphics[width=\linewidth]{SSIM/Kapur/Dim8/SSIM_Dim8_Kapur_7_12.png}
-	\end{subfigure}  
-	\begin{subfigure}{0.4\textwidth}
-		\includegraphics[width=\linewidth]{SSIM/Kapur/Dim8/SSIM_Dim8_Kapur_13_18.png}
-		%\vspace{-150pt} % Ajusta este valor según sea necesario
-	\end{subfigure}   
-	\begin{subfigure}{0.4\textwidth}
-		\includegraphics[width=\linewidth]{SSIM/Kapur/Dim8/SSIM_Dim8_Kapur_19_20.png}
-		\vspace{-120pt} % Ajusta este valor según sea necesario
-	\end{subfigure}
-	\caption{Boxplot de los valores SSIM por cada imagen en la dimensión 8, desde la imagen 1 hasta la imagen 20,Función Entropía de Kapur}
-	\label{fig:imagenes}    
-\end{figure}
-
-%% Boxplot de los valores SSIM por cada imagen en la dimensión 9, desde la imagen 11 hasta la imagen 20,Función Entropía de Kapur
-\begin{figure}
-	\centering
-	
-	\begin{subfigure}{0.4\textwidth}
-		\includegraphics[width=\linewidth]{SSIM/Kapur/Dim9/SSIM_Dim9_Kapur_1_6.png}
-	\end{subfigure}
-	
-	\begin{subfigure}{0.4\textwidth}
-		\includegraphics[width=\linewidth]{SSIM/Kapur/Dim9/SSIM_Dim9_Kapur_7_12.png}
-	\end{subfigure}
-	\begin{subfigure}{0.4\textwidth}
-		\includegraphics[width=\linewidth]{SSIM/Kapur/Dim9/SSIM_Dim9_Kapur_13_18.png}
-		%\vspace{-150pt} % Ajusta este valor según sea necesario
-	\end{subfigure}   
-	\begin{subfigure}{0.4\textwidth}
-		\includegraphics[width=\linewidth]{SSIM/Kapur/Dim9/SSIM_Dim9_Kapur_19_20.png}
-		\vspace{-120pt} % Ajusta este valor según sea necesario
-	\end{subfigure}
-	\caption{Boxplot de los valores SSIM por cada imagen en la dimensión 9, desde la imagen 11 hasta la imagen 20,Función Entropía de Kapur}
-	\label{fig:imagenes}    
-\end{figure}
 
 \begin{figure}[!htb]
 	\centering
