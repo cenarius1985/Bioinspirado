@@ -46,7 +46,7 @@ emilio.flores@postgrado.uv.cl}
 \maketitle
 
 \begin{abstract}
-\noindent El hueso cortical conforma cerca del 80\% del esqueleto humano, tiene una importancia crítica en funciones vitales. Para determinar el estado del hueso cortical se utilizan índices de porosidad y técnicas avanzadas de resonancia magnética, en donde se mide la cantidad de agua libre y el agua ligada en el hueso utilizando tiempos de eco ultracortos (UTE). Una forma efectiva de comparar estas señales de agua es mediante la segmentación de la imagen para extraer la región de interés. La segmentación es realizada de manera no supervisada, utilizando la entropía Kapur, Otsu multiumbral y algoritmos de optimización metaheurísticos para hallar los umbrales óptimos. Se realiza una comparación de 8 algoritmos: RSA, OPA, BES, GWO, CSA, HHO y TSO mediante las métricas Fitness, PSNR y SSIM. El aporte al estado del arte radica en que estos algoritmos no han sido utilizados para la segmentación de imágenes de hueso cortical en resonancia magnética de bajo campo. Los resultados indican que los algoritmos GWO y TSO poseen un mejor desempeño en la optimización de la entropía de Kapur y Otsu, además existe un mejor rendimiento en la función objetivo basada en Otsu. Por otro lado, no existe diferencia significativa en la métrica PSNR con los algoritmos GWO, CSA, HBA y OPA. Finalmente, se determinó una diferencia significativa en el desempeño de la métrica SSIM con el algoritmo GWO. Se concluye, que el algoritmo GWO y la función Objetivo basada en Otsu presentan un mejor desempeño en líneas generales para las métricas Fitness, PSNR, SSIM y tiempo de ejecución.
+\noindent El hueso cortical conforma cerca del 80\% del esqueleto humano, tiene una importancia crítica en funciones vitales. Para determinar el estado del hueso cortical se utilizan índices de porosidad y técnicas avanzadas de resonancia magnética, en donde se mide la cantidad de agua libre y el agua ligada en el hueso utilizando tiempos de eco ultracortos (UTE). Una forma efectiva de comparar estas señales de agua es mediante la segmentación de la imagen para extraer la región de interés. La segmentación es realizada de manera no supervisada, utilizando la entropía Kapur, Otsu multiumbral y algoritmos de optimización metaheurísticos para hallar los umbrales óptimos. Se realiza una comparación de 8 algoritmos: RSA, HBA, OPA, BES, GWO, CSA, HHO y TSO mediante las métricas Fitness, PSNR y SSIM. El aporte al estado del arte radica en que estos algoritmos no han sido utilizados para la segmentación de imágenes de hueso cortical en resonancia magnética de bajo campo. Los resultados indican que los algoritmos GWO y TSO poseen un mejor desempeño en la optimización de la entropía de Kapur y Otsu, además existe un mejor rendimiento en la función objetivo basada en Otsu. Por otro lado, no existe diferencia significativa en la métrica PSNR con los algoritmos GWO, CSA, HBA y OPA. Finalmente, se determinó una diferencia significativa en el desempeño de la métrica SSIM con el algoritmo GWO. Se concluye, que el algoritmo GWO y la función Objetivo basada en Otsu presentan un mejor desempeño en líneas generales para las métricas Fitness, PSNR, SSIM y tiempo de ejecución.
 
 \end{abstract}
 
@@ -809,7 +809,7 @@ El ataque de las Orcas se puede modelar como sigue:
 	\label{eq13}
 \end{flalign}
 
-La posición promedio se puede calcular mediante:
+\noindent La posición promedio se puede calcular mediante:
 \begin{equation}
 	X_m (t) = \frac{1}{N} \sum_{i=1}^{N} X_i(t) 
 	\label{eq14}
@@ -1052,6 +1052,7 @@ El ataque de las Orcas se puede modelar como sigue:
 \noindent La fase de exploración está definida por:
 
 \begin{equation}
+	\small
 	\begin{gathered}
 		x_{(i,j)}(t+1)=\\
 		\begin{cases}
@@ -1122,6 +1123,7 @@ donde $X_{\text{inti}}$ es el $i$-ésimo individuo inicial, $ub$ y $lb$ son los 
 \subsubsection{Forrajeo Espiral}
 El forrajeo espiral se modela como sigue, ajustando la posición de los atunes hacia un punto óptimo o un punto de referencia aleatorio basado en la fase de la iteración:
 \begin{equation}
+	\small
 	\begin{gathered}
 		X_{t+1}^i = \\
 		\quad
@@ -1138,6 +1140,7 @@ donde $\alpha_1$, $\alpha_2$ son coeficientes de peso, $\beta$ es una función q
 \subsubsection{Forrajeo Parabólico}
 El forrajeo parabólico se describe como:
 \begin{equation}
+	\small
 	\begin{gathered}
 		X_{t+1}^i = \\
 		\begin{cases}
@@ -1266,10 +1269,24 @@ El forrajeo parabólico se describe como:
 \subsection{Resultados Función PSNR Entropia de Kapur}
 \subsubsection{Dimensión 7}
 \begin{itemize}
-	\item 
-	\item 
+\item RSA: Este algoritmo ha mostrado un rendimiento promedio a lo largo de los diferentes boxplots, con una variabilidad moderada y pocos valores atípicos, lo que indica una consistencia razonable.
+	
+\item HBA: Generalmente presenta una mediana en el rango medio o ligeramente por debajo del promedio, con variabilidad moderada. En ocasiones, muestra valores atípicos que sugieren que puede tener episodios de rendimiento tanto superiores como inferiores al promedio.
+	
+\item OPA: Exhibe un rendimiento similar al RSA y HBA con una variabilidad comparable. Tiende a tener menos valores atípicos, lo que podría indicar un rendimiento más consistente en algunos casos.
+	
+\item BES: Este algoritmo consistentemente ha mostrado una mediana baja a través de los distintos boxplots, acompañada de una alta variabilidad. Esto sugiere un rendimiento generalmente más bajo y menos predecible.
+	
+\item GWO: Muestra un rendimiento medio con variabilidad moderada en la mayoría de los boxplots. En general, parece ser un algoritmo con un rendimiento estable, aunque no sobresaliente.
+	
+\item CSA: Tiene una mediana alta en la mayoría de los boxplots y una variabilidad moderada a baja, lo que indica un rendimiento generalmente bueno y consistente, convirtiéndolo en uno de los algoritmos más fiables de los evaluados.
+
+\item HHO: Este algoritmo también muestra una mediana alta y una variabilidad moderada, similar al CSA, lo que sugiere un rendimiento robusto y confiable.
+	
+\item TSO: Aunque este algoritmo a menudo tiene la mediana más alta, también presenta una variabilidad considerable, lo que indica que mientras puede ofrecer el mejor rendimiento en términos de la métrica promedio, su consistencia es variable y puede tener episodios de rendimiento tanto muy altos como muy bajos.
 	
 \end{itemize}
+\noindent En resumen, el CSA y el HHO parecen ser los algoritmos más confiables y consistentes en términos de las métricas evaluadas. El TSO, aunque potencialmente ofrece el mejor rendimiento, tiene una consistencia cuestionable. El BES parece ser el menos fiable debido a su bajo rendimiento y alta variabilidad. Los algoritmos RSA, HBA, y OPA ofrecen un rendimiento intermedio y una consistencia razonable, mientras que el GWO se mantiene en un rendimiento medio sin destacar particularmente en ninguna métrica.
 % Boxplot de la 1 a la imagen 20 funcion PSNR
 % Dimension 7
 \begin{figure}[htbp]
@@ -1294,6 +1311,24 @@ El forrajeo parabólico se describe como:
 \end{figure}
 
 \subsubsection{Dimensión 8}
+\begin{itemize}
+\item RSA: Este algoritmo ha mostrado una mediana de PSNR generalmente en el rango medio a alto en todas las imágenes, con una variabilidad moderada. Esto indica un rendimiento consistente con una calidad de imagen fiable en diferentes instancias.
+
+\item HBA: El HBA ha tenido un rendimiento similar al RSA con medianas de PSNR en el rango medio. La variabilidad ha sido moderada, y la presencia de algunos valores atípicos sugiere que puede alcanzar altos niveles de calidad en ciertas condiciones.
+
+\item OPA: El OPA ha exhibido medianas de PSNR en el rango medio con variabilidad moderada en todas las imágenes. Esto apunta a un rendimiento promedio sin grandes fluctuaciones, lo cual es deseable para aplicaciones que necesitan consistencia.
+
+\item BES: El BES consistentemente ha mostrado las medianas más bajas de PSNR y alta variabilidad, indicando un rendimiento inferior en términos de calidad de imagen en comparación con los demás algoritmos.
+
+\item GWO: Este algoritmo ha tenido medianas de PSNR generalmente en el rango medio y variabilidad moderada, lo que indica un rendimiento promedio en términos de calidad de imagen.
+
+\item CSA: El CSA ha tenido medianas de PSNR altas en la mayoría de los boxplots, con variabilidad moderada. Esto señala un rendimiento consistente y robusto, lo que lo hace confiable para obtener una alta calidad de imagen.
+
+\item HHO: Similar al CSA, el HHO ha mostrado medianas de PSNR altas y variabilidad moderada en todas las imágenes, lo que indica un rendimiento de alta calidad y fiabilidad.
+
+\item TSO: Aunque el TSO ha tenido las medianas más altas de PSNR, indicando el potencial para la mejor calidad de imagen, también ha mostrado una variabilidad significativa. Esto implica que su rendimiento puede ser el mejor en promedio, pero con una consistencia que puede ser problemática para algunas aplicaciones.
+\end{itemize}
+En resumen, CSA y HHO han demostrado ser los algoritmos más fiables y consistentes en términos de calidad de imagen a través de las diferentes imágenes examinadas. TSO ha mostrado un potencial de alta calidad, pero con inconsistencias. BES ha sido el menos fiable y con el rendimiento más bajo. Los algoritmos RSA, HBA, y OPA han ofrecido un rendimiento medio y consistente, sin destacar especialmente en ninguna métrica.
 %% Boxplot de los valores PSNR por cada imagen en la dimensión 8, desde la imagen 1 hasta la imagen 20, Función Entropía de Kapur
 \begin{figure}[htbp] % 'htbp' indica las preferencias de ubicación: aquí, arriba, abajo, en una página especial de figuras.
 	\centering % Esto centrará las imágenes
@@ -1319,6 +1354,25 @@ El forrajeo parabólico se describe como:
 \end{figure}
 
 \subsubsection{Dimensión 9}
+\begin{itemize}
+\item RSA: Este algoritmo ha mostrado consistentemente medianas de PSNR en el rango medio a medio-alto, con una variabilidad moderada en todas las imágenes. Esto sugiere un rendimiento confiable y una calidad de imagen generalmente buena.
+	
+\item HBA: Ha mantenido un rendimiento similar al RSA en términos de mediana de PSNR, con variabilidad moderada, lo cual indica un rendimiento sólido.
+	
+\item OPA: Ha exhibido una mediana de PSNR en el rango medio en todas las imágenes, con variabilidad moderada, indicando un rendimiento estable.
+	
+\item BES: Ha mostrado consistentemente las medianas de PSNR más bajas y una alta variabilidad, lo que indica un rendimiento inferior en comparación con los otros algoritmos.
+	
+\item GWO: Aunque no siempre ha tenido la mediana más alta de PSNR, su rendimiento ha sido sólido con una variabilidad relativamente baja en todas las imágenes. Esto sugiere que el GWO es confiable y ofrece una calidad de imagen consistente, clasificándolo entre los algoritmos de mejor rendimiento.
+	
+\item CSA: Este algoritmo ha tenido medianas de PSNR altas con una variabilidad moderada, lo que sugiere un rendimiento excelente y una calidad de imagen fiable.
+	
+\item HHO: Ha mostrado un rendimiento muy similar al CSA, con medianas de PSNR altas y variabilidad moderada, lo que también indica una calidad de imagen alta y consistente.
+	
+\item TSO: A pesar de tener las medianas más altas de PSNR, que señalan la mejor calidad de imagen teórica, la alta variabilidad sugiere que su rendimiento es inconsistente en comparación con los demás.
+	
+\end{itemize}
+En resumen, el GWO se ha destacado por su confiabilidad y calidad de imagen consistente, haciéndolo uno de los mejores algoritmos junto con el CSA y el HHO. Estos tres algoritmos demuestran ser opciones robustas para aplicaciones que dependen de la alta calidad de la imagen y la consistencia. El TSO, aunque tiene el potencial de alta calidad, requiere consideración debido a su variabilidad. El BES parece ser el menos favorable en términos de rendimiento global. Los algoritmos RSA, HBA, y OPA proporcionan un rendimiento intermedio con una calidad de imagen fiable y consistentemente buena.
 %% Dimension 9
 \begin{figure}[htbp]
 	\centering
@@ -1342,6 +1396,25 @@ El forrajeo parabólico se describe como:
 \end{figure}
 \subsection{Resultados Función SSIM Entropía de Kapur}
 \subsubsection{Dimensión 7}
+\begin{itemize}
+\item RSA: A lo largo de las cuatro últimas imágenes, RSA ha mantenido una mediana de SSIM en el rango medio con una variabilidad moderada. Esto sugiere que RSA ofrece una calidad de imagen razonablemente buena y consistente en diferentes escenarios.
+	
+\item HBA ha demostrado una mediana de SSIM similar a RSA en estas imágenes, con variabilidad moderada. Esto indica un rendimiento comparable en términos de calidad de imagen en diferentes situaciones.
+	
+\item OPA ha exhibido una mediana de SSIM en el rango medio, similar a RSA y HBA, con variabilidad moderada. Esto sugiere una calidad de imagen consistente y razonablemente buena.
+	
+\item BES ha presentado la mediana más baja de SSIM en estas imágenes, lo que indica una calidad de imagen inferior en comparación con otros algoritmos. Además, la variabilidad es alta, lo que sugiere que su rendimiento puede ser menos consistente.
+	
+\item GWO ha mantenido una mediana de SSIM en el rango medio-alto en las últimas cuatro imágenes, con variabilidad relativamente baja. Esto indica que GWO ofrece un rendimiento robusto y consistente en términos de similitud estructural con la imagen de referencia.
+
+\item CSA ha demostrado una mediana de SSIM alta con variabilidad moderada en estas imágenes. Esto sugiere un rendimiento sólido y una calidad de imagen confiable.
+	
+\item HHO ha presentado una mediana de SSIM y variabilidad similares a las de CSA, indicando un rendimiento robusto y fiable en términos de calidad de imagen.
+	
+\item TSO ha mostrado la mediana más alta de SSIM en estas imágenes, lo que indica la mejor similitud estructural con la imagen de referencia. Sin embargo, su variabilidad es significativa, lo que sugiere que su calidad de imagen puede variar ampliamente en diferentes escenarios.
+	
+\end{itemize}
+\noindent En resumen, GWO, CSA y HHO se destacan por ofrecer un rendimiento fuerte y consistente en términos de similitud estructural con la imagen de referencia en las últimas cuatro imágenes. TSO, aunque muestra la calidad potencialmente más alta, es menos confiable debido a su variabilidad. BES parece ser el menos favorable en términos de calidad de imagen y consistencia. RSA, HBA y OPA proporcionan una calidad de imagen razonablemente buena y consistente en diferentes situaciones.
 %% Boxplot de los valores SSIM por cada imagen en la dimensión 7, desde la imagen 1 hasta la imagen 20,Función Entropía de Kapur
 \begin{figure}
 	\centering
@@ -1366,6 +1439,24 @@ El forrajeo parabólico se describe como:
 \end{figure}
 
 \subsubsection{Dimensión 8}
+\begin{itemize}
+\item RSA: Mostró un rendimiento medio a alto en las distintas métricas, con una variabilidad generalmente baja a moderada. Esto sugiere que es un algoritmo consistentemente confiable en la dimensión 8.
+
+\item HBA: Exhibió un rendimiento similar al de RSA, con medianas consistentemente altas y un rango intercuartílico moderado. Parece ser un algoritmo estable con un buen rendimiento general.
+
+\item OPA: Este algoritmo tuvo un rendimiento variable a lo largo de las métricas. Aunque en algunos casos mostró un rendimiento medio, también presentó cierta inconsistencia, como lo indican los valores atípicos y los rangos intercuartílicos más amplios.
+
+\item BES: Generalmente, BES tuvo un rendimiento bajo, especialmente en las métricas F6 y F16, lo que lo identifica como uno de los algoritmos con menor rendimiento en la dimensión 8.
+
+\item GWO: A pesar de tener valores atípicos en algunas métricas, GWO tuvo un buen rendimiento, particularmente destacando en la métrica F16 con una mediana alta, aunque con una variabilidad notable.
+
+\item CSA: Este algoritmo mostró un rendimiento medio en la mayoría de las métricas, con una variabilidad moderada. No fue consistentemente el mejor ni el peor, colocándose en un término medio en términos de rendimiento y estabilidad.
+
+\item HHO: Se mantuvo en el rango medio en términos de rendimiento, con una variabilidad relativamente baja a moderada. No se destacó particularmente ni hacia arriba ni hacia abajo en ninguna de las métricas.
+
+\item TSO: Aunque tuvo el mejor rendimiento en la métrica F16, mostró gran variabilidad en otras métricas. Esta inconsistencia sugiere que, aunque puede ser capaz de alcanzar resultados altos, su rendimiento puede ser impredecible.
+\end{itemize}
+\noindent En resumen, si bien algunos algoritmos como GWO y TSO mostraron altos rendimientos en métricas individuales, RSA y HBA se destacaron por su consistencia y rendimiento general en la dimensión 8. En contraste, BES mostró un área de preocupación debido a su bajo rendimiento. La elección del algoritmo adecuado dependerá del equilibrio entre el rendimiento medio y la consistencia de los resultados según sea prioritario para la aplicación o la investigación en cuestión.
 %% Boxplot de los valores SSIM por cada imagen en la dimensión 8, desde la imagen 1 hasta la imagen 20,Función Entropía de Kapur
 \begin{figure}
 	\centering
@@ -1389,6 +1480,25 @@ El forrajeo parabólico se describe como:
 	\label{fig:imagenes}    
 \end{figure}
 \subsubsection{Dimensión 9}
+\begin{itemize}
+\item RSA: Muestra una consistencia relativamente buena en todas las métricas, con medianas en el rango medio y variabilidad moderada. No sobresale particularmente en ninguna de las métricas, pero tampoco está en el extremo inferior.
+
+\item HBA: Similar a RSA, HBA tiene un rendimiento medio con variabilidad moderada en todas las métricas. No muestra extremos en términos de rendimiento, lo cual podría hacerlo un algoritmo confiable en términos de predecibilidad.
+
+\item OPA: Este algoritmo tiene un rango intercuartílico más amplio en algunas métricas, indicando una mayor variabilidad. Aunque su rendimiento no es el más bajo, la inconsistencia en los resultados podría ser una preocupación.
+
+\item BES: Consistentemente tiene un rendimiento inferior en todas las métricas examinadas, con las medianas más bajas. Esto indica que BES podría no ser adecuado para aplicaciones en la dimensión 9 que requieren un alto rendimiento en estas métricas.
+
+\item GWO: Tiene un buen rendimiento en general, particularmente en las métricas F11 y F16, aunque presenta algunos valores atípicos. La variabilidad es moderada, lo que sugiere que es un algoritmo bastante robusto en esta dimensión.
+
+\item CSA: Muestra un rendimiento medio a bueno con variabilidad moderada en todas las métricas. No es el mejor en ninguna de las métricas, pero su rendimiento es generalmente estable.
+
+\item HHO: Presenta resultados consistentes y medianas que indican un rendimiento medio. Similar a CSA, no tiene el mejor ni el peor rendimiento, manteniéndose en un rango medio en todas las métricas.
+
+\item TSO: A pesar de tener la mediana más alta en la métrica F16, su rendimiento es altamente variable, como lo indican los rangos intercuartílicos grandes en varias métricas. Esto sugiere que, aunque tiene el potencial de alcanzar un alto rendimiento, su comportamiento puede ser impredecible.
+
+\end{itemize}
+\noindent En resumen, mientras que BES parece ser el menos adecuado en la dimensión 9 en base a estas métricas, GWO y CSA muestran un buen equilibrio de rendimiento y consistencia. TSO, aunque a veces alcanza altos valores, su variabilidad puede ser problemática. RSA, HBA, y HHO parecen ser opciones intermedias en términos de rendimiento y estabilidad.
 
 %% Boxplot de los valores SSIM por cada imagen en la dimensión 9, desde la imagen 11 hasta la imagen 20,Función Entropía de Kapur
 \begin{figure}
@@ -1651,6 +1761,19 @@ Sin embargo, la presencia de valores atípicos altos sugiere que en algunas inst
 
 \subsection{Resultados Función SSIM Otsu}
 \subsubsection{Dimensión 7}
+\begin{itemize}
+\item TSO: Mostró un buen rendimiento, lo cual sugiere que es el mejor algoritmo en esta métrica. Sin embargo, para F6, TSO fue uno de los peores, con un rendimiento bajo y una gran variabilidad, lo que sugiere una inconsistencia en su efectividad.
+	
+\item GWO: Consistentemente muestra un rendimiento fuerte, aunque con algo de variabilidad. GWO se considera entre los mejores algoritmos basándonos en estas métricas.
+	
+\item OPA: Exhibe un buen rendimiento en la dimensión 7 para la métrica F6, pero no se destacó tanto en la dimensión 9 ni en la métrica F16. Sin embargo, mantiene un rendimiento medio a alto en general.
+	
+\item BES: Parece ser el peor algoritmo, con la mediana más baja en varias métricas y dimensiones. Aunque sus resultados son algo consistentes, tienden a estar en el extremo inferior del rendimiento.
+	
+\item RSA, HBA, CSA, y HHO: Estos algoritmos generalmente muestran un rendimiento medio. No lideran ni rezagan significativamente en ninguna de las métricas, lo que indica una efectividad consistente y confiable, aunque sin sobresalir.
+
+\end{itemize}
+\noindent 	En resumen, GWO se destaca como el mejor algoritmo general, mostrando fuerte rendimiento y consistencia en la mayoría de las métricas. BES es el peor, y TSO, aunque se destaca en algunas métricas, su rendimiento es inconsistente. RSA, HBA, CSA y HHO ofrecen un rendimiento medio, haciendo de ellos opciones equilibradas.
 % Dimension 7 SSIM OTSU
 \begin{figure}
 	\centering
@@ -1672,6 +1795,19 @@ Sin embargo, la presencia de valores atípicos altos sugiere que en algunas inst
 	\label{fig:imagenes}    
 \end{figure}
 \subsubsection{Dimensión 8}
+\begin{itemize}
+\item TSO: Aunque tuvo un excelente rendimiento en la métrica F13, su desempeño fue más bajo en F20 y varió significativamente en F16, lo que sugiere que TSO puede ser muy eficaz en ciertas métricas mientras que en otras puede no ser tan confiable.
+	
+\item GWO: Consistentemente mostró un rendimiento fuerte y estable en todas las métricas, lo que lo destaca como uno de los mejores algoritmos en términos de rendimiento y consistencia.
+	
+\item BES: Tendió a tener un rendimiento inferior en todas las métricas, lo que lo coloca consistentemente como uno de los algoritmos con peor rendimiento en la dimensión 8.
+	
+\item RSA, HBA, OPA: Estos algoritmos mostraron un rendimiento medio y consistente en todas las métricas, sin destacar particularmente ni por alto ni por bajo rendimiento, lo que los hace fiables para un rendimiento general predecible.
+	
+\item CSA y HHO: Al igual que RSA, HBA y OPA, CSA y HHO tienen un rendimiento medio con variabilidad moderada, situándolos en una posición intermedia fiable en comparación con los demás.
+	
+\end{itemize}
+\noindent En resumen, GWO se destaca como el mejor algoritmo general debido a su alto rendimiento y consistencia a lo largo de las diferentes métricas. BES se identifica como el peor, con un rendimiento consistentemente bajo. RSA, HBA, OPA, CSA y HHO ofrecen un rendimiento intermedio, sin mostrar variabilidad extrema y proporcionando resultados estables. TSO, aunque mostró un alto rendimiento en una métrica, su variabilidad en el rendimiento sugiere que puede no ser confiable en todas las situaciones.
 % Dimension 8 SSIM OTSU
 \begin{figure}
 	\centering
@@ -1693,6 +1829,19 @@ Sin embargo, la presencia de valores atípicos altos sugiere que en algunas inst
 	\label{fig:imagenes}    
 \end{figure}
 \subsubsection{Dimensión 9}
+\begin{itemize}
+\item TSO: Exhibió un rendimiento destacado en algunas imagenes con la mediana más alta, lo que sugiere un alto rendimiento. Sin embargo, en otras imágenes, TSO mostró la mediana más baja, indicando un rendimiento inferior. Esta disparidad en el rendimiento sugiere que TSO puede ser muy efectivo en ciertas condiciones pero no de manera uniforme.
+	
+\item GWO: Se mantuvo con un rendimiento medio-alto en todas las métricas evaluadas. Mostró una mediana alta en F13 y un rendimiento consistente en F16 y F20, sugiriendo que es un algoritmo robusto y confiable en la dimensión 9.
+	
+\item BES: Consistentemente se encontró en el extremo inferior del rendimiento en las métricas F13 y F16 y mostró una mediana baja en F20, aunque no la más baja. Esto indica que BES generalmente no es tan eficaz en la dimensión 9 en comparación con otros algoritmos.
+	
+\item RSA, HBA, OPA: Estos algoritmos mostraron un rendimiento medio en todas las métricas, sin destacar ni por alto ni por bajo rendimiento. Sus rangos intercuartílicos sugieren una variabilidad moderada y resultados predecibles.
+	
+\item CSA, HHO: Ambos también exhibieron un rendimiento medio en todas las métricas. Con rangos intercuartílicos no muy amplios, estos algoritmos parecen ofrecer una buena consistencia en sus resultados, lo que los hace confiables para un rendimiento estable.
+
+\end{itemize}
+\noindent En resumen, GWO se destaca como el más consistente y uno de los mejores algoritmos en la dimensión 9, ofreciendo un buen rendimiento en todas las métricas evaluadas. TSO tiene un rendimiento variable. BES parece tener un rendimiento consistentemente más bajo. RSA, HBA, OPA, CSA y HHO ofrecen un rendimiento medio y constituyen opciones equilibradas y fiables para la optimización en la dimensión 9.
 % Dimension 9 SSIM OTSU
 \begin{figure}
 	\centering
@@ -1730,14 +1879,43 @@ Sin embargo, la presencia de valores atípicos altos sugiere que en algunas inst
 	\centering
 	\includegraphics[width=0.5\textwidth]{Fitness/Kapur/Rank_Kapur_Fitness.png}
 	\caption{Promedio de Rank métrica fitness por dimensión K y funcion objetivo entropia de Kapur}
-	\label{fig:fig510}
+	\label{fig:Fitness_Kapur_Kank}
 \end{figure}
+\noindent Análisis del grafico ~\ref{fig:Fitness_Kapur_Kank}
+\noindent GWO (Gray Wolf Optimizer): Consistentemente tiene los valores de ranking más bajos en todas las dimensiones, lo que indica que es el algoritmo mejor ranqueado y por lo tanto el más eficaz según esta métrica fitness.
+
+\noindent TSO: Muestra una mejora significativa al moverse de la dimensión 7 a la 8 y 9, donde su ranking se vuelve más bajo, indicando un mejor rendimiento en dimensiones más altas.
+
+\noindent RSA y HBA: Estos algoritmos tienen rankings altos en todas las dimensiones, lo que sugiere un rendimiento menos eficaz en comparación con otros algoritmos.
+
+\noindent OPA: Tiene un rendimiento medio-bajo en todas las dimensiones, manteniendo un ranking relativamente constante.
+
+\noindent BES: Aunque tiene un ranking alto en la dimensión 7, muestra una mejora en la dimensión 8 y 9, pero aún así se mantiene como uno de los menos eficaces.
+
+\noindent CSA y HHO: Presentan un rendimiento intermedio, con rankings que varían poco entre las dimensiones, lo que sugiere una eficacia consistente en diferentes dimensiones.
+
+\noindent El mejor algoritmo según este análisis ~\ref{fig:Fitness_Kapur_Kank} es GWO, que mantiene el ranking más bajo en todas las dimensiones. TSO parece ser el más variable, con una mejoría notable al aumentar la dimensión. RSA y HBA están en el extremo inferior, indicando un rendimiento menos satisfactorio en esta métrica específica. Los algoritmos CSA y HHO representan opciones de rendimiento intermedio.
 \begin{figure}[!htb]
 	\centering
 	\includegraphics[width=0.5\textwidth]{Fitness/Otsu/Rank_Otsu_Fitness.png}
 	\caption{Promedio de Rank métrica fitness por dimensión K y funcion objetivo Otsu}
-	\label{fig:fig510}
+	\label{fig:Fitness_Otsu_Kank}
 \end{figure}
+\noindent El gráfico basado en su rendimiento en la métrica de fitness con la función objetivo de Otsu en tres dimensiones diferentes (7, 8 y 9) ~\ref{fig:Fitness_Otsu_Kank}.
+
+\noindent GWO (Gray Wolf Optimizer): Es consistentemente el algoritmo con el ranking más bajo en todas las dimensiones, lo que indica que es el más eficaz y el mejor ranqueado según la métrica de fitness para la función objetivo de Otsu.
+
+\noindent TSO: Presenta una mejora en el ranking al pasar de la dimensión 7 a la 8 y 9, manteniendo una posición como uno de los algoritmos mejor ranqueados.
+
+\noindent RSA y HBA: Estos algoritmos tienen el ranking más alto en todas las dimensiones, lo que sugiere que son los menos eficaces según esta métrica de fitness.
+
+\noindent OPA: Mantiene un ranking medio-bajo en todas las dimensiones, con una ligera variación pero sin cambios significativos.
+
+\noindent BES: Aunque tiene un ranking alto en la dimensión 7, mejora ligeramente en las dimensiones 8 y 9, pero sigue siendo uno de los menos eficaces.
+
+\noindent CSA y HHO: Exhiben un rendimiento intermedio, con rankings que varían poco entre las dimensiones y muestran una eficacia consistente.
+
+\noindent En resumen, GWO se destaca como el algoritmo más eficaz en todas las dimensiones para la métrica de fitness con la función objetivo de Otsu. TSO también muestra un alto rendimiento, especialmente en dimensiones más altas. RSA y HBA parecen ser los menos eficaces en esta tarea. OPA, BES, CSA y HHO se sitúan en un rango medio, con CSA y HHO mostrando una mayor consistencia en todas las dimensiones.
 
 \begin{table*}[]
 	\centering
@@ -1928,20 +2106,54 @@ Sin embargo, la presencia de valores atípicos altos sugiere que en algunas inst
 \noindent Por lo tanto, existe una variabilidad significativa en la calidad de imagen entre los algoritmos, sin una tendencia clara de cómo la dimensión K afecta el PSNR. Algoritmos como GWO y HBA, que combinan alta calidad de imagen (PSNR alto) y baja variabilidad (desviación estándar baja), pueden ser preferibles para preservar la calidad de la imagen con consistencia.
 
 %%%%Analisis boxplot PSNR
-\noindent Los boxplots en la Figura \ref{fig:imagenesPSNRbox} ilustran el PSNR obtenido por diferentes técnicas de optimización en cuatro imágenes. TSO muestra una variabilidad extremadamente alta en las Imágenes 1 y 3, posiblemente indicando resultados anómalos o inconsistencias en la técnica. GWO, HBA y OPA mantienen un rango medio de PSNR más consistente en todas las imágenes, lo que sugiere una mayor fiabilidad en la mejora de la calidad de imagen. BES muestra una variabilidad considerable, especialmente en la Imagen 2. RSA presenta los valores más bajos de PSNR en las Imágenes 1 y 3, lo cual podría ser indicativo de un rendimiento subóptimo en la preservación de la calidad de imagen en esas instancias
 
 \begin{figure}[htbp]
 	\centering
 	\includegraphics[width=0.5\textwidth]{PSNR/Kapur/Rank_Kapur_PSNR.png}
 	\caption{Promedio de Rank métrica PSNR por dimensión K., función objetivo Entropia de Kapur}
-	\label{fig:fig511}
+	\label{fig:PSNR_Kapur_Rank}
 \end{figure}
+
+\noindent El gráfico ~\ref{fig:PSNR_Kapur_Rank}  muestra el ranking promedio de diferentes algoritmos bioinspirados basado en la métrica PSNR (Peak Signal-to-Noise Ratio) para tres dimensiones distintas (7, 8 y 9), utilizando la función objetivo de la entropía de Kapur. Vamos a analizar el rendimiento de cada algoritmo:
+
+\noindent GWO (Gray Wolf Optimizer): Continúa manteniendo el ranking más bajo en todas las dimensiones, lo que indica que es el algoritmo con el mejor rendimiento en la métrica PSNR para esta función objetivo.
+
+\noindent HBA: Tiene el segundo ranking más bajo y muestra una mejora significativa al pasar de la dimensión 7 a las dimensiones 8 y 9. Esto sugiere que HBA se desempeña mejor en espacios de búsqueda de mayor dimensión bajo esta métrica.
+
+\noindent OPA: Exhibe una mejora en el ranking al pasar de la dimensión 7 a la 9, indicando un mejor rendimiento en dimensiones más altas.
+
+\noindent BES: Posee el ranking más alto en todas las dimensiones, lo que sugiere que es el algoritmo con el peor rendimiento en la métrica PSNR para la entropía de Kapur.
+
+\noindent CSA y HHO: Ambos muestran rankings intermedios, con CSA mostrando una ligera mejora y HHO mostrando una ligera disminución al aumentar la dimensión. Ambos algoritmos ofrecen un rendimiento consistente en diferentes dimensiones.
+
+\noindent TSO: Tiene un ranking alto en todas las dimensiones, lo que sugiere un rendimiento menor en la métrica PSNR comparado con otros algoritmos.
+
+\noindent RSA: Muestra una variación en su ranking al cambiar de dimensiones, pero se mantiene en un rango medio-alto, lo que indica un rendimiento menos eficaz.
+
+\noindent En resumen, GWO se destaca como el algoritmo más eficaz según la métrica PSNR en todas las dimensiones consideradas. HBA y OPA mejoran con dimensiones más altas, mientras que BES y TSO se encuentran en el extremo inferior del rendimiento. CSA y HHO muestran un rendimiento medio y consistente en todas las dimensiones.
+
 
 \begin{figure}[htbp]
 	\centering
 	\includegraphics[width=0.5\textwidth]{PSNR/Otsu/Rank_Otsu_PSNR.png}
 	\caption{Promedio de Rank métrica PSNR por dimensión K., función objetivo de Otsu}
+	\label{fig:PSNR_Otsu_Rank}
 \end{figure}
+\noindent El gráfico  ~\ref{fig:PSNR_Otsu_Rank} basado en la métrica PSNR (Peak Signal-to-Noise Ratio) para tres dimensiones distintas (7, 8 y 9), utilizando la función objetivo de Otsu. Aquí está el análisis del rendimiento de cada algoritmo:
+
+\noindent GWO (Gray Wolf Optimizer): Muestra los valores de ranking más bajos en todas las dimensiones, lo que indica que es el algoritmo más efectivo según la métrica PSNR con la función objetivo de Otsu.
+
+\noindent BES: Posee el ranking más alto en las dimensiones 7 y 8, con una ligera mejora en la dimensión 9. Aun así, se considera el algoritmo con el peor rendimiento en la métrica PSNR para esta función objetivo.
+
+\noindent TSO: Mantiene un ranking alto y constante en todas las dimensiones, lo que sugiere un rendimiento menor en la métrica PSNR comparado con otros algoritmos.
+
+\noindent CSA: Exhibe una mejora en su ranking al pasar de la dimensión 7 a la 9, indicando un mejor rendimiento en espacios de búsqueda de mayor dimensión.
+
+\noindent HHO: Su ranking varía ligeramente, pero se mantiene en un rango medio-alto en todas las dimensiones, lo que indica un rendimiento menos eficaz en la métrica PSNR.
+
+\noindent RSA, HBA y OPA: Todos muestran variaciones en su ranking al cambiar de dimensiones. OPA mejora notablemente, mientras que RSA y HBA tienen un rendimiento medio con una tendencia a empeorar ligeramente en dimensiones más altas.
+
+\noindent En resumen, GWO se destaca como el algoritmo más eficaz según la métrica PSNR en todas las dimensiones. BES se encuentra en el extremo inferior del rendimiento, y TSO se mantiene con un rendimiento menor. CSA muestra una mejora con dimensiones más altas, mientras que HHO, RSA y HBA presentan un rendimiento medio, con OPA mostrando la mayor mejora al aumentar la dimensión.
 
 
 
@@ -2112,15 +2324,53 @@ Sin embargo, la presencia de valores atípicos altos sugiere que en algunas inst
 	\centering
 	\includegraphics[width=0.5\textwidth]{SSIM/Kapur/Rank_Kapur_SSIM.png}
 	\caption{Promedio de Rank métrica SSIM por dimensión K., función objetivo Entropia de Kapur}
-	\label{fig:fig511}
+	\label{fig:SSIM_Kapur_Rank}
 \end{figure}
+\noindent El gráfico ~\ref{fig:SSIM_Kapur_Rank} muestra el ranking promedio de los 8 algoritmos bioinspirados basado en la métrica SSIM (Structural Similarity Index Measure) para tres dimensiones distintas (7, 8 y 9), utilizando la función objetivo de entropía de Kapur. Vamos a interpretar el rendimiento de cada algoritmo:
+
+\noindent GWO (Gray Wolf Optimizer): Continúa manteniendo el ranking más bajo en todas las dimensiones, lo que indica que es el algoritmo más efectivo según la métrica SSIM con la función objetivo de entropía de Kapur.
+
+\noindent HBA: Presenta una mejora significativa en su ranking al pasar de la dimensión 7 a la 9, lo que sugiere una mayor efectividad en espacios de búsqueda de mayor dimensión bajo esta métrica.
+
+\noindent OPA: Muestra una tendencia de mejora al aumentar la dimensión, lo que indica un rendimiento mejor en dimensiones más altas.
+
+\noindent BES: Tiene un ranking alto en todas las dimensiones, lo que sugiere un rendimiento menos eficaz en la métrica SSIM para esta función objetivo.
+
+\noindent CSA: Su ranking varía ligeramente pero se mantiene en un rango medio en todas las dimensiones, lo que indica un rendimiento medio y consistente.
+
+\noindent HHO: Presenta una variación en su ranking al cambiar de dimensiones, mejorando ligeramente al aumentar la dimensión.
+
+\noindent TSO: Mantiene un ranking alto y constante en todas las dimensiones, lo que sugiere un rendimiento menor en la métrica SSIM comparado con otros algoritmos.
+
+\noindent RSA: Exhibe una disminución en el ranking al pasar de la dimensión 7 a la 9, lo que sugiere un rendimiento menos efectivo en dimensiones más altas.
+
+\noindent En resumen, GWO se destaca como el algoritmo más eficaz según la métrica SSIM en todas las dimensiones. BES y TSO se encuentran en el extremo inferior del rendimiento, y HBA muestra una mejora notable con el aumento de la dimensión. OPA mejora su rendimiento al aumentar la dimensión, mientras que CSA y HHO ofrecen un rendimiento medio y consistente. RSA parece tener un rendimiento menos efectivo a medida que aumenta la dimensión.
 
 \begin{figure}[!htb]
 	\centering
 	\includegraphics[width=0.5\textwidth]{SSIM/Otsu/Rank_Otsu_SSIM.png}
 	\caption{Promedio de Rank métrica SSIM por dimensión K., función objetivo de Otsu}
+	\label{fig:SSIM_Otsu_Rank}
 \end{figure}
+\noindent El gráfico ~\ref{fig:SSIM_Otsu_Rank} muestra el ranking promedio de los 8 algoritmos bioinspirados basado en la métrica SSIM (Structural Similarity Index Measure) para tres dimensiones distintas (7, 8 y 9), utilizando la función objetivo de Otsu. Vamos a analizar el rendimiento de cada algoritmo:
 
+\noindent GWO (Gray Wolf Optimizer): Muestra consistentemente los valores de ranking más bajos en todas las dimensiones, lo que indica que es el algoritmo más efectivo según la métrica SSIM con la función objetivo de Otsu.
+
+\noindent HBA: Exhibe una mejora en su ranking al pasar de la dimensión 7 a la 9, lo que sugiere un mejor rendimiento en espacios de búsqueda de mayor dimensión bajo esta métrica.
+
+\noindent OPA: Muestra una mejora en el ranking al pasar de la dimensión 7 a la 8 y 9, indicando un mejor rendimiento en dimensiones más altas.
+
+\noindent BES: Tiene un ranking alto en todas las dimensiones, lo que sugiere un rendimiento menos eficaz en la métrica SSIM para esta función objetivo.
+
+\noindent CSA: Su ranking varía ligeramente pero muestra una tendencia a empeorar al aumentar la dimensión, lo que indica un rendimiento medio y consistente en la dimensión 7 y 8, pero menor en la dimensión 9.
+
+\noindent HHO: Presenta una variación en su ranking al cambiar de dimensiones, mejorando su posición al aumentar la dimensión.
+
+\noindent TSO: Mantiene un ranking alto y constante en todas las dimensiones, lo que sugiere un rendimiento menor en la métrica SSIM comparado con otros algoritmos.
+
+\noindent RSA: Exhibe una disminución en el ranking al pasar de la dimensión 7 a la 9, lo que sugiere un rendimiento menos efectivo en dimensiones más altas.
+
+\noindent En resumen, GWO se destaca como el algoritmo más eficaz según la métrica SSIM en todas las dimensiones consideradas. BES y TSO se encuentran en el extremo inferior del rendimiento. HBA y OPA mejoran con el aumento de la dimensión, mientras que CSA muestra un rendimiento medio y consistente en las dimensiones 7 y 8, pero disminuye en la 9. HHO mejora su rendimiento en dimensiones más altas, mientras que RSA parece tener un rendimiento menos efectivo a medida que aumenta la dimensión
 
 
 %%% ANALISIS TABLA TEST FRIEDMAN SSIM
@@ -2302,7 +2552,7 @@ Sin embargo, la presencia de valores atípicos altos sugiere que en algunas inst
 \section{Conclusión} \label{sec:co}
 % Conclusion
 
-\noindent Esta investigación ofrece insights valiosos sobre la aplicabilidad y eficacia de los algoritmos de optimización metaheurísticos en la segmentación de imágenes médicas. Los hallazgos destacan la importancia de seleccionar y ajustar cuidadosamente estos algoritmos para maximizar su potencial en aplicaciones médicas, contribuyendo así a la mejora en la calidad del diagnóstico y tratamiento de enfermedades relacionadas con el hueso cortical.
+\noindent Esta investigación ofrece una revisión valiosa sobre la aplicabilidad y eficacia de los algoritmos de optimización metaheurísticos en la segmentación de imágenes médicas. Los hallazgos destacan la importancia de seleccionar y ajustar cuidadosamente estos algoritmos para maximizar su potencial en aplicaciones médicas, contribuyendo así a la mejora en la calidad del diagnóstico y tratamiento de enfermedades relacionadas con el hueso cortical.
 
 \noindent Existen diferencias significativas en cuanto a la métrica fitness, el análisis de estadística descriptiva indica que el algoritmo GWO es el que posee una media más alta y una desviación estándar más pequeña, lo que indica una estabilidad en cuanto a sus resultados durante las 30 ejecuciones para todas las imágenes y sus dimensiones. De forma similar, el algoritmo TSO obtuvo resultados bastante similares, pero presenta una desviación estándar mucho mayor que GWO. El test de Friedman entrega evidencia suficente para determinar que el algoritmo GWO presenta una diferencia significativa en rendimiento con respecto al resto de algoritmos.
 
