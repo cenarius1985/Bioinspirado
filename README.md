@@ -38,50 +38,52 @@
 
 <p>A continuación se detallan las implementaciones en Python de las funciones objetivo utilizadas para evaluar la calidad de la segmentación.</p>
 
-<h3>1. Entropía de Kapur</h3>
-<p>La entropía de Kapur busca maximizar la entropía de las clases separadas por los umbrales. Para una imagen con $L$ niveles de gris y $k$ umbrales $[t_1, t_2, \dots, t_k]$, la función objetivo se define como:</p>
+### 1. Entropía de Kapur
 
-<div align="center">
-    <img src="https://latex.codecogs.com/svg.latex?\Large&space;J(t_1, \dots, t_k) = \sum_{j=0}^{k} H_j" title="Kapur Objective Function" />
-</div>
+La entropía de Kapur busca maximizar la entropía de las clases separadas por los umbrales. Para una imagen con $L$ niveles de gris y $k$ umbrales $[t_1, t_2, \dots, t_k]$, la función objetivo se define como:
 
-<p>Donde las entropías parciales $H_j$ se calculan como:</p>
+$$
+J(t_1, \dots, t_k) = \sum_{j=0}^{k} H_j
+$$
 
-<div align="center">
-    <img src="https://latex.codecogs.com/svg.latex?\Large&space;H_j = -\sum_{i=t_j}^{t_{j+1}-1} \frac{p_i}{\omega_j} \ln \left( \frac{p_i}{\omega_j} \right)" title="Partial Entropy" />
-</div>
+Donde las entropías parciales $H_j$ se calculan como:
 
-<p>Con $\omega_j$ siendo la probabilidad acumulada de la clase $j$:</p>
-<div align="center">
-    <img src="https://latex.codecogs.com/svg.latex?\Large&space;\omega_j = \sum_{i=t_j}^{t_{j+1}-1} p_i" title="Class Probability" />
-</div>
+$$
+H_j = -\sum_{i=t_j}^{t_{j+1}-1} \frac{p_i}{\omega_j} \ln \left( \frac{p_i}{\omega_j} \right)
+$$
 
-<h3>2. Método de Otsu</h3>
-<p>El método de Otsu busca maximizar la varianza entre clases ($\sigma_B^2$), lo que equivale a encontrar los umbrales que mejor separan las distribuciones de intensidad de los píxeles.</p>
+Con $\omega_j$ siendo la probabilidad acumulada de la clase $j$:
 
-<div align="center">
-    <img src="https://latex.codecogs.com/svg.latex?\Large&space;\sigma_B^2(t_1, \dots, t_k) = \sum_{j=0}^{k} \omega_j (\mu_j - \mu_T)^2" title="Otsu Variance" />
-</div>
+$$
+\omega_j = \sum_{i=t_j}^{t_{j+1}-1} p_i
+$$
 
-<p>Donde:</p>
-<ul>
-    <li>$\omega_j$: Probabilidad acumulada de la clase $j$.</li>
-    <li>$\mu_j$: Media de intensidad de la clase $j$.</li>
-    <li>$\mu_T$: Media de intensidad global de la imagen.</li>
-</ul>
+### 2. Método de Otsu
 
-<h3>3. Entropía de Tsallis</h3>
-<p>La entropía de Tsallis es una generalización de la entropía de Shannon para sistemas no extensivos. La función objetivo busca maximizar la entropía total del sistema particionado:</p>
+El método de Otsu busca maximizar la varianza entre clases ($\sigma_B^2$), lo que equivale a encontrar los umbrales que mejor separan las distribuciones de intensidad de los píxeles.
 
-<div align="center">
-    <img src="https://latex.codecogs.com/svg.latex?\Large&space;S_q(t_1, \dots, t_k) = \sum_{j=0}^{k} S_q^j + (1-q) \sum_{j \neq l} S_q^j S_q^l + \dots" title="Tsallis Total Entropy" />
-</div>
+$$
+\sigma_B^2(t_1, \dots, t_k) = \sum_{j=0}^{k} \omega_j (\mu_j - \mu_T)^2
+$$
 
-<p>Donde la entropía de cada clase $S_q^j$ se define por el parámetro entrópico $q$:</p>
+Donde:
+* $\omega_j$: Probabilidad acumulada de la clase $j$.
+* $\mu_j$: Media de intensidad de la clase $j$.
+* $\mu_T$: Media de intensidad global de la imagen.
 
-<div align="center">
-    <img src="https://latex.codecogs.com/svg.latex?\Large&space;S_q^j = \frac{1}{q-1} \left( 1 - \sum_{i \in C_j} \left( \frac{p_i}{\omega_j} \right)^q \right)" title="Tsallis Class Entropy" />
-</div>
+### 3. Entropía de Tsallis
+
+La entropía de Tsallis es una generalización de la entropía de Shannon para sistemas no extensivos. La función objetivo busca maximizar la entropía total del sistema particionado:
+
+$$
+S_q(t_1, \dots, t_k) = \sum_{j=0}^{k} S_q^j + (1-q) \sum_{j \neq l} S_q^j S_q^l + \dots
+$$
+
+Donde la entropía de cada clase $S_q^j$ se define por el parámetro entrópico $q$:
+
+$$
+S_q^j = \frac{1}{q-1} \left( 1 - \sum_{i \in C_j} \left( \frac{p_i}{\omega_j} \right)^q \right)
+$$
 
 <hr>
 
