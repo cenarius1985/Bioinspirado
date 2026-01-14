@@ -1,0 +1,330 @@
+\begin{thebibliography}{10}
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{\texttt{#1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+\expandafter\ifx\csname href\endcsname\relax
+  \def\href#1#2{#2} \def\path#1{#1}\fi
+
+\bibitem{Raichle2010}
+M.~E. Raichle, \href{http://dx.doi.org/10.1016/j.tics.2010.01.008}{Two views of
+  brain function}, Trends in Cognitive Sciences 14~(4) (2010) 180–190.
+\newblock \href {https://doi.org/10.1016/j.tics.2010.01.008}
+  {\path{doi:10.1016/j.tics.2010.01.008}}.
+\newline\urlprefix\url{http://dx.doi.org/10.1016/j.tics.2010.01.008}
+
+\bibitem{Fornito2015}
+A.~Fornito, E.~T. Bullmore,
+  \href{http://dx.doi.org/10.1016/j.euroneuro.2014.02.011}{Connectomics: A new
+  paradigm for understanding brain disease}, European Neuropsychopharmacology
+  25~(5) (2015) 733–748.
+\newblock \href {https://doi.org/10.1016/j.euroneuro.2014.02.011}
+  {\path{doi:10.1016/j.euroneuro.2014.02.011}}.
+\newline\urlprefix\url{http://dx.doi.org/10.1016/j.euroneuro.2014.02.011}
+
+\bibitem{Kreisl2008}
+T.~N. Kreisl, T.~Toothaker, S.~Karimi, L.~M. DeAngelis,
+  \href{http://dx.doi.org/10.1212/01.wnl.0000314648.82924.6f}{Ischemic stroke
+  in patients with primary brain tumors}, Neurology 70~(24) (2008) 2314–2320.
+\newblock \href {https://doi.org/10.1212/01.wnl.0000314648.82924.6f}
+  {\path{doi:10.1212/01.wnl.0000314648.82924.6f}}.
+\newline\urlprefix\url{http://dx.doi.org/10.1212/01.wnl.0000314648.82924.6f}
+
+\bibitem{Young2007}
+G.~S. Young, \href{http://dx.doi.org/10.1016/j.ncl.2007.07.010}{Advanced mri of
+  adult brain tumors}, Neurologic Clinics 25~(4) (2007) 947–973.
+\newblock \href {https://doi.org/10.1016/j.ncl.2007.07.010}
+  {\path{doi:10.1016/j.ncl.2007.07.010}}.
+\newline\urlprefix\url{http://dx.doi.org/10.1016/j.ncl.2007.07.010}
+
+\bibitem{Mehrabian2019}
+H.~Mehrabian, J.~Detsky, H.~Soliman, A.~Sahgal, G.~J. Stanisz,
+  \href{http://dx.doi.org/10.3389/fonc.2019.00440}{Advanced magnetic resonance
+  imaging techniques in management of brain metastases}, Frontiers in Oncology
+  9 (Jun. 2019).
+\newblock \href {https://doi.org/10.3389/fonc.2019.00440}
+  {\path{doi:10.3389/fonc.2019.00440}}.
+\newline\urlprefix\url{http://dx.doi.org/10.3389/fonc.2019.00440}
+
+\bibitem{segmentation_bandyopadhyay_2021}
+R.~Bandyopadhyay, R.~Kundu, D.~Oliva, R.~Sarkar,
+  \href{https://doi.org/10.1016/j.knosys.2021.107468}{Segmentation of brain
+  {MRI} using an altruistic harris hawks' optimization algorithm},
+  Knowledge-Based Systems 232 (2021) 107468.
+\newblock \href {https://doi.org/10.1016/j.knosys.2021.107468}
+  {\path{doi:10.1016/j.knosys.2021.107468}}.
+\newline\urlprefix\url{https://doi.org/10.1016/j.knosys.2021.107468}
+
+\bibitem{KaushikPancholi2023}
+B.~Kaushik~Pancholi, P.~Sevantilal~Modi, N.~Gitesh~Chitaliya,
+  \href{http://dx.doi.org/10.56294/saludcyt2023408}{Un nuevo algoritmo
+  multiumbral para la segmentación de imágenes de resonancia magnética},
+  Salud, Ciencia y Tecnología 3 (2023) 408.
+\newblock \href {https://doi.org/10.56294/saludcyt2023408}
+  {\path{doi:10.56294/saludcyt2023408}}.
+\newline\urlprefix\url{http://dx.doi.org/10.56294/saludcyt2023408}
+
+\bibitem{Liu2024}
+H.~Liu, J.~Huang, Q.~Li, X.~Guan, M.~Tseng,
+  \href{http://dx.doi.org/10.1016/j.artmed.2024.102776}{A deep convolutional
+  neural network for the automatic segmentation of glioblastoma brain tumor:
+  Joint spatial pyramid module and attention mechanism network}, Artificial
+  Intelligence in Medicine 148 (2024) 102776.
+\newblock \href {https://doi.org/10.1016/j.artmed.2024.102776}
+  {\path{doi:10.1016/j.artmed.2024.102776}}.
+\newline\urlprefix\url{http://dx.doi.org/10.1016/j.artmed.2024.102776}
+
+\bibitem{Ilesanmi2024}
+A.~E. Ilesanmi, T.~O. Ilesanmi, B.~O. Ajayi,
+  \href{http://dx.doi.org/10.1016/j.heliyon.2024.e27398}{Reviewing 3d
+  convolutional neural network approaches for medical image segmentation},
+  Heliyon 10~(6) (2024) e27398.
+\newblock \href {https://doi.org/10.1016/j.heliyon.2024.e27398}
+  {\path{doi:10.1016/j.heliyon.2024.e27398}}.
+\newline\urlprefix\url{http://dx.doi.org/10.1016/j.heliyon.2024.e27398}
+
+\bibitem{Abualigah2022}
+L.~Abualigah, M.~A. Elaziz, P.~Sumari, Z.~W. Geem, A.~H. Gandomi,
+  \href{https://doi.org/10.1016/j.eswa.2021.116158}{Reptile search algorithm
+  ({RSA}): A nature-inspired meta-heuristic optimizer}, Expert Systems with
+  Applications 191 (2022) 116158.
+\newblock \href {https://doi.org/10.1016/j.eswa.2021.116158}
+  {\path{doi:10.1016/j.eswa.2021.116158}}.
+\newline\urlprefix\url{https://doi.org/10.1016/j.eswa.2021.116158}
+
+\bibitem{Jiang2022}
+Y.~Jiang, Q.~Wu, S.~Zhu, L.~Zhang,
+  \href{https://doi.org/10.1016/j.eswa.2021.116026}{Orca predation algorithm: A
+  novel bio-inspired algorithm for global optimization problems}, Expert
+  Systems with Applications 188 (2022) 116026.
+\newblock \href {https://doi.org/10.1016/j.eswa.2021.116026}
+  {\path{doi:10.1016/j.eswa.2021.116026}}.
+\newline\urlprefix\url{https://doi.org/10.1016/j.eswa.2021.116026}
+
+\bibitem{Hashim2022}
+F.~A. Hashim, E.~H. Houssein, K.~Hussain, M.~S. Mabrouk, W.~Al-Atabany,
+  \href{https://doi.org/10.1016/j.matcom.2021.08.013}{Honey badger algorithm:
+  New metaheuristic algorithm for solving optimization problems}, Mathematics
+  and Computers in Simulation 192 (2022) 84--110.
+\newblock \href {https://doi.org/10.1016/j.matcom.2021.08.013}
+  {\path{doi:10.1016/j.matcom.2021.08.013}}.
+\newline\urlprefix\url{https://doi.org/10.1016/j.matcom.2021.08.013}
+
+\bibitem{Alsattar2019}
+H.~A. Alsattar, A.~A. Zaidan, B.~B. Zaidan,
+  \href{https://doi.org/10.1007/s10462-019-09732-5}{Novel meta-heuristic bald
+  eagle search optimisation algorithm}, Artificial Intelligence Review 53~(3)
+  (2019) 2237--2264.
+\newblock \href {https://doi.org/10.1007/s10462-019-09732-5}
+  {\path{doi:10.1007/s10462-019-09732-5}}.
+\newline\urlprefix\url{https://doi.org/10.1007/s10462-019-09732-5}
+
+\bibitem{Mirjalili2014}
+S.~Mirjalili, S.~M. Mirjalili, A.~Lewis,
+  \href{https://doi.org/10.1016/j.advengsoft.2013.12.007}{Grey wolf optimizer},
+  Advances in Engineering Software 69 (2014) 46--61.
+\newblock \href {https://doi.org/10.1016/j.advengsoft.2013.12.007}
+  {\path{doi:10.1016/j.advengsoft.2013.12.007}}.
+\newline\urlprefix\url{https://doi.org/10.1016/j.advengsoft.2013.12.007}
+
+\bibitem{Askarzadeh2016}
+A.~Askarzadeh, \href{https://doi.org/10.1016/j.compstruc.2016.03.001}{A novel
+  metaheuristic method for solving constrained engineering optimization
+  problems: Crow search algorithm}, Computers \& Structures 169 (2016) 1--12.
+\newblock \href {https://doi.org/10.1016/j.compstruc.2016.03.001}
+  {\path{doi:10.1016/j.compstruc.2016.03.001}}.
+\newline\urlprefix\url{https://doi.org/10.1016/j.compstruc.2016.03.001}
+
+\bibitem{Heidari2019}
+A.~A. Heidari, S.~Mirjalili, H.~Faris, I.~Aljarah, M.~Mafarja, H.~Chen,
+  \href{https://doi.org/10.1016/j.future.2019.02.028}{Harris hawks
+  optimization: Algorithm and applications}, Future Generation Computer Systems
+  97 (2019) 849--872.
+\newblock \href {https://doi.org/10.1016/j.future.2019.02.028}
+  {\path{doi:10.1016/j.future.2019.02.028}}.
+\newline\urlprefix\url{https://doi.org/10.1016/j.future.2019.02.028}
+
+\bibitem{Xie2021}
+L.~Xie, T.~Han, H.~Zhou, Z.-R. Zhang, B.~Han, A.~Tang,
+  \href{https://doi.org/10.1155/2021/9210050}{Tuna swarm optimization: A novel
+  swarm-based metaheuristic algorithm for global optimization}, Computational
+  Intelligence and Neuroscience 2021 (2021) 1--22.
+\newblock \href {https://doi.org/10.1155/2021/9210050}
+  {\path{doi:10.1155/2021/9210050}}.
+\newline\urlprefix\url{https://doi.org/10.1155/2021/9210050}
+
+\bibitem{Darwish2018}
+A.~Darwish, \href{https://doi.org/10.1016/j.fcij.2018.06.001}{Bio-inspired
+  computing: Algorithms review, deep analysis, and the scope of applications},
+  Future Computing and Informatics Journal 3~(2) (2018) 231--246.
+\newblock \href {https://doi.org/10.1016/j.fcij.2018.06.001}
+  {\path{doi:10.1016/j.fcij.2018.06.001}}.
+\newline\urlprefix\url{https://doi.org/10.1016/j.fcij.2018.06.001}
+
+\bibitem{Abualigah2023}
+L.~Abualigah, K.~H. Almotairi, M.~Elaziz, Multilevel thresholding image
+  segmentation using meta-heuristic optimization algorithms: comparative
+  analysis, open challenges and new trends, Applied Intelligence 53~(10) (2023)
+  11654--11704.
+\newblock \href {https://doi.org/https://doi.org/10.1007/s10489-022-04064-4}
+  {\path{doi:https://doi.org/10.1007/s10489-022-04064-4}}.
+
+\bibitem{Ma2023}
+Z.~Ma, G.~Wu, P.~N. Suganthan, A.~Song, Q.~Luo,
+  \href{https://doi.org/10.1016/j.swevo.2023.101248}{Performance assessment and
+  exhaustive listing of 500+ nature-inspired metaheuristic algorithms}, Swarm
+  and Evolutionary Computation 77 (2023) 101248.
+\newblock \href {https://doi.org/10.1016/j.swevo.2023.101248}
+  {\path{doi:10.1016/j.swevo.2023.101248}}.
+\newline\urlprefix\url{https://doi.org/10.1016/j.swevo.2023.101248}
+
+\bibitem{Bandyopadhyay2021}
+R.~Bandyopadhyay, R.~Kundu, D.~Oliva, R.~Sarkar,
+  \href{https://doi.org/10.1016/j.knosys.2021.107468}{Segmentation of brain
+  {MRI} using an altruistic harris hawks' optimization algorithm},
+  Knowledge-Based Systems 232 (2021) 107468.
+\newblock \href {https://doi.org/10.1016/j.knosys.2021.107468}
+  {\path{doi:10.1016/j.knosys.2021.107468}}.
+\newline\urlprefix\url{https://doi.org/10.1016/j.knosys.2021.107468}
+
+\bibitem{Iswisi2021}
+A.~F.~A. Iswisi, O.~Karan, J.~Rahebi,
+  \href{https://doi.org/10.1155/2021/3248834}{Diagnosis of multiple sclerosis
+  disease in brain magnetic resonance imaging based on the harris hawks
+  optimization algorithm}, {BioMed} Research International 2021 (2021) 1--12.
+\newblock \href {https://doi.org/10.1155/2021/3248834}
+  {\path{doi:10.1155/2021/3248834}}.
+\newline\urlprefix\url{https://doi.org/10.1155/2021/3248834}
+
+\bibitem{Xing2023}
+J.~Xing, X.~Zhou, H.~Zhao, H.~Chen, A.~A. Heidari,
+  \href{https://doi.org/10.1016/j.bspc.2023.104592}{Elite levy spreading
+  differential evolution via {ABC} shrink-wrap for multi-threshold segmentation
+  of breast cancer images}, Biomedical Signal Processing and Control 82 (2023)
+  104592.
+\newblock \href {https://doi.org/10.1016/j.bspc.2023.104592}
+  {\path{doi:10.1016/j.bspc.2023.104592}}.
+\newline\urlprefix\url{https://doi.org/10.1016/j.bspc.2023.104592}
+
+\bibitem{Ryalat2022}
+M.~H. Ryalat, O.~Dorgham, S.~Tedmori, Z.~Al-Rahamneh, N.~Al-Najdawi,
+  S.~Mirjalili, \href{https://doi.org/10.1007/s00521-022-08078-4}{Harris hawks
+  optimization for {COVID}-19 diagnosis based on multi-threshold image
+  segmentation}, Neural Computing and Applications 35~(9) (2022) 6855--6873.
+\newblock \href {https://doi.org/10.1007/s00521-022-08078-4}
+  {\path{doi:10.1007/s00521-022-08078-4}}.
+\newline\urlprefix\url{https://doi.org/10.1007/s00521-022-08078-4}
+
+\bibitem{Weizhu2022}
+W.~zhu, L.~Liu, F.~Kuang, L.~Li, S.~Xu, Y.~Liang,
+  \href{https://doi.org/10.1016/j.compbiomed.2022.106227}{An efficient
+  multi-threshold image segmentation for skin cancer using boosting whale
+  optimizer}, Computers in Biology and Medicine 151 (2022) 106227.
+\newblock \href {https://doi.org/10.1016/j.compbiomed.2022.106227}
+  {\path{doi:10.1016/j.compbiomed.2022.106227}}.
+\newline\urlprefix\url{https://doi.org/10.1016/j.compbiomed.2022.106227}
+
+\bibitem{Peng2023}
+Z.~Peng, L.~Wang, L.~Tong, H.~Zou, D.~Liu, C.~Zhang,
+  \href{https://doi.org/10.1371/journal.pone.0290750}{Multi-threshold image
+  segmentation of 2d {OTSU} inland ships based on improved genetic algorithm},
+  {PLOS} {ONE} 18~(8) (2023) e0290750.
+\newblock \href {https://doi.org/10.1371/journal.pone.0290750}
+  {\path{doi:10.1371/journal.pone.0290750}}.
+\newline\urlprefix\url{https://doi.org/10.1371/journal.pone.0290750}
+
+\bibitem{Sharma2023}
+S.~R. Sharma, S.~Alshathri, B.~Singh, M.~Kaur, R.~R. Mostafa, W.~El-Shafai,
+  \href{https://doi.org/10.3390/diagnostics13050925}{Hybrid multilevel
+  thresholding image segmentation approach for brain {MRI}}, Diagnostics 13~(5)
+  (2023) 925.
+\newblock \href {https://doi.org/10.3390/diagnostics13050925}
+  {\path{doi:10.3390/diagnostics13050925}}.
+\newline\urlprefix\url{https://doi.org/10.3390/diagnostics13050925}
+
+\bibitem{Xing2020}
+Z.~Xing, \href{https://doi.org/10.1016/j.knosys.2020.105570}{An improved
+  emperor penguin optimization based multilevel thresholding for color image
+  segmentation}, Knowledge-Based Systems 194 (2020) 105570.
+\newblock \href {https://doi.org/10.1016/j.knosys.2020.105570}
+  {\path{doi:10.1016/j.knosys.2020.105570}}.
+\newline\urlprefix\url{https://doi.org/10.1016/j.knosys.2020.105570}
+
+\bibitem{Zhao2023}
+D.~Zhao, A.~Qi, F.~Yu, A.~A. Heidari, H.~Chen, Y.~Li,
+  \href{https://doi.org/10.1016/j.bspc.2023.104647}{Multi-strategy ant colony
+  optimization for multi-level image segmentation: Case study of melanoma},
+  Biomedical Signal Processing and Control 83 (2023) 104647.
+\newblock \href {https://doi.org/10.1016/j.bspc.2023.104647}
+  {\path{doi:10.1016/j.bspc.2023.104647}}.
+\newline\urlprefix\url{https://doi.org/10.1016/j.bspc.2023.104647}
+
+\bibitem{Chakraborty2022}
+P.~Malhotra, S.~Gupta, D.~Koundal, A.~Zaguia, W.~Enbeyle,
+  \href{https://doi.org/10.1155/2022/9580991}{Deep neural networks for medical
+  image segmentation}, Journal of Healthcare Engineering 2022 (2022) 1--15.
+\newblock \href {https://doi.org/10.1155/2022/9580991}
+  {\path{doi:10.1155/2022/9580991}}.
+\newline\urlprefix\url{https://doi.org/10.1155/2022/9580991}
+
+\bibitem{Elyan2022}
+E.~Elyan, P.~Vuttipittayamongkol, P.~Johnston, K.~Martin, K.~McPherson, C.~F.
+  Moreno-Garc{\'{\i}}a, C.~Jayne, M.~M.~K. Sarker,
+  \href{https://doi.org/10.20517/ais.2021.15}{Computer vision and machine
+  learning for medical image analysis: recent advances, challenges, and way
+  forward}, Artificial Intelligence Surgery (2022).
+\newblock \href {https://doi.org/10.20517/ais.2021.15}
+  {\path{doi:10.20517/ais.2021.15}}.
+\newline\urlprefix\url{https://doi.org/10.20517/ais.2021.15}
+
+\bibitem{An2020}
+F.-P. An, J.~e~Liu, \href{https://doi.org/10.1155/2020/1645479}{Medical image
+  segmentation algorithm based on optimized convolutional neural
+  network-adaptive dropout depth calculation}, Complexity 2020 (2020) 1--13.
+\newblock \href {https://doi.org/10.1155/2020/1645479}
+  {\path{doi:10.1155/2020/1645479}}.
+\newline\urlprefix\url{https://doi.org/10.1155/2020/1645479}
+
+\bibitem{jones2023automated}
+B.~C. Jones, F.~W. Wehrli, N.~Kamona, R.~S. Deshpande, B.~D. Vu, H.~K. Song,
+  H.~Lee, R.~K. Grewal, T.~J. Chan, W.~R. Witschey, M.~T. MacLean, N.~J.
+  Josselyn, S.~K. Iyer, M.~al~Mukaddam, P.~J. Snyder, C.~S. Rajapakse,
+  \href{https://doi.org/10.1016/j.bone.2023.116743}{Automated, calibration-free
+  quantification of cortical bone porosity and geometry in postmenopausal
+  osteoporosis from ultrashort echo time mri and deep learning}, Bone 171
+  (2023) 116743.
+\newblock \href {https://doi.org/10.1016/j.bone.2023.116743}
+  {\path{doi:10.1016/j.bone.2023.116743}}.
+\newline\urlprefix\url{https://doi.org/10.1016/j.bone.2023.116743}
+
+\bibitem{Tasnia2023}
+N.~Tasnia, Brain stroke prediction ct scan image dataset [conjunto de datos],
+  \url{https://www.kaggle.com/datasets/noshintasnia/brain-stroke-prediction-ct-scan-image-dataset/data},
+  accedido el 27 de abril de 2024 (2023).
+
+\bibitem{TrainingDataPro2024}
+{Training Data Pro}, Dicom brain dataset [conjunto de datos],
+  \url{https://www.kaggle.com/datasets/trainingdatapro/dicom-brain-dataset},
+  accedido el 27 de abril de 2024 (2024).
+
+\bibitem{Nickparvar2024}
+M.~Nickparvar, Brain tumor mri dataset [conjunto de datos],
+  \url{https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset},
+  accedido el 27 de abril de 2024 (2024).
+
+\bibitem{Sankur2004}
+B.~Sankur, \href{https://doi.org/10.1117/1.1631315}{Survey over image
+  thresholding techniques and quantitative performance evaluation}, Journal of
+  Electronic Imaging 13~(1) (2004) 146.
+\newblock \href {https://doi.org/10.1117/1.1631315}
+  {\path{doi:10.1117/1.1631315}}.
+\newline\urlprefix\url{https://doi.org/10.1117/1.1631315}
+
+\bibitem{Pun1980}
+T.~Pun, \href{https://doi.org/10.1016/0165-1684(80)90020-1}{A new method for
+  grey-level picture thresholding using the entropy of the histogram}, Signal
+  Processing 2~(3) (1980) 223--237.
+\newblock \href {https://doi.org/10.1016/0165-1684(80)90020-1}
+  {\path{doi:10.1016/0165-1684(80)90020-1}}.
+\newline\urlprefix\url{https://doi.org/10.1016/0165-1684(80)90020-1}
+
+\end{thebibliography}
