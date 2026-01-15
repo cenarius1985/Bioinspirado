@@ -80,11 +80,38 @@ def process_excel_results(excel_path, base_output_dir):
                 
                 # Segmentar imagen original (usando grayscale para segmentación)
                 gray_img = cv2.cvtColor(original_img, cv2.COLOR_BGR2GRAY)
-                img_seg_layers = segment_image(gray_img, thresholds)
-                img_seg_single = generate_single_channel_image(img_seg_layers)
                 
-                # Convertir a BGR para concatenar con original
-                img_seg_bgr = cv2.cvtColor(img_seg_single, cv2.COLOR_GRAY2BGR)
+                # --- NUEVO MÉTODO DE VISUALIZACIÓN ---
+                # Usar la misma lógica de "aplicar_umbrales" del notebook original
+                # para generar una imagen segmentada visualmente distinguible (colores aleatorios)
+                
+                # Establecer semilla para consistencia de colores por algoritmo/umbral
+                np.random.seed(42)
+                
+                imagen_color = cv2.cvtColor(gray_img, cv2.COLOR_GRAY2BGR)
+                
+                # Ordenar umbrales por si acaso
+                thresholds = sorted(thresholds)
+                
+                # Crear máscara acumulativa para ir pintando regiones
+                # Pero la lógica del notebook original era:
+                # for i, umbral in enumerate(umbrales):
+                #    _, img_umbral = cv2.threshold(imagen, umbral, 255, cv2.THRESH_BINARY)
+                #    color = ...
+                #    imagen_color[img_umbral == 255] = color
+                
+                # Esta lógica del notebook "pinta encima" sucesivamente.
+                # Si umbral[0]=50, pinta todo > 50.
+                # Si umbral[1]=100, pinta todo > 100 (sobreescribiendo lo anterior).
+                # Esto efectivamente colorea las regiones por capas.
+                
+                for umbral in thresholds:
+                    _, img_umbral = cv2.threshold(gray_img, umbral, 255, cv2.THRESH_BINARY)
+                    color = tuple(np.random.randint(0, 255, 3).tolist())
+                    imagen_color[img_umbral == 255] = color
+                
+                img_seg_bgr = imagen_color
+                # -------------------------------------
                 
                 # Redimensionar
                 img_seg_resized = cv2.resize(img_seg_bgr, target_size)
