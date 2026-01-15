@@ -1,32 +1,16 @@
 import numpy as np
-import cv2
-from mealpy.swarm_based import TSO, HBA, BES, GWO, HHO, CSA
+from mealpy.swarm_based import TSO, HBA, BES, GWO, HHO, CSA, WOA, SCSO
 from mealpy import FloatVar
-from src.utils import segment_image, generate_single_channel_image, calculate_psnr, calculate_ssim
 
-# --- Generic Runner ---
+# --- Internal Core Execution ---
 
-def run_algorithm(algo_name, image, obj_func, config):
+def _execute_mealpy(algo_name, image, obj_func, N, T, dim, lb_val, ub_val):
     """
-    Runs a specified algorithm on an image with a given objective function.
-    
-    Args:
-        algo_name (str): Name of the algorithm (TSO, HBA, BES, GWO, HHO, CSA).
-        image (np.ndarray): Image to segment.
-        obj_func (callable): Objective function func(thresholds, image) -> scalar (to be maximized).
-        config (Config class): Configuration with N, T, DIM, LB, UB.
-        
-    Returns:
-        tuple: (Best_Fitness, Best_Thresholds, Convergence_List)
+    Core function to execute Mealpy algorithms with explicit parameters.
     """
+    lb = np.full(dim, lb_val)
+    ub = np.full(dim, ub_val)
     
-    N = config.N
-    T = config.T
-    dim = config.DIM
-    lb = np.full(dim, config.LB)
-    ub = np.full(dim, config.UB)
-    
-    # Mealpy Algorithms
     # Mealpy minimizes, so we negate the objective function (which we assume maximizes)
     def mealpy_obj_wrapper(solution):
         return -obj_func(solution, image)
@@ -52,6 +36,10 @@ def run_algorithm(algo_name, image, obj_func, config):
         model = HHO.OriginalHHO(epoch=T, pop_size=N)
     elif algo_name == 'CSA':
         model = CSA.OriginalCSA(epoch=T, pop_size=N)
+    elif algo_name == 'WOA':
+        model = WOA.OriginalWOA(epoch=T, pop_size=N)
+    elif algo_name == 'SCSO':
+        model = SCSO.OriginalSCSO(epoch=T, pop_size=N)
     else:
         raise ValueError(f"Algorithm {algo_name} not supported or not available in mealpy.")
         
@@ -63,3 +51,43 @@ def run_algorithm(algo_name, image, obj_func, config):
     convergence = [-x for x in model.history.list_global_best_fit]
     
     return best_fitness, best_thresholds, convergence
+
+
+# --- Public Runners ---
+
+def run_algorithm(algo_name, image, obj_func, config):
+    """
+    PROD Runner: Uses configuration from Config object.
+    """
+    return _execute_mealpy(
+        algo_name, 
+        image, 
+        obj_func, 
+        config.N, 
+        config.T, 
+        config.DIM, 
+        config.LB, 
+        config.UB
+    )
+
+def run_algorithm_test(algo_name, image, obj_func, config):
+    """
+    TEST Runner: Uses hardcoded fast parameters for testing.
+    Ignores Config.N and Config.T, but respects DIM/LB/UB from context.
+    """
+    # Configuración Específica para Test (Rápida)
+    TEST_N = 10      # Población muy pequeña
+    TEST_T = 5       # Muy pocas iteraciones
+    
+    # print(f"  [TEST RUN] Algo: {algo_name} | N={TEST_N} | T={TEST_T}")
+    
+    return _execute_mealpy(
+        algo_name, 
+        image, 
+        obj_func, 
+        TEST_N, 
+        TEST_T, 
+        config.DIM, 
+        config.LB, 
+        config.UB
+    )

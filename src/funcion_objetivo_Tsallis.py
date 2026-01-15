@@ -21,6 +21,7 @@ def tsallis_objective_function(thresholds, image):
         
         if start >= end:
              S_regions.append(1e-8)
+             w_regions.append(0) # Keep w_regions aligned with S_regions
              continue
 
         p_region = histogram[start:end]
