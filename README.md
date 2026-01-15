@@ -120,5 +120,41 @@ pip install mealpy opencv-python numpy pandas openpyxl scipy matplotlib scikit-i
     El sistema procesa automáticamente cualquier imagen <code>.png</code>, <code>.jpg</code> o <code>.jpeg</code> ubicada en la carpeta <code>img/</code>.
 </p>
 
-</body>
-</html>
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+    <img src="img/92 (27).png" width="150" alt="92 (27)">
+    <img src="img/92 (29).png" width="150" alt="92 (29)">
+    <img src="img/94 (31).png" width="150" alt="94 (31)">
+    <img src="img/IM000001.png" width="150" alt="IM000001">
+    <img src="img/IM000003.png" width="150" alt="IM000003">
+    <img src="img/IM000004.png" width="150" alt="IM000004">
+    <img src="img/IM000016.png" width="150" alt="IM000016">
+    <img src="img/IM000017.png" width="150" alt="IM000017">
+    <img src="img/IM000018.png" width="150" alt="IM000018">
+    <img src="img/Te-gl_0028.png" width="150" alt="Te-gl_0028">
+    <img src="img/Te-gl_0072.png" width="150" alt="Te-gl_0072">
+    <img src="img/Te-gl_0241.png" width="150" alt="Te-gl_0241">
+    <img src="img/Te-gl_0277.png" width="150" alt="Te-gl_0277">
+    <img src="img/Te-me_0043.png" width="150" alt="Te-me_0043">
+    <img src="img/Te-me_0147.png" width="150" alt="Te-me_0147">
+    <img src="img/Te-me_0155.png" width="150" alt="Te-me_0155">
+    <img src="img/Te-me_0239.png" width="150" alt="Te-me_0239">
+    <img src="img/Te-piTr_0008.png" width="150" alt="Te-piTr_0008">
+    <img src="img/Te-pi_0025.png" width="150" alt="Te-pi_0025">
+    <img src="img/Te-pi_0242.png" width="150" alt="Te-pi_0242">
+</div>
+
+<hr>
+
+<h2>📊 Ejemplos de Resultados (Segmentación)</h2>
+<p>
+    A continuación se muestran ejemplos de las matrices de segmentación generadas automáticamente.
+</p>
+
+### Kapur (4 Dimensiones)
+<img src="collage/Matriz_Completa_Resultados_Kapur_4dim.png" width="800" alt="Resultados Kapur 4D">
+
+### Tsallis (4 Dimensiones)
+<img src="collage/Matriz_Completa_Resultados_Tsallis_4dim.png" width="800" alt="Resultados Tsallis 4D">
+
+### Otsu (4 Dimensiones)
+<img src="collage/Matriz_Completa_Resultados_Otsu_4dim.png" width="800" alt="Resultados Otsu 4D">
