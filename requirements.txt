@@ -1,0 +1,8 @@
+numpy
+matplotlib
+opencv-python
+scipy
+scikit-image
+requests
+pandas
+openpyxl
