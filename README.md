@@ -9,7 +9,7 @@
 <div align="center">
     <h1>🧬 Segmentación de Imágenes Médicas con Algoritmos Bio-inspirados 🧬</h1>
     <p>
-        <strong>Implementación de técnicas de umbralización multinivel (7, 8 y 9 dimensiones) utilizando funciones objetivo de Kapur, Otsu y Tsallis.</strong>
+        <strong>Implementación de técnicas de umbralización multinivel utilizando Mealpy.</strong>
     </p>
 </div>
 
@@ -17,122 +17,108 @@
 
 <h2>📖 Descripción del Proyecto</h2>
 <p>
-    Este proyecto explora la aplicación de algoritmos de optimización metaheurísticos (bio-inspirados) para resolver problemas de segmentación de imágenes médicas mediante umbralización multinivel. Se evalúa el rendimiento de diversos algoritmos en dimensiones altas (7, 8 y 9 umbrales) utilizando métricas de calidad como <strong>PSNR</strong>, <strong>SSIM</strong> y el análisis de <strong>convergencia</strong>.
+    Este proyecto automatiza la segmentación de imágenes médicas mediante algoritmos bio-inspirados de la librería <strong>Mealpy</strong>. Permite evaluar múltiples algoritmos, funciones objetivo (Kapur, Otsu, Tsallis) y dimensiones de umbralización, generando reportes detallados y visualizaciones comparativas.
 </p>
 
-<h3>🤖 Algoritmos Bio-inspirados Utilizados</h3>
+<h3>🤖 Algoritmos Bio-inspirados (Mealpy)</h3>
 <ul>
-    <li><strong>RSA</strong>: Reptile Search Algorithm</li>
+    <li><strong>TSO</strong>: Tuna Swarm Optimization</li>
     <li><strong>HBA</strong>: Honey Badger Algorithm</li>
-    <li><strong>OPA</strong>: Osprey Prediction Algorithm</li>
     <li><strong>BES</strong>: Bald Eagle Search</li>
     <li><strong>GWO</strong>: Grey Wolf Optimizer</li>
-    <li><strong>CSA</strong>: Crow Search Algorithm</li>
     <li><strong>HHO</strong>: Harris Hawks Optimization</li>
-    <li><strong>TSO</strong>: Tuna Swarm Optimization</li>
+    <li><strong>CSA</strong>: Crow Search Algorithm</li>
+    <li><strong>WOA</strong>: Whale Optimization Algorithm</li>
+    <li><strong>SCSO</strong>: Sand Cat Swarm Optimization</li>
+</ul>
+<p><em>Nota: Se utilizan WOA y SCSO en reemplazo de RSA y OPA por compatibilidad con la versión actual de Mealpy.</em></p>
+
+<hr>
+
+<h2>🚀 Instalación y Uso</h2>
+
+<h3>1. Prerrequisitos</h3>
+<p>Se recomienda usar <strong>Conda</strong> para gestionar el entorno virtual, especialmente para manejar dependencias de visión por computador y ciencia de datos.</p>
+
+<h4>Crear Entorno Virtual</h4>
+<pre><code># Crear entorno llamado 'ML' con Python 3.9+
+conda create -n ML python=3.10
+
+# Activar el entorno
+conda activate ML</code></pre>
+
+<h4>Instalar Dependencias</h4>
+<pre><code># Instalar librerías requeridas
+pip install mealpy opencv-python numpy pandas openpyxl scipy matplotlib scikit-image</code></pre>
+
+<h3>2. Configuración Personalizada</h3>
+<p>El archivo <code>src/configuracion.py</code> actúa como centro de control. Puedes editarlo para ajustar:</p>
+<ul>
+    <li><strong>Dimensiones</strong>: <code>DIMENSIONS_LIST = [5, 6, 7, 8, 9]</code></li>
+    <li><strong>Población e Iteraciones</strong>: Ajustar <code>N</code> y <code>T</code> según la potencia de cómputo.</li>
+    <li><strong>Funciones Objetivo</strong>: <code>['Kapur', 'Tsallis', 'Otsu']</code></li>
+</ul>
+
+<h3>3. Ejecución</h3>
+<p>El punto de entrada es <code>main.py</code>. Al ejecutarlo, se solicitará seleccionar el modo de operación:</p>
+
+<pre><code>python main.py</code></pre>
+
+<ul>
+    <li><strong>Opción 1: MODO TEST (Rápido)</strong>
+        <ul>
+            <li>Procesa solo las primeras 2 imágenes.</li>
+            <li>Dimensiones bajas (3D, 4D).</li>
+            <li>Pocas iteraciones y población reducida (ideal para verificar que todo funciona).</li>
+        </ul>
+    </li>
+    <li><strong>Opción 2: MODO PRODUCCIÓN (Completo)</strong>
+        <ul>
+            <li>Procesa todas las imágenes de la carpeta <code>img/</code>.</li>
+            <li>Ejecuta todas las dimensiones y configuraciones completas definidas en <code>src/configuracion.py</code>.</li>
+        </ul>
+    </li>
 </ul>
 
 <hr>
 
-<h2>⚙️ Funciones Objetivo</h2>
+<h2>� Estructura de Resultados</h2>
+<p>
+    Todos los resultados se guardan automáticamente en la carpeta <code>Resultados/</code>, dentro de una subcarpeta con marca de tiempo única (ej. <code>20250115_120000_PROD</code>).
+</p>
 
-<p>A continuación se detallan las implementaciones en Python de las funciones objetivo utilizadas para evaluar la calidad de la segmentación.</p>
-
-### 1. Entropía de Kapur
-
-La entropía de Kapur busca maximizar la entropía de las clases separadas por los umbrales. Para una imagen con $L$ niveles de gris y $k$ umbrales $[t_1, t_2, \dots, t_k]$, la función objetivo se define como:
-
-$$
-J(t_1, \dots, t_k) = \sum_{j=0}^{k} H_j
-$$
-
-Donde las entropías parciales $H_j$ se calculan como:
-
-$$
-H_j = -\sum_{i=t_j}^{t_{j+1}-1} \frac{p_i}{\omega_j} \ln \left( \frac{p_i}{\omega_j} \right)
-$$
-
-Con $\omega_j$ siendo la probabilidad acumulada de la clase $j$:
-
-$$
-\omega_j = \sum_{i=t_j}^{t_{j+1}-1} p_i
-$$
-
-### 2. Método de Otsu
-
-El método de Otsu busca maximizar la varianza entre clases ($\sigma_B^2$), lo que equivale a encontrar los umbrales que mejor separan las distribuciones de intensidad de los píxeles.
-
-$$
-\sigma_B^2(t_1, \dots, t_k) = \sum_{j=0}^{k} \omega_j (\mu_j - \mu_T)^2
-$$
-
-Donde:
-* $\omega_j$: Probabilidad acumulada de la clase $j$.
-* $\mu_j$: Media de intensidad de la clase $j$.
-* $\mu_T$: Media de intensidad global de la imagen.
-
-### 3. Entropía de Tsallis
-
-La entropía de Tsallis es una generalización de la entropía de Shannon para sistemas no extensivos. La función objetivo busca maximizar la entropía total del sistema particionado:
-
-$$
-S_q(t_1, \dots, t_k) = \sum_{j=0}^{k} S_q^j + (1-q) \sum_{j \neq l} S_q^j S_q^l + \dots
-$$
-
-Donde la entropía de cada clase $S_q^j$ se define por el parámetro entrópico $q$:
-
-$$
-S_q^j = \frac{1}{q-1} \left( 1 - \sum_{i \in C_j} \left( \frac{p_i}{\omega_j} \right)^q \right)
-$$
+<h3>Archivos Generados:</h3>
+<ol>
+    <li><strong>Excel por Dimensión</strong>: <code>Resultados_Kapur_7dim.xlsx</code> (Métricas detalladas por imagen y algoritmo).</li>
+    <li><strong>Numpy Arrays</strong>: Archivos <code>.npy</code> con los umbrales crudos y curvas de convergencia para análisis posterior.</li>
+    <li><strong>Visualización</strong>:
+        <ul>
+            <li>Carpeta <code>Visualizacion/</code> dentro de cada dimensión.</li>
+            <li>Contiene <em>collages</em> comparativos mostrando la imagen original junto a las segmentaciones logradas por cada algoritmo.</li>
+        </ul>
+    </li>
+    <li><strong>Consolidado</strong>: <code>Resultados_Consolidados.xlsx</code> en la raíz de la ejecución, uniendo toda la data de todas las funciones y dimensiones.</li>
+</ol>
 
 <hr>
 
-<h2>💾 Almacenamiento de Resultados</h2>
-<p>
-    El sistema guarda automáticamente los vectores de umbrales, métricas PSNR, SSIM y curvas de convergencia en carpetas organizadas por métrica y dimensión.
-</p>
+<h2>⚙️ Funciones Objetivo Implementadas</h2>
 
-<pre><code>import numpy as np
-import os
+<h3>1. Entropía de Kapur</h3>
+<p>Maximiza la entropía de las clases separadas por los umbrales.</p>
 
-# Create the folder "Metrica_8_bits_7_dim_otsu" if it doesn't exist
-os.makedirs(carpeta, exist_ok=True)
+<h3>2. Método de Otsu</h3>
+<p>Maximiza la varianza entre clases ($\sigma_B^2$) para separar distribuciones de intensidad.</p>
 
-# Save the arrays in the "Metrica_8_bits_7_dim_otsu" folder
-np.save(os.path.join(carpeta, 'RSA_vec.npy'), RSA_vec)
-np.save(os.path.join(carpeta, 'HBA_vec.npy'), HBA_vec)
-# ... (y así sucesivamente para todos los algoritmos y métricas)
-</code></pre>
+<h3>3. Entropía de Tsallis</h3>
+<p>Generalización de la entropía para sistemas no extensivos (parámetro $q$).</p>
 
 <hr>
 
-<h2>🖼️ Dataset de Imágenes Médicas</h2>
+<h2>🖼️ Dataset</h2>
 <p>
-    A continuación se muestra una galería de las imágenes médicas utilizadas para las pruebas de segmentación.
+    El sistema procesa automáticamente cualquier imagen <code>.png</code>, <code>.jpg</code> o <code>.jpeg</code> ubicada en la carpeta <code>img/</code>.
 </p>
-
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-    <img src="img/92 (27).png" width="150" alt="92 (27)">
-    <img src="img/92 (29).png" width="150" alt="92 (29)">
-    <img src="img/94 (31).png" width="150" alt="94 (31)">
-    <img src="img/IM000001.png" width="150" alt="IM000001">
-    <img src="img/IM000003.png" width="150" alt="IM000003">
-    <img src="img/IM000004.png" width="150" alt="IM000004">
-    <img src="img/IM000016.png" width="150" alt="IM000016">
-    <img src="img/IM000017.png" width="150" alt="IM000017">
-    <img src="img/IM000018.png" width="150" alt="IM000018">
-    <img src="img/Te-gl_0028.png" width="150" alt="Te-gl_0028">
-    <img src="img/Te-gl_0072.png" width="150" alt="Te-gl_0072">
-    <img src="img/Te-gl_0241.png" width="150" alt="Te-gl_0241">
-    <img src="img/Te-gl_0277.png" width="150" alt="Te-gl_0277">
-    <img src="img/Te-me_0043.png" width="150" alt="Te-me_0043">
-    <img src="img/Te-me_0147.png" width="150" alt="Te-me_0147">
-    <img src="img/Te-me_0155.png" width="150" alt="Te-me_0155">
-    <img src="img/Te-me_0239.png" width="150" alt="Te-me_0239">
-    <img src="img/Te-piTr_0008.png" width="150" alt="Te-piTr_0008">
-    <img src="img/Te-pi_0025.png" width="150" alt="Te-pi_0025">
-    <img src="img/Te-pi_0242.png" width="150" alt="Te-pi_0242">
-</div>
 
 </body>
 </html>
