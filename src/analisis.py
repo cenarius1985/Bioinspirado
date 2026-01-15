@@ -3,6 +3,7 @@ import numpy as np
 import pandas as pd
 import os
 import ast
+import re
 from src.configuracion import Config
 from src.utils import segment_image, generate_single_channel_image
 
@@ -75,8 +76,15 @@ def process_excel_results(excel_path, base_output_dir):
             thresholds_str = row[thresh_col]
             
             try:
+                # Limpiar string de tipos numpy si existen (ej. np.float64(0.5))
+                # Esto maneja casos donde el Excel guardó "np.float64(x)" en lugar de "x"
+                thresholds_str_clean = re.sub(r'np\.float\d+\((.*?)\)', r'\1', thresholds_str)
+                
                 # Convertir string "[1, 2, 3]" a lista [1, 2, 3]
-                thresholds = ast.literal_eval(thresholds_str)
+                thresholds = ast.literal_eval(thresholds_str_clean)
+                
+                # Asegurar que sean floats estándar
+                thresholds = [float(x) for x in thresholds]
                 
                 # Segmentar imagen original (usando grayscale para segmentación)
                 gray_img = cv2.cvtColor(original_img, cv2.COLOR_BGR2GRAY)

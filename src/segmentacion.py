@@ -45,9 +45,9 @@ def _execute_mealpy(algo_name, image, obj_func, N, T, dim, lb_val, ub_val):
         
     g_best = model.solve(problem_dict)
     
-    # Return results (Fitness negated back to positive, thresholds sorted)
+    # Return results (Fitness negated back to positive, thresholds sorted and converted to standard floats)
     best_fitness = -g_best.target.fitness
-    best_thresholds = sorted(g_best.solution)
+    best_thresholds = [float(x) for x in sorted(g_best.solution)]
     convergence = [-x for x in model.history.list_global_best_fit]
     
     return best_fitness, best_thresholds, convergence
