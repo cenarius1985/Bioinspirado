@@ -37,19 +37,18 @@
 
 <h2>🚀 Instalación y Uso</h2>
 
-<h3>1. Prerrequisitos</h3>
-<p>Se recomienda usar <strong>Conda</strong> para gestionar el entorno virtual, especialmente para manejar dependencias de visión por computador y ciencia de datos.</p>
+<h3>1. Prerrequisitos e Instalación</h3>
+<p>Se recomienda usar <strong>Conda</strong> para gestionar el entorno virtual y asegurar la compatibilidad de las librerías.</p>
 
-<h4>Crear Entorno Virtual</h4>
-<pre><code># Crear entorno llamado 'ML' con Python 3.9+
-conda create -n ML python=3.10
+<h4>Flujo de Instalación Completo</h4>
+<pre><code># 1. Crear entorno virtual (Python 3.10 recomendado)
+conda create -n ML python=3.10 -y
 
-# Activar el entorno
-conda activate ML</code></pre>
+# 2. Activar el entorno
+conda activate ML
 
-<h4>Instalar Dependencias</h4>
-<pre><code># Instalar librerías requeridas
-pip install mealpy opencv-python numpy pandas openpyxl scipy matplotlib scikit-image</code></pre>
+# 3. Instalar dependencias desde requirements.txt
+pip install -r requirements.txt</code></pre>
 
 <h3>2. Configuración Personalizada</h3>
 <p>El archivo <code>src/configuracion.py</code> actúa como centro de control. Puedes editarlo para ajustar:</p>
