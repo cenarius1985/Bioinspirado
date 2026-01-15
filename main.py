@@ -12,6 +12,7 @@ from src.funcion_objetivo_tsallis import tsallis_objective_function
 from src.funcion_objetivo_otsu import otsu_objective_function
 
 from src.analisis import run_visual_analysis
+from src.unir_resultado_excel import unir_resultados
 
 def get_user_mode_selection():
     print("\n--- SELECCIÓN DE MODO ---")
@@ -110,7 +111,7 @@ def main():
                 
                 # Loop Executions
                 for execution in range(Config.EJECUCIONES):
-                    # print(f"  Execution {execution + 1}/{Config.EJECUCIONES}", end='\r')
+                    print(f"  > Imagen {img_idx + 1}/{len(images_list)} | Ejecución {execution + 1}/{Config.EJECUCIONES}", end='\r')
                     
                     for algo in Config.ALGORITHMS:
                         # Run Algorithm
@@ -181,6 +182,9 @@ def main():
     
     # 2. Run Visual Analysis
     run_visual_analysis(Config.RUN_DIR)
+
+    # 3. Consolidar Resultados
+    unir_resultados(Config.RUN_DIR)
 
 if __name__ == "__main__":
     main()
