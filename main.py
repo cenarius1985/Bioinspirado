@@ -5,6 +5,7 @@ import pandas as pd
 from src.configuracion import Config
 from src.segmentacion import run_algorithm, run_algorithm_test
 from src.utils import calculate_psnr, calculate_ssim, generate_single_channel_image, segment_image
+from src.dicom_converter import ConvertidorDICOM, verificar_tipo_archivos
 
 # Import objective functions
 from src.funcion_objetivo_kapur import kapur_objective_function
@@ -40,6 +41,28 @@ def main():
     if not os.path.exists(Config.IMG_DIR):
         print(f"Error: Directory {Config.IMG_DIR} does not exist.")
         return
+
+    # --- NUEVA LÓGICA DICOM ---
+    # Verificar si hay archivos DICOM en la carpeta de imágenes
+    tiene_png, tiene_dicom, count_png, count_dicom = verificar_tipo_archivos(Config.IMG_DIR)
+    
+    if tiene_dicom:
+        print(f"\n{'='*50}")
+        print(f"DETECTADOS {count_dicom} ARCHIVOS DICOM")
+        print(f"{'='*50}")
+        print("Iniciando conversión automática a PNG de 16-bits...")
+        
+        # Inicializar convertidor apuntando a la MISMA carpeta de origen para dejar los PNG ahí
+        # Opcionalmente podríamos usar una subcarpeta, pero el usuario pidió "trabajar con todas las imagenes"
+        # y que el análisis pase por todas. Si las ponemos en la misma carpeta, el flujo normal las tomará.
+        convertidor = ConvertidorDICOM(Config.IMG_DIR, Config.IMG_DIR) 
+        
+        # Convertir todos los DICOM
+        nuevos_pngs = convertidor.convertir_carpeta_completa(conservar_metadatos=True)
+        
+        print(f"Conversión completada. Se generaron {len(nuevos_pngs)} nuevas imágenes PNG.")
+        print(f"{'='*50}\n")
+    # --------------------------
 
     images_list = [f for f in os.listdir(Config.IMG_DIR) if f.lower().endswith(('.png', '.jpg', '.jpeg'))]
     if not images_list:

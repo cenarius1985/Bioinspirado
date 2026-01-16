@@ -123,10 +123,26 @@ pip install -r requirements.txt</code></pre>
 
 <hr>
 
-<h2>🖼️ Dataset</h2>
+<h2>🖼️ Dataset y Soporte DICOM</h2>
 <p>
-    El sistema procesa automáticamente cualquier imagen <code>.png</code>, <code>.jpg</code> o <code>.jpeg</code> ubicada en la carpeta <code>img/</code>.
+    El sistema es capaz de procesar imágenes médicas en múltiples formatos ubicadas en la carpeta <code>img/</code>.
 </p>
+
+<h3>Formatos Soportados</h3>
+<ul>
+    <li><strong>Imágenes Estándar</strong>: <code>.png</code>, <code>.jpg</code>, <code>.jpeg</code>.</li>
+    <li><strong>Imágenes Médicas (DICOM)</strong>: <code>.dcm</code>.</li>
+</ul>
+
+<h3>🔄 Conversión Automática DICOM</h3>
+<p>
+    El sistema incluye un módulo de preprocesamiento inteligente que detecta archivos DICOM y los convierte automáticamente:
+</p>
+<ul>
+    <li><strong>Preservación de Calidad</strong>: Conversión a PNG de <strong>16-bits</strong> para mantener el rango dinámico completo de la imagen médica original.</li>
+    <li><strong>Metadatos</strong>: Se extrae información clave (TE, TR, espaciado de píxeles) y se guarda en archivos JSON adjuntos.</li>
+    <li><strong>Transparencia</strong>: Las imágenes convertidas se guardan en la misma carpeta y se integran automáticamente al flujo de segmentación sin intervención del usuario.</li>
+</ul>
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
     <img src="img/92 (27).png" width="150" alt="92 (27)">
