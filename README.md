@@ -81,7 +81,7 @@ pip install -r requirements.txt</code></pre>
 
 <hr>
 
-<h2>� Estructura de Resultados</h2>
+<h2>📂 Estructura de Resultados</h2>
 <p>
     Todos los resultados se guardan automáticamente en la carpeta <code>Resultados/</code>, dentro de una subcarpeta con marca de tiempo única (ej. <code>20250115_120000_PROD</code>).
 </p>
