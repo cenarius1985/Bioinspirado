@@ -104,13 +104,22 @@ pip install -r requirements.txt</code></pre>
 <h2>⚙️ Funciones Objetivo Implementadas</h2>
 
 <h3>1. Entropía de Kapur</h3>
-<p>Maximiza la entropía de las clases separadas por los umbrales.</p>
+<p>Maximiza la entropía de las clases separadas por los umbrales. Busca la mayor información contenida en la distribución del histograma.</p>
+<div align="center">
+    <img src="https://latex.codecogs.com/png.latex?\dpi{120}&space;H(T)&space;=&space;\sum_{j=0}^{k}&space;H_j,&space;\quad&space;H_j&space;=&space;-\sum_{i=t_j}^{t_{j+1}-1}&space;\frac{p_i}{\omega_j}&space;\ln&space;\left(&space;\frac{p_i}{\omega_j}&space;\right)" title="Formula Kapur" />
+</div>
 
 <h3>2. Método de Otsu</h3>
-<p>Maximiza la varianza entre clases ($\sigma_B^2$) para separar distribuciones de intensidad.</p>
+<p>Maximiza la varianza entre clases ($\sigma_B^2$) para separar distribuciones de intensidad, asumiendo que la imagen contiene dos clases de píxeles (fondo y primer plano) o múltiples clases en el caso multinivel.</p>
+<div align="center">
+    <img src="https://latex.codecogs.com/png.latex?\dpi{120}&space;\sigma_B^2&space;=&space;\sum_{j=0}^{k}&space;\omega_j&space;(\mu_j&space;-&space;\mu_T)^2" title="Formula Otsu" />
+</div>
 
 <h3>3. Entropía de Tsallis</h3>
-<p>Generalización de la entropía para sistemas no extensivos (parámetro $q$).</p>
+<p>Generalización de la entropía para sistemas no extensivos (parámetro $q$). Es especialmente útil para imágenes con estructuras complejas y dependencias de largo alcance.</p>
+<div align="center">
+    <img src="https://latex.codecogs.com/png.latex?\dpi{120}&space;S_q(T)&space;=&space;\frac{1&space;-&space;\sum_{i=1}^{n}&space;(p_i)^q}{q-1}" title="Formula Tsallis" />
+</div>
 
 <hr>
 
@@ -157,3 +166,46 @@ pip install -r requirements.txt</code></pre>
 
 ### Otsu (4 Dimensiones)
 <img src="collage/Matriz_Completa_Resultados_Otsu_4dim.png" width="800" alt="Resultados Otsu 4D">
+
+<hr>
+
+<h2>📚 Referencias y Recursos</h2>
+
+<h3>🔗 Recursos Adicionales</h3>
+<ul>
+    <li>
+        <strong>Figshare (Imágenes y Gráficos Complementarios):</strong><br>
+        <a href="https://doi.org/10.6084/m9.figshare.25709067" target="_blank">https://doi.org/10.6084/m9.figshare.25709067</a>
+    </li>
+</ul>
+
+<h3>📄 Artículos y Datos (BibTeX)</h3>
+<pre><code>@misc{Tasnia2023, 
+   author = {Noshin Tasnia}, 
+   title = {Brain Stroke Prediction CT Scan Image Dataset [Conjunto de datos]}, 
+   year = {2023}, 
+   publisher = {Kaggle}, 
+   howpublished = {\url{https://www.kaggle.com/datasets/noshintasnia/brain-stroke-prediction-ct-scan-image-dataset/data}}, 
+   note = {Accedido el 27 de abril de 2024} 
+} 
+
+@misc{TrainingDataPro2024, 
+   author = {{Training Data Pro}}, 
+   title = {DICOM Brain Dataset [Conjunto de datos]}, 
+   year = {2024}, 
+   publisher = {Kaggle}, 
+   howpublished = {\url{https://www.kaggle.com/datasets/trainingdatapro/dicom-brain-dataset}}, 
+   note = {Accedido el 27 de abril de 2024} 
+} 
+
+@misc{Nickparvar2024, 
+   author = {Masoud Nickparvar}, 
+   title = {Brain Tumor MRI Dataset [Conjunto de datos]}, 
+   year = {2024}, 
+   publisher = {Kaggle}, 
+   howpublished = {\url{https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset}}, 
+   note = {Accedido el 27 de abril de 2024} 
+}</code></pre>
+
+</body>
+</html>
